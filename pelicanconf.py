@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 
-AUTHOR = 'med vet Hannover'
-SITENAME = 'med vet'
+AUTHOR = 'Tierärzte Hannover'
+SITENAME = 'Tierärzte Hannover'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Berlin'
@@ -11,7 +11,7 @@ DEFAULT_DATE = 'fs'  # use filesystem date if not given in article
 USE_FOLDER_AS_CATEGORY = True
 
 THEME = './theme'
-BOOTSTRAP_THEME = 'united'  # from http://bootswatch.com/yeti
+BOOTSTRAP_THEME = 'readable'  # from http://bootswatch.com/yeti
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
@@ -31,7 +31,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 # Technical stuff ahead. You probably don't need to worry beyond this point.
 ###############################################################################
 
-OUTPUT_PATH = "html"
+OUTPUT_PATH = "../html"
 
 DISPLAY_CATEGORIES_ON_MENU = True
 
@@ -44,8 +44,7 @@ STATIC_PATHS = ['__downloads']
 # PAGE_PATHS = ['__pages']
 
 # The dir to process input files
-import os
-PATH = os.path.join(os.curdir, "content")
+PATH = '.'
 DEFAULT_PAGINATION = True
 
 # We don't need a page listing the different authors
@@ -56,17 +55,12 @@ RELATIVE_URLS = True  # Note: gets overwritten in production setup!
 
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
-# PLUGIN_PATHS = ['./plugins']
-# PLUGINS = []
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['hierarchy']
 # PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 #            'liquid_tags.youtube', 'liquid_tags.include_code',
 #            'liquid_tags.notebook',
 #            'hierarchy']
-
-# Needed for inclusion of IPython notebooks
-# See <https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags>
-# if os.path.exists('_nb_header.html'):
-#     EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
