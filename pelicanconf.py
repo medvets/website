@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 
-AUTHOR = 'Tierärzte Hannover'
-SITENAME = 'Tierärzte Hannover'
+AUTHOR = 'Tierärzte Schaumburger Land'
+SITENAME = 'Tierärzte Schaumburger Land'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Berlin'
@@ -11,7 +11,7 @@ DEFAULT_DATE = 'fs'  # use filesystem date if not given in article
 USE_FOLDER_AS_CATEGORY = True
 
 THEME = './theme'
-BOOTSTRAP_THEME = 'readable'  # from http://bootswatch.com/yeti
+BOOTSTRAP_THEME = 'superhero'  # from http://bootswatch.com/yeti
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
@@ -19,12 +19,7 @@ BOOTSTRAP_THEME = 'readable'  # from http://bootswatch.com/yeti
 # Links to external partners
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
-
-# Social stuff?
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
 
 
 ###############################################################################
@@ -34,6 +29,10 @@ SOCIAL = (('You can add links in your config file', '#'),
 OUTPUT_PATH = "../html"
 
 DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_TAGS_ON_SIDEBAR = False
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+SOCIAL = None
 
 DEFAULT_CATEGORY = "news"
 
@@ -41,7 +40,7 @@ DEFAULT_CATEGORY = "news"
 STATIC_PATHS = ['__downloads']
 
 # The name of the dir containing the static pages to put into the menu
-# PAGE_PATHS = ['__pages']
+# PAGE_PATHS = ['pages']
 
 # The dir to process input files
 PATH = '.'
@@ -55,7 +54,7 @@ RELATIVE_URLS = True  # Note: gets overwritten in production setup!
 
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
-PLUGIN_PATHS = ['./plugins']
+PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['hierarchy']
 # PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 #            'liquid_tags.youtube', 'liquid_tags.include_code',
