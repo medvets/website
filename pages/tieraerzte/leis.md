@@ -23,7 +23,4 @@ Adresse:
     Beekefeld 6
     31559 Haste
 
-
-<div class="dropshadow">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19487.174704949863!2d9.404647213891595!3d52.372290566572666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b07ed8f57f356b%3A0xf4df7d024441dc8b!2sBeekefeld+6%2C+31559+Haste!5e0!3m2!1sde!2sde!4v1415096656429" width="400" height="300" frameborder="0" style="border:0"></iframe>
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38972.59229317598!2d9.386708599999999!3d52.374281799999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4165399cca5d60c1%3A0x598be60da031097a!2sTierarztpraxis+Leis!5e0!3m2!1sde!2sde!4v1415097777834" width="400" height="300" frameborder="0" style="border:0"></iframe>
