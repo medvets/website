@@ -1,6 +1,6 @@
 title: Aktueller Notdienst
 
-Der Notdienst gilt immer für das Wochenende in der laufenden Kalenderwoche.
+Der Notdienst gilt immer für den Feiertag bzw. das Wochenende in der laufenden Kalenderwoche.
 
 
 Praxis Kitty Wash <small>(4. Aug. 2014, 8. Aug. 2014)</small>
