@@ -1,5 +1,6 @@
 title: Aktueller Notdienst
 
+Der Notdienst gilt immer für das Wochenende in der laufenden Kalenderwoche.
 
 
 Praxis Kitty Wash <small>(4. Aug. 2014, 8. Aug. 2014)</small>
@@ -13,7 +14,7 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-Praxis Leis <small>(09.08.2014, 10.08.2014, 24.12.2014, 31.12.2014 - 01.01.2015, 01. Aug. 2014 - 10.08.2014)</small>
+Praxis Leis <small>(01.11.2014-07.11.2014, 24.12.2014, 31.12.2014 - 01.01.2015, 01. Aug. 2014 - 10.08.2014)</small>
 -------------------------------------------------------------
 
 Adresse
