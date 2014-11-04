@@ -18,8 +18,8 @@ Adresse:
 
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 10-12 | 10-12 | *     | 10-12 |  *    | [siehe Notdienst](../notdienst.html) |
-| 16-19 | 16-19 | 16-19 | 16-19 | 16-19 | [siehe Notdienst](../notdienst.html) |
+| 10-12 | 10-12 | *     | 10-12 |  *    | siehe [aktueller Notdienst](../notdienst.html) |
+| 16-19 | 16-19 | 16-19 | 16-19 | 16-19 | siehe [aktueller Notdienst](../notdienst.html) |
 
 *) OP-Sprechstunde und nach Vereinbarung
 
