@@ -1,10 +1,12 @@
-title: Kleintierarztpraxis Viktor Leis
+title: Kleintierarztpraxis Dr. Finkbeiner
 
-Telefon: 05723 / 98 12 78
+Dr. Beate Finkbeiner
+Volksdorf 17
+31715 Meerbeck
 
-Fax: 05723 / 98 19 52
+Telefon: 05721 / 93 33 699
 
-E-Mail: praxis-leis (ät) web.de
+www.tierarztpraxis-meerbeck.de
 
 
 
