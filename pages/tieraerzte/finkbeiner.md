@@ -25,12 +25,10 @@ Fr
 Sa+So
 
 
-10-12 10-12 * 10-12 * siehe Notdienst 
-16-19 16-19 16-19 16-19 16-19 siehe Notdienst 
+10-12 10-12 10-12 10-12 10-12 Sa: 10-12; So: siehe Notdienst 
+16-18:30 16-18:30 16-18:30 16-18:30 16-18:30 siehe Notdienst 
 
 *) OP-Sprechstunde und nach Vereinbarung
 
 
 
-Adresse:Beekefeld 6
-31559 Haste
