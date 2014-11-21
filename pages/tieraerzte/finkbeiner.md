@@ -1,34 +1,23 @@
-title: Kleintierarztpraxis Dr. Finkbeiner
+title: Kleintierpraxis Dr. Finkbeiner
 
-Dr. Beate Finkbeiner
-Volksdorf 17
-31715 Meerbeck
+**Telefon**:   05723 / 93 33 699
 
-Telefon: 05721 / 93 33 699
-
-www.tierarztpraxis-meerbeck.de
-
+**webside**: tierartzpraxis-meerbeck.de
 
 
 Öffnungszeiten:
+---------------
 
-Mo
-
-Di
-
-Mi
-
-Do
-
-Fr
-
-Sa+So
+|  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                                     |
+| ----- | ----- | ----- | ----- | ----- | ------------------------------------                |
+| 10-12 | 10-12 | 10-12 | 10-12 | 10-12 | Sa: 10-12; So: [siehe Notdienst](../notdienst.html) |
+| 16-19 | 16-19 | 16-19 | 16-19 | 16-19 | [siehe Notdienst](../notdienst.html)                |
 
 
-10-12 10-12 10-12 10-12 10-12 Sa: 10-12; So: siehe Notdienst 
-16-18:30 16-18:30 16-18:30 16-18:30 16-18:30 siehe Notdienst 
+Adresse:
+---------
 
-*) OP-Sprechstunde und nach Vereinbarung
+    Volksdorf 17
+    31715 Meerbeck
 
-
-
+https://www.google.de/maps/place/Finkbeiner+B.+Dr./@52.3403775,9.122446,17z/data=!4m9!1m6!2m5!1sVolksdorf+17,+31715+Meerbeck!3m3!1sVolksdorf+17,+31715+Meerbeck!2sVolksdorf+17,+31715+Meerbeck!3s0x47ba789a98b754cd:0x54a14bef2e9ab369!3m1!1s0x47ba789a98b754cd:0xd24dc78fa0bf9722
