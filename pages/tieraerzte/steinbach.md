@@ -1,7 +1,7 @@
 title: Tierärztliche Praxis für Kleintiere
 
 Inhaber: Dr. Gudrun Steinbach & Dr. Ralf Heidemann
-Zusatzbezeichnung: Augenheilkunde
+  Zusatzbezeichnung: Augenheilkunde
 
 **Telefon**:   05723 / 91 77 77
 
