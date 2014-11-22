@@ -21,5 +21,5 @@ Adresse:
 ---------
 
    Grüner Weg 12
-    31675 Bückeburg
+   31675 Bückeburg
 
