@@ -17,9 +17,11 @@ Inhaber: Dipl. Biol. Dr. phil. nat. Dr. med. vet. Friedrich-Wilhelm Schmöe
 
 *) nach Vereinbarung
 
-Adresse:
+
+   
+   Adresse:
 ---------
 
-   Grüner Weg 12
-   31675 Bückeburg
+    Grüner Weg 12
+    31675 Bückeburg
 
