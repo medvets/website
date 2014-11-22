@@ -24,4 +24,7 @@ Adresse:
 
      Dühlfeld 26
      31559 Stadthagen
+     
+
+https://www.google.de/maps/place/Tierarztpraxis+Eberhard+Anton/@52.3901592,9.2749564,12z/data=!4m2!3m1!1s0x41653bd3929a0d19:0x361e1cb81a586c73
 
