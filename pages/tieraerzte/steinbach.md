@@ -6,7 +6,7 @@ Zusatzbezeichnung: Augenheilkunde
 
 **Telefon**:   05723 / 91 77 77
 
-**webside**: www.kleintierpraxis-rodenberg.de
+**homepage**: www.kleintierpraxis-rodenberg.de
 
 
 Öffnungszeiten:
