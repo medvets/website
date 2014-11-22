@@ -23,4 +23,5 @@ Adresse:
    
    31749 Auetal-Rolfshagen
 
-https://www.google.de/maps/place/Dr.+med.+vet.+Norbert+Bachmann/@52.235702,9.152166,14z/data=!4m2!3m1!1s0x47ba7c6961c8e20f:0x19093ca6a53ac449
+
+<iframe src="https://www.google.de/maps/place/Dr.+med.+vet.+Norbert+Bachmann/@52.235702,9.152166,14z/data=!4m2!3m1!1s0x47ba7c6961c8e20f:0x19093ca6a53ac449" width="400" height="300" frameborder="0" style="border:0"></iframe>
