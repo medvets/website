@@ -17,10 +17,7 @@ BOOTSTRAP_THEME = 'superhero'  # from http://bootswatch.com/yeti
 # MENUITEMS = [('foo', 'http://foo.org')]
 
 # Links to external partners
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
-
+LINKS = []
 
 ###############################################################################
 # Technical stuff ahead. You probably don't need to worry beyond this point.
@@ -34,10 +31,10 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 SOCIAL = None
 
-DEFAULT_CATEGORY = "news"
+DEFAULT_CATEGORY = "Neues"
 
 # Always copy these to output, so they get uploaded.
-STATIC_PATHS = ['__downloads']
+STATIC_PATHS = ['images', '__downloads', 'custom-css/medvets.css']
 
 # The name of the dir containing the static pages to put into the menu
 # PAGE_PATHS = ['pages']
@@ -52,14 +49,19 @@ AUTHORS_SAVE_AS = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True  # Note: gets overwritten in production setup!
 
+# Tell Pelican to change the path to 'static/custom.css' in the output dir
+EXTRA_PATH_METADATA = {
+    'custom-css/medvets.css': {'path': 'static/medvets.css'}
+}
+CUSTOM_CSS = 'static/medvets.css'
+
+SITELOGO = 'images/vetmed_logo.svg'
+SITELOGO_SIZE = '25em'
+
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
 PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['hierarchy']
-# PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
-#            'liquid_tags.youtube', 'liquid_tags.include_code',
-#            'liquid_tags.notebook',
-#            'hierarchy']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -79,4 +81,5 @@ TRANSLATION_FEED_ATOM = None
 # not if the next chars are `-en` or `-de`.
 # Use http://www.pyregex.com to test this Regex.
 # FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>((?!-(en|de)).)+))(-(?P<lang>(en|de)))?'
-FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>((?!-(en|de)).)+))(-(en|de))?'
+FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>.+))?'
+# FILENAME_METADATA = r'(?P<order>[0-9]*(_|-| ))?(?P<slug>(?P<title>))'
