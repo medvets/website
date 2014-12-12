@@ -42,7 +42,7 @@ STATIC_PATHS = ['images', '__downloads', 'custom-css/medvets.css']
 # PAGE_PATHS = ['pages']
 
 # The dir to process input files
-PATH = 'website'
+PATH = '../website'
 DEFAULT_PAGINATION = True
 
 # We don't need a page listing the different authors
