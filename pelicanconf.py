@@ -58,7 +58,7 @@ EXTRA_PATH_METADATA = {
 CUSTOM_CSS = 'static/medvets.css'
 
 SITELOGO = 'images/vetmed_logo.svg'
-SITELOGO_SIZE = '25em'
+SITELOGO_SIZE = '25 em'
 
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
