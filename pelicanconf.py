@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Tierärzte Schaumburger Land'
 SITENAME = 'Tierärzte Schaumburger Land'
 SITEURL = ''
+CC_LICENSE = 'CC-BY'
 
 TIMEZONE = 'Europe/Berlin'
 
