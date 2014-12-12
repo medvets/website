@@ -13,6 +13,7 @@ USE_FOLDER_AS_CATEGORY = True
 
 THEME = './theme'
 BOOTSTRAP_NAVBAR_INVERSE = False
+HIDE_SIDEBAR = True
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
