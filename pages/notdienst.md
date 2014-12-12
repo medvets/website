@@ -2,11 +2,13 @@ title: Aktueller Notdienst
 
 Der Notdienst gilt immer für den Feiertag bzw. das Wochenende in der laufenden Kalenderwoche.
 Die Notdienstzeit beginnen am Wochenende am Freitag um 18 Uhr und endet am Montag um 9 Uhr.
-An Feiertagen gebinnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
+An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
 
 
 Praxis Finkbeiner <small>(31.12.2014-01.01.2015, 26.01.2015-01.02.2015, 16.03.2015-22.03.2015, 20.04.2015-26.04.2015, 14.05.2015, 18.05.2015-24.05.2015, 15.06.2015-21.05.2015, 27.07.2015-02.08.2015, 14.09.2015-20.08.2015, 19.10.2015-25.10.2015, 12.12.2015, 14.12.2015-20.12.2015)</small>
 -----------------------------------------------------------
+
+[Mehr informationen über die Praxis](tieraerzte/arzt2.html)
 
 Praxis Leis <small>(25.12.2014-26.12.2014, 19.01.2015-25.01.2015,09.03.2015-15.03.2015, 27.04.2015-03.05.2015, 25.05.2015-31.05.2015, 13.07.2015-19.07.2015, 17.08.2015-23.08.2015, 21.09.2015-27.09.2015, 26.10.2015-01.11.2015, 30.11.2015-06.12.2015)</small>
 -------------------------------------------------------------
