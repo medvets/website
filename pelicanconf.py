@@ -12,7 +12,7 @@ DEFAULT_DATE = 'fs'  # use filesystem date if not given in article
 USE_FOLDER_AS_CATEGORY = True
 
 THEME = './theme'
-BOOTSTRAP_THEME = 'superhero'  # from http://bootswatch.com/yeti
+BOOTSTRAP_NAVBAR_INVERSE = False
 
 # Some hand-crafted entries (links) in the main menu
 # MENUITEMS = [('foo', 'http://foo.org')]
