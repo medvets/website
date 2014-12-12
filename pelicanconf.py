@@ -11,7 +11,7 @@ DEFAULT_LANG = 'de'
 DEFAULT_DATE = 'fs'  # use filesystem date if not given in article
 USE_FOLDER_AS_CATEGORY = True
 
-THEME = './theme'
+THEME = 'medvets-theme'
 BOOTSTRAP_NAVBAR_INVERSE = False
 HIDE_SIDEBAR = True
 
@@ -62,7 +62,7 @@ SITELOGO_SIZE = '25 em'
 
 # The plugins to load
 # Note, `hierarchy` is our own plugin for hierachic static pages.
-PLUGIN_PATHS = ['../plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['hierarchy']
 
 # Feed generation is usually not desired when developing
