@@ -50,17 +50,19 @@ Der nachfolgende JavaScript-Code wird nach dem Laden dieser Seite auf dem
 Computer des Nutzers ausgeführt und zeigt den jeweils gültigen Notdienst an
 und versteckt die restlichen Inhalte, wenn das Datum nicht passt.
 Die Zeiträume werden in Klammern in den Überschriften der ersten beiden
-Stufen angegeben (also z.B. `# Text (23.04.2014, 01.05.2014)`).
+Stufen angegeben (also z.B. `# Überschrift (23.04.2014, 01.05.2014)`).
 Mehrere Datumsangaben werden durch Komma getrennt. Es ist auch möglich
 Zeiträume anzugeben, wobei ein Bindestrich das Start- vom End-Datum
-abgrenzt. Beispiel `# Text (23.04.2014 - 25.04.2014)`.
+abgrenzt. Beispiel `# Überschrift (23.04.2014 - 25.04.2014)`.
+
 (C) 2014, Samuel John (www.samueljohn.de)
-Release under MIT license version.
+Released under MIT license.
 -->
+
 <script src="moment.js"></script>
 <script>
 
-// Find html nodes on the same level after elem, up to but excluding the
+// Find html nodes on the same level after `elem`, up to but excluding the
 // next element in the array `stop_tags`
 function siblings_up_to (elem, stop_tags) {
     var content = [];
@@ -75,8 +77,9 @@ function parse_date (text) {
     return moment(text, ["DD.MM.YYYY", "DD. MMM YYYY"], "de");
 }
 
+// Return a list of pairs of moment.js objects `[ ...,[start, end],...]`
 function extract_dates (text) {
-    // Return a list of pairs of moment.js objects `[ ...,[start, end],...]`
+    // list to hold the dates
     var dates = [];
     var find_text_in_last_brackets_regex = /^.*\((.*)\)$/gm;
     var text_in_last_brackets = find_text_in_last_brackets_regex.exec(text);
@@ -136,6 +139,7 @@ function now_in_date_ranges ( date_ranges ) {
     return false;
 }
 
+// Search for h2 headings and hide them (with all the siblings)
 function seek_and_hide () {
     var h2_headings = document.getElementById("content").getElementsByTagName("H2");
     console.log("seek and hide...");
@@ -146,7 +150,6 @@ function seek_and_hide () {
         var heading = h2_headings[i];
         console.log("Processing " + heading.textContent);
         if (! now_in_date_ranges(extract_dates(heading.textContent))) {
-            console.log(siblings_up_to(heading, ["H2", "H1"]));
             siblings_up_to(heading, ["H2", "H1"]).forEach( function (el) {
                 el.style.display = "None";
             });
@@ -155,5 +158,6 @@ function seek_and_hide () {
     }
 }
 
-seek_and_hide();  // run this shit
+// run this shit
+seek_and_hide();
 </script>
