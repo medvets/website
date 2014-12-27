@@ -21,19 +21,23 @@ HIDE_SIDEBAR = True
 # Links to external partners
 LINKS = []
 
+DISPLAY_CATEGORIES_ON_MENU = True
+DEFAULT_CATEGORY = "Neues"
+
+DISPLAY_TAGS_ON_SIDEBAR = False
+
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
+
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+
+SOCIAL = None
+
+
 ###############################################################################
 # Technical stuff ahead. You probably don't need to worry beyond this point.
 ###############################################################################
 
-OUTPUT_PATH = "../html"
-
-DISPLAY_CATEGORIES_ON_MENU = True
-DISPLAY_TAGS_ON_SIDEBAR = False
-DISPLAY_CATEGORIES_ON_SIDEBAR = False
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
-SOCIAL = None
-
-DEFAULT_CATEGORY = "Neues"
+OUTPUT_PATH = "../html"  # relative to the pelicanconf.py file
 
 # Always copy these to output, so they get uploaded.
 STATIC_PATHS = ['images', '__downloads', 'custom-css/medvets.css']
@@ -41,8 +45,9 @@ STATIC_PATHS = ['images', '__downloads', 'custom-css/medvets.css']
 # The name of the dir containing the static pages to put into the menu
 # PAGE_PATHS = ['pages']
 
-# The dir to process input files
+# The dir to process input files (relative to pelicanconf.py)
 PATH = '.'
+
 DEFAULT_PAGINATION = True
 
 # We don't need a page listing the different authors
