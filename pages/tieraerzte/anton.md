@@ -1,4 +1,4 @@
-title: Tierärztliche Praxis für Kleintiere
+title: Kleintierpraxis Anton
 
 Inhaber: Eberhard Anton
 
