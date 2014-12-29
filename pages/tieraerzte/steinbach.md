@@ -1,4 +1,4 @@
-title: Tierärztliche Praxis für Kleintiere
+title: Kleintierpraxis Rodenberg
 
 Inhaber: Dr. Gudrun Steinbach & Dr. Ralf Heidemann
 
