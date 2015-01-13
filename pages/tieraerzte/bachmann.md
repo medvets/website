@@ -14,7 +14,7 @@ title: Dr. med vet. Norbert Bachmann
 | 10:00-11:00 |             |             |10:00-11:00  |    -----    | [siehe Notdienst](../notdienst.html) |
 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | [siehe Notdienst](../notdienst.html) |
 
-und nach Vereinbarung
+
 
 Adresse:
 ---------
