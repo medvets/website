@@ -6,12 +6,12 @@ title: Dr. med vet. Norbert Bachmann
  
 **Website**: <www.docbachmann.de>
 
-Öffnungszeiten:
+Öffnungszeiten und nach telefonischer Vereinbarung:
 ---------------
 
 |  Mo         |  Di         |  Mi         |  Do         |  Fr         |           Sa+So                      |
 | -----       | -----       | -----       | -----       | -----       | ------------------------------------ |
-|   10-11     |   10-11     |   10-11     |   10-11     |    -----    | [siehe Notdienst](../notdienst.html) |
+| 10:00-11:00 |             |             |1000-1100    |    -----    | [siehe Notdienst](../notdienst.html) |
 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | [siehe Notdienst](../notdienst.html) |
 
 und nach Vereinbarung
