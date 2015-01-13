@@ -11,7 +11,7 @@ title: Dr. med vet. Norbert Bachmann
 
 |  Mo         |  Di         |  Mi         |  Do         |  Fr         |           Sa+So                      |
 | -----       | -----       | -----       | -----       | -----       | ------------------------------------ |
-| 10:00-11:00 |             |             |1000-1100    |    -----    | [siehe Notdienst](../notdienst.html) |
+| 10:00-11:00 |             |             |10:00-11:00  |    -----    | [siehe Notdienst](../notdienst.html) |
 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | [siehe Notdienst](../notdienst.html) |
 
 und nach Vereinbarung
