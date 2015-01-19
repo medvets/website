@@ -12,15 +12,15 @@ Inhaberin: Ulrike Welge, Prakt. Tierärztin
 
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 10-11 | 10-11 | --    | 10-11 | 10-11 | [siehe Notdienst](../notdienst.html) |
+| 10-11 | 10-11 | 10-11    | 10-11 | 10-11 | [siehe Notdienst](../notdienst.html) |
 | 18-19 | 18-19 | --    | 18-19 | 18-19 | [siehe Notdienst](../notdienst.html) |
 
-Terminsprechstunde: ganztägig, Operationen und Hausbesuche, auch Samstags, nach Absprache
+Terminsprechstunde: ganztägig, Operationen und Hausbesuche, auch samstags, nach Absprache
 
 Adresse:
 ---------
 
-    Brandsdorfer Weg 8
+    Brandshofer Weg 8
     31655 Stadthagen
 
 
