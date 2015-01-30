@@ -9,10 +9,26 @@ Nachfolgend werden die Praxen, welche heute Notdienst haben angezeigt (falls heu
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
 
-[Praxis Finkbeiner](tieraerzte/finkbeiner.html) <small>(31.12.2014-01.01.2015, 31.01.2015-01.02.2015, 21.03.2015-22.03.2015, 25.04.2015-26.04.2015, 14.05.2015, 23.05.2015-24.05.2015, 20.06.2015-21.05.2015, 01.08.2015-02.08.2015, 19.09.2015-20.09.2015, 24.10.2015-25.10.2015, 12.12.2015, 19.12.2015-20.12.2015)</small>
+
+[Praxis Finkbeiner](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
+- 31.12.2014-01.01.2015
+- 31.01.2015-01.02.2015
+- 21.03.2015-22.03.2015
+- 25.04.2015-26.04.2015
+- 14.05.2015
+- 23.05.2015-24.05.2015
+- 20.06.2015-21.05.2015
+- 01.08.2015-02.08.2015
+- 19.09.2015-20.09.2015
+- 24.10.2015-25.10.2015
+- 12.12.2015
+- 19.12.2015-20.12.2015)
+
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
+
+
 
 [Praxis Leis](tieraerzte/leis.html) <small>(25.12.2014-26.12.2014, 24.01.2015-25.01.2015,14.03.2015-15.03.2015, 02.05.2015-03.05.2015, 30.05.2015-31.05.2015, 18.07.2015-19.07.2015, 22.08.2015-23.08.2015, 26.09.2015-27.09.2015, 30.10.2015-01.11.2015, 05.12.2015-06.12.2015)</small>
 -------------------------------------------------------------
