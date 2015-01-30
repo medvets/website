@@ -30,38 +30,92 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 
 
-[Praxis Leis](tieraerzte/leis.html) <small>(25.12.2014-26.12.2014, 24.01.2015-25.01.2015,14.03.2015-15.03.2015, 02.05.2015-03.05.2015, 30.05.2015-31.05.2015, 18.07.2015-19.07.2015, 22.08.2015-23.08.2015, 26.09.2015-27.09.2015, 30.10.2015-01.11.2015, 05.12.2015-06.12.2015)</small>
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
+
+- 25.12.2014-26.12.2014
+- 24.01.2015-25.01.2015
+- 14.03.2015-15.03.2015
+- 02.05.2015-03.05.2015
+- 30.05.2015-31.05.2015
+- 18.07.2015-19.07.2015
+- 22.08.2015-23.08.2015
+- 26.09.2015-27.09.2015
+- 30.10.2015-01.11.2015
+- 05.12.2015-06.12.2015
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
 
-[Praxis Anton](tieraerzte/anton.html) <small>(24.12.2014, 03.01.2015-04.01.2015, 21.02.2015-22.02.2015, 18.04.2015-19.04.2015, 16.05.2015-17.05.2015, 06.06.2015-07.06.2015, 25.07.2015-26.07.2015, 12.09.2015-13.09.2015, 10.10.2015-11.10.2015, 28.11.2015-29.11.2015, 26.12.2015-27.12.2015)</small>
+[Praxis Anton](tieraerzte/anton.html)
 -------------------------------------------------------------
+
+- 24.12.2014
+- 03.01.2015-04.01.2015
+- 21.02.2015-22.02.2015
+- 18.04.2015-19.04.2015
+- 16.05.2015-17.05.2015
+- 06.06.2015-07.06.2015
+- 25.07.2015-26.07.2015
+- 12.09.2015-13.09.2015
+- 10.10.2015-11.10.2015
+- 28.11.2015-29.11.2015
+- 26.12.2015-27.12.2015
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
 
-[Praxis Wolandowitsch](tieraerzte/wolandowitsch.html) <small>(10.01.2015-11.01.2015,07.03.2015-08.03.2015, 05.04.2015-06.04.2015, 01.05.2015, 25.05.2015, 27.06.2015-28.06.2015, 15.08.2015-16.08.2015, 03.10.2015-04.10.2015, 13.12.2015, 31.12.2015)</small>
+[Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
 -------------------------------------------------------------
+
+- 10.01.2015-11.01.2015
+- 07.03.2015-08.03.2015
+- 05.04.2015-06.04.2015
+- 01.05.2015
+- 25.05.2015
+- 27.06.2015-28.06.2015
+- 15.08.2015-16.08.2015
+- 03.10.2015-04.10.2015
+- 13.12.2015
+- 31.12.2015
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
 
-[Praxis von Götz](tieraerzte/von-goetz.html) <small>(17.01.2015-18.01.2015, 09.05.2015-10.05.2015, 11.07.2015-12.07.2015 )</small>
+[Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
+
+- 17.01.2015-18.01.2015
+- 09.05.2015-10.05.2015
+- 11.07.2015-12.07.2015
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
 
 
-[Praxis Bachmann](tieraerzte/bachmann.html) <small>(27.12.2014-28.12.2014, 07.02.2015-08.02.2015, 28.02.2015-01.03.2015, 28.03.2015-29.03.2015,11.04.2015-12.04.2015, 04.07.2015-05.07.2015, 08.08.2015-09.08.2015, 05.09.2015-06.09.2015, 17.10.2015-18.10.2015, 21.11.2015-22.11.2015, 24.12.2015-25.12.2015)</small>
+[Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
+- 27.12.2014-28.12.2014
+- 07.02.2015-08.02.2015
+- 28.02.2015-01.03.2015
+- 28.03.2015-29.03.2015
+- 11.04.2015-12.04.2015
+- 04.07.2015-05.07.2015
+- 08.08.2015-09.08.2015
+- 05.09.2015-06.09.2015
+- 17.10.2015-18.10.2015
+- 21.11.2015-22.11.2015
+- 24.12.2015-25.12.2015
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
 
-[Praxis Schmöe](tieraerzte/schmoe.html) <small>(14.02.2015-15.02.2015, 03.04.2015-04.04.2015, 13.06.2015-14.06.2015, 29.08.2015-30.08.2015, 07.11.2015-08.11.2015)</small>
+[Praxis Schmöe](tieraerzte/schmoe.html)
 -------------------------------------------------------------
+- 14.02.2015-15.02.2015
+- 03.04.2015-04.04.2015
+- 13.06.2015-14.06.2015
+- 29.08.2015-30.08.2015
+- 07.11.2015-08.11.2015
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
@@ -118,7 +172,7 @@ function extract_dates (text) {
     // list to hold the dates
     var dates = [];
     // regular expression to extract the text in the last pair of brackets
-    var find_text_in_last_brackets_regex = /^.*\((.*)\)$/gm;
+    var find_text_in_last_brackets_regex = /^(.*)$/gm;
     var text_in_last_brackets = find_text_in_last_brackets_regex.exec(text);
     // console.log("regex matching: ", text_in_last_brackets);
     if (text_in_last_brackets && text_in_last_brackets.length > 1) {
@@ -199,13 +253,32 @@ function seek_and_hide () {
         console.log("----------------- ", i );
         var heading = h2_headings[i];
         console.log("Processing " + heading.textContent);
-        heading.classList.add("seek_and_hide");
-        if (! now_in_date_ranges(extract_dates(heading.textContent), duration_before, duration_after)) {
-            siblings_up_to(heading, ["H2", "H1"]).forEach( function (el) {
-                el.display_orig = el.style.display;
-                el.style.display = "none";
-                el.classList.add("hidden_notdienst");
-            });
+        var follow = heading.nextElementSibling;
+        var date_ranges_txt = "";
+        if (follow && follow.tagName == "UL") {
+            console.log("UL list after heading.");
+            var lis = follow.children;
+            var j = 0;
+            for (; j < lis.length; j++) {
+                date_ranges_txt += lis[j].textContent + ", ";
+                if (! now_in_date_ranges(extract_dates(lis[j].textContent), duration_before, duration_after)) {
+                    // hide
+                    lis[j].display_orig = lis[j].style.display;
+                    lis[j].style.display = "none";
+                    lis[j].classList.add("hidden_notdienst");
+                } else {
+                    // show this h2
+                    console.log("match found!");
+                }
+            }
+            if( ! now_in_date_ranges(extract_dates(date_ranges_txt), duration_before, duration_after)) {
+                siblings_up_to(heading, ["H2", "H1"]).forEach( function (el) {
+                    el.display_orig = el.style.display;
+                    el.style.display = "none";
+                    el.classList.add("hidden_notdienst");
+                });
+                heading.classList.add("seek_and_hide");
+            }
         }
         console.log("done. ", i);
     }
