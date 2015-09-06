@@ -11,7 +11,7 @@ title: Kleintierpraxis Dr. Finkbeiner
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                                     |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------                |
 | 10-12 | 10-12 | 10-12 | 10-12 | 10-12 | Sa: 10-12; So: [siehe Notdienst](../notdienst.html) |
-| 16-18:30 | 16-18:30 | 16-18:30 | 16-18:31 | 16-18:30 | [siehe Notdienst](../notdienst.html)                |
+| 16-18:30 | 16-18:30 | 16:00-18:30 | 16-18:31 | 16-18:30 | [siehe Notdienst](../notdienst.html)                |
 
 
 Adresse:
