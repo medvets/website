@@ -3,7 +3,7 @@ title: Aktueller Notdienst
 Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 9 Uhr.
 An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
 
-Nachfolgend werden die Praxen, welche heute Notdienst haben angezeigt (falls heute ein Wochenende oder Feiertag ist):
+Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist):
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.JJJJ-TT.MM.JJJJ
@@ -13,18 +13,18 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Finkbeiner](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 31.12.2014-01.01.2015
-- 31.01.2015-01.02.2015
-- 21.03.2015-22.03.2015
-- 25.04.2015-26.04.2015
-- 14.05.2015
-- 23.05.2015-24.05.2015
-- 20.06.2015-21.05.2015
-- 01.08.2015-02.08.2015
-- 19.09.2015-20.09.2015
 - 24.10.2015-25.10.2015
 - 12.12.2015
-- 19.12.2015-20.12.2015)
+- 19.12.2015-20.12.2015
+- 02.01.2016-03.01.2016
+- 06.02.2016-07.02.2016
+- 12.03.2016-13.03.2016
+- 02.04.2016-03.04.2016
+- 14.05.2016-15.05.2016
+- 02.07.2016-03.07.2016
+- 01.10.2016-02.10.2016
+- 12.11.2016-13.11.2016
+- 26.12.2016
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -33,16 +33,15 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 25.12.2014-26.12.2014
-- 24.01.2015-25.01.2015
-- 14.03.2015-15.03.2015
-- 02.05.2015-03.05.2015
-- 30.05.2015-31.05.2015
-- 18.07.2015-19.07.2015
-- 22.08.2015-23.08.2015
-- 26.09.2015-27.09.2015
-- 30.10.2015-01.11.2015
 - 05.12.2015-06.12.2015
+- 30.01.2016-31.01.2016
+- 19.03.2016-20.03.2016
+- 30.04.2016-01.05.2016
+- 21.05.2016-22.05.2016
+- 09.07.2016-10.07.2016
+- 27.08.2016-28.08.2016
+- 08.10.2016-09.10.2016
+- 26.11.2016-27.11.2016
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
@@ -50,17 +49,16 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Anton](tieraerzte/anton.html)
 -------------------------------------------------------------
 
-- 24.12.2014
-- 03.01.2015-04.01.2015
-- 21.02.2015-22.02.2015
-- 18.04.2015-19.04.2015
-- 16.05.2015-17.05.2015
-- 06.06.2015-07.06.2015
-- 25.07.2015-26.07.2015
-- 12.09.2015-13.09.2015
-- 10.10.2015-11.10.2015
 - 28.11.2015-29.11.2015
 - 26.12.2015-27.12.2015
+- 23.01.2016-24.01.2016
+- 05.03.2016-06.03.2016
+- 23.04.2016-24.04.2016
+- 28.05.2016-29.05.2016
+- 23.07.2016-24.07.2016
+- 03.10.2016
+- 10.12.2016-11.12.2016
+- 31.12.2016-01.01.2017
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -68,16 +66,20 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
 -------------------------------------------------------------
 
-- 10.01.2015-11.01.2015
-- 07.03.2015-08.03.2015
-- 05.04.2015-06.04.2015
-- 01.05.2015
-- 25.05.2015
-- 27.06.2015-28.06.2015
-- 15.08.2015-16.08.2015
-- 03.10.2015-04.10.2015
+
 - 13.12.2015
-- 31.12.2015
+- 31.12.2015-01.01.2016
+- 27.02.2016-28.02.2016
+- 09.04.2016-10.04.2016
+- 05.05.2016
+- 16.05.2016
+- 18.06.2016-19.06.2016
+- 30.07.2016-31.07.2016
+- 20.08.2016-21.08.2016
+- 24.09.2016-25.09.2016
+- 15.10.2016-16.10.2016
+- 03.12.2016-04.12.2016
+
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
@@ -85,41 +87,57 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 17.01.2015-18.01.2015
 - 09.05.2015-10.05.2015
 - 11.07.2015-12.07.2015
+- 16.01.2016-17.01.2016
+- 07.05.2016-08.05.2016
+- 17.09.2016-18.09.2016
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
 
 
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
-- 27.12.2014-28.12.2014
-- 07.02.2015-08.02.2015
-- 28.02.2015-01.03.2015
-- 28.03.2015-29.03.2015
-- 11.04.2015-12.04.2015
-- 04.07.2015-05.07.2015
-- 08.08.2015-09.08.2015
-- 05.09.2015-06.09.2015
+
 - 17.10.2015-18.10.2015
 - 21.11.2015-22.11.2015
 - 24.12.2015-25.12.2015
+- 09.01.2016-10.01.2016
+- 27.03.2016-28.03.2016
+- 25.06.2016-26.06.2016
+- 16.07.2016-17.07.2016
+- 13.08.2016-14.08.2016
+- 10.09.2016-11.09.2016
+- 29.10.2016-30.10.2016
+- 19.11.2016-20.11.2016
+- 24.12.2016-25.12.2016
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
 
 [Praxis Schmöe](tieraerzte/schmoe.html)
 -------------------------------------------------------------
-- 14.02.2015-15.02.2015
-- 03.04.2015-04.04.2015
-- 13.06.2015-14.06.2015
-- 29.08.2015-30.08.2015
-- 07.11.2015-08.11.2015
+
+- 13.02.2016-14.02.2016
+- 25.03.2016-26.03.2016
+- 11.06.2016-12.06.2016
+- 03.09.2016-04.09.2016 
+- 05.11.2016-06.11.2016
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 20.02.2016-21.02.2016
+- 16.04.2016-17.04.2016
+- 04.06.2016-05.06.2016
+- 06.08.2016-07.08.2016
+- 22.10.2016-23.10.2016
+- 17.12.2016-18.12.2016
+
+[Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
 Reguläre Dienstzeiten
 ===================================
