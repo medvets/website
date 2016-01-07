@@ -69,7 +69,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 13.12.2015
 - 31.12.2015-01.01.2016
-- 27.02.2016-28.02.2016
+- 20.02.2016-21.02.2016
 - 09.04.2016-10.04.2016
 - 05.05.2016
 - 16.05.2016
@@ -130,7 +130,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 20.02.2016-21.02.2016
+- 27.02.2016-28.02.2016
 - 16.04.2016-17.04.2016
 - 04.06.2016-05.06.2016
 - 06.08.2016-07.08.2016
