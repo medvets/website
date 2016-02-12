@@ -4,7 +4,7 @@ title: Dr. med vet. Norbert Bachmann
 
 **E-Mail**: docbachmann (ät) aueteich.de
  
-**Website**: <www.docbachmann.de>
+**Web**: <http://www.docbachmann.de>
 
 Öffnungszeiten und nach telefonischer Vereinbarung:
 ---------------
