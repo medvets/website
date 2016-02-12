@@ -1,8 +1,8 @@
 title: Kleintierpraxis Dr. Finkbeiner
 
-**Telefon**:   05721 / 93 33 699
+**Telefon**: 05721 / 93 33 699
 
-**webside**: tierartzpraxis-meerbeck.de
+**Web**: <tierartzpraxis-meerbeck.de>
 
 
 Öffnungszeiten:
