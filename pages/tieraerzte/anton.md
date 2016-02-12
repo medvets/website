@@ -2,11 +2,11 @@ title: Kleintierpraxis Anton
 
 Inhaber: Eberhard Anton
 
-**Telefon**:   05725 / 91 36 40
+**Telefon**: 05725 / 91 36 40
 
 **Fax**: 05723 / 98 19 52
 
-**webside**: www.tierarztpraxis-anton.de
+**Web**: <http://www.tierarztpraxis-anton.de>
 
 
 Öffnungszeiten:
