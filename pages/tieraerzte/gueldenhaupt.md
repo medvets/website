@@ -10,10 +10,10 @@ title: Tierarztpraxis Dr. Gerhard Güldenhaupt
 Öffnungszeiten:
 ---------------
 
-|  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
-| ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 10-11 | 10-11 | 10-11 | 10-11 | 10-11 | [siehe Notdienst](../notdienst.html) |
-| 15-17 | 15-17 | 15-17 | 15-17 | 15-17 | [siehe Notdienst](../notdienst.html) |
+|  Mo - Fr  |           Sa+So                      |
+| --------  | ------------------------------------ |
+| 10-11     | [siehe Notdienst](../notdienst.html) |
+| 15-17     | [siehe Notdienst](../notdienst.html) |
 
 und nach Vereinbarung
 
