@@ -26,7 +26,5 @@ Adresse:
      31559 Sachsenhagen
      
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38972.59229317598!2d9.386708599999999!3d52.374281799999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4165399cca5d60c1%3A0x598be60da031097a!2sTierarztpraxis+Leis!5e0!3m2!1sde!2sde!4v1415097777834" width="400" height="300" frameborder="0" style="border:0"></iframe>
-
-<iframe src="https://www.google.de/maps/place/Tierarztpraxis+Eberhard+Anton/@52.3901592,9.2749564,12z/data=!4m2!3m1!1s0x41653bd3929a0d19:0x361e1cb81a586c73" width="400" height="300" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d77917.1599482857!2d9.2749564!3d52.3901592!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41653bd3929a0d19%3A0x361e1cb81a586c73!2sTierarztpraxis+Eberhard+Anton!5e0!3m2!1sde!2sde!4v1455275974581" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
