@@ -4,7 +4,7 @@ Inhaberin: Evely Wolandowitsch
 
 **Telefon**:   05724 / 91 31 54
 
-**Web**: <http://wolandowitsch.de>
+**Web**: <www.wolandowitsch.de>
 
 
 Öffnungszeiten:
