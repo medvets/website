@@ -1,6 +1,5 @@
 Title: Tierärzte im Schaumburger Land
 Summary: Tierärzte
-Date: 2015-01-30
 URL: index.html
 save_as: index.html
 
