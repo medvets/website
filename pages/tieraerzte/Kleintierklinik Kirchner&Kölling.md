@@ -15,11 +15,9 @@ E-Mail: labor@tierkliniken-rinteln.de
 
 Sprechzeiten:
 
-Montag  |Dienstag |Mittwoch |Donnerstag |Freitag  |Samstag
-        |
-11-12   |11-12    |/        |11-12      |11-12    |11-12
-        |
-17-19   |17-19    |/        |17-19      |17-19    |/
+Montag, Dienstag, Donnerstag, Freitag, Samstag 11.00-12.00 Uhr
+
+Montag, Dienstag, Donnerstag, Freitag 17.00-19.00 Uhr
 
 Termine außerhalb der Sprechzeiten nach Vereinbarung.
 
