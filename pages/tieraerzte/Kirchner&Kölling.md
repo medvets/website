@@ -10,12 +10,10 @@ Fax: 05751-963788
 E-Mail: labor@tierkliniken-rinteln.de
 
 Sprechzeiten:
+Mo 	    Di 	    Mi    Do    	Fr 	    Sa
+11-12 	11-12 	-     11-12 	11-12   11-12
+17-19 	17-19 	-   	17-19 	17-19    	
 
-Montag  |Dienstag  |Mittwoch  |Donnerstag  |Freitag |Samstag
-
-11-12   |11-12     |    /     | 11-12      |11-12   | 11-12
-
-17-19   | 17-19    | /        | 17-19      | 17-19  | /
 
 Ausserdem vereinbaren wir Termine nach Absprache ausserhalb der Sprechstunde.
 
