@@ -78,7 +78,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 20.08.2016-21.08.2016
 - 24.09.2016-25.09.2016
 - 15.10.2016-16.10.2016
-- 03.12.2016-04.12.2016
+- 17.12.2016-18.12.2016
 
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
@@ -135,7 +135,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 11.06.2016-12.06.2016
 - 06.08.2016-07.08.2016
 - 22.10.2016-23.10.2016
-- 17.12.2016-18.12.2016
+- 03.12.2016-04.12.2016
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
