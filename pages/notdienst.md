@@ -68,7 +68,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 17.12.2016-18.12.2016
-- 25.03.2017-26.03.2017
+- 18.03.2017-19.03.2017
 - 06.05.2017-07.05.2017
 - 05.06.2017
 - 12.08.2017-13.08.2017
@@ -82,7 +82,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 18.03.2017-19.03.2017
+- 25.03.2017-26.03.2017
 - 08.04.2017-09.04.2017
 - 01.07.2017-02.07.2017
 - 02.09.2017-03.09.2017
