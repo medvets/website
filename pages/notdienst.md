@@ -138,6 +138,7 @@ Reguläre Dienstzeiten
 [Heute findet kein koordinierter Notruf statt. Wir müssen Sie leider an eine Klinik oder Praxis außerhalb Schaumburgs verweisen]
 ------------------------------------------------------------ 
 - 31.12.2017-01.01.2018
+
 ===================================
 
 Wenn oben keine Praxen eingeblendet werden, dann ist heute regulärer Dienst, und Sie können sich eine Praxis mit entsprechenden Öffnungszeiten im Menüpunkt [Praxen und Kliniken](tieraerzte.html) aussuchen.
