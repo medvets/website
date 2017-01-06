@@ -137,6 +137,7 @@ Reguläre Dienstzeiten
 
 [Heute findet kein koordinierter Notruf statt. Wir müssen Sie leider an eine Klinik oder Praxis außerhalb Schaumburgs verweisen]
 ------------------------------------------------------------ 
+
 - 31.12.2017-01.01.2018
 
 ===================================
