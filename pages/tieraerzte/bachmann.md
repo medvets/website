@@ -11,15 +11,15 @@ title: Dr. med vet. Norbert Bachmann
 
 |  Mo         |  Di         |  Mi         |  Do         |  Fr         |           Sa+So                      |
 | -----       | -----       | -----       | -----       | -----       | ------------------------------------ |
-| 10:00-11:00 |             |             |10:00-11:00  |    -----    | [siehe Notdienst](../notdienst.html) |
-| 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | [siehe Notdienst](../notdienst.html) |
+| 10:00-11:00 |             |             |10:00-11:00  |    -----    | Notdienst nach telefonischer Vereinbarung |
+| 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | Notdienst nach telefonischer Vereinbarung |
 
 
 
 Adresse:
 ---------
 
-    Obernkirchenerstr. 2a
+    Obernkirchenerstr. 2a ( Navi zeigt Nr. 2 an , etwa 250 m weiter von Obernkirchen kommend)
     31749 Auetal-Rolfshagen
 
 
