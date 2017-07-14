@@ -127,6 +127,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 28.01.2017-29.01.2017
 - 22.04.2017-23.04.2017
 - 10.06.2017-11.06.2017
+- 15.07.2017-16.07.2017
 - 09.12.2017-10.12.2017
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
