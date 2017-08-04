@@ -13,14 +13,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Finkbeiner](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 12.11.2016-13.11.2016
-- 26.12.2016
-- 21.01.2017-22.01.2017 
-- 18.02.2017-19.02.2017
-- 16.04.2017-17.04.2017 
-- 20.05.2017-21.05.2017
-- 17.06.2017-18.06.2017
-- 22.07.2017-23.07.2017
 - 09.09.2017-10.09.2017
 - 03.10.2017
 - 31.10.2017
@@ -33,13 +25,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 26.11.2016-27.11.2016
-- 07.01.2017-08.01.2017
-- 11.03.2017-12.03.2017
-- 29.04.2017-01.05.2017
-- 26.05.2017-26.05.2017
-- 03.06.2017-04.06.2017
-- 29.07.2017-30.07.2017
 - 30.09.2017-01.10.2017
 - 11.11.2017-12.11.2017
 - 16.12.2017-17.12.2017
@@ -51,10 +36,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Anton](tieraerzte/anton.html)
 -------------------------------------------------------------
 
-- 10.12.2016-11.12.2016
-- 25.02.2017-26.02.2017
-- 13.05.2017-14.05.2017
-- 24.06.2017-25.06.2017
 - 05.08.2017-06.08.2017
 - 23.09.2017-24.09.2017
 - 28.10.2017-29.10.2017
@@ -66,10 +47,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
 -------------------------------------------------------------
 
-- 17.12.2016-18.12.2016
-- 18.03.2017-19.03.2017
-- 06.05.2017-07.05.2017
-- 05.06.2017
 - 12.08.2017-13.08.2017
 - 07.10.2017-08.10.2017
 - 18.11.2017-19.11.2017
@@ -81,9 +58,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 25.03.2017-26.03.2017
-- 08.04.2017-09.04.2017
-- 01.07.2017-02.07.2017
 - 02.09.2017-03.09.2017
 - 21.10.2017-22.10.2017
 
@@ -94,13 +68,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
-- 24.12.2016-25.12.2016
-- 14.01.2017-15.01.2017
-- 04.02.2017-05.02.2017
-- 04.03.2017-05.03.2017
-- 01.04.2017-02.04.2017
-- 27.05.2017-28.05.2017
-- 08.07.2017-09.07.2017
 - 19.08.2017-20.08.2017
 - 14.10.2017-15.10.2017
 - 02.12.2017-03.12.2017
@@ -110,9 +77,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 [Praxis Schmöe](tieraerzte/schmoe.html)
 -------------------------------------------------------------
-- 11.02.2017-12.02.2017
-- 14.04.2017-15.04.2017
-- 10.06.2017-11.06.2017
+
 - 26.08.2017-27.08.2017
 - 04.11.2017-05.11.2017
 
@@ -122,12 +87,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 03.12.2016-04.12.2016
-- 31.12.2016-01.01.2017
-- 28.01.2017-29.01.2017
-- 22.04.2017-23.04.2017
-- 10.06.2017-11.06.2017
-- 15.07.2017-16.07.2017
 - 09.12.2017-10.12.2017
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
