@@ -25,7 +25,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 30.09.2017-01.10.2017
+- 07.10.2017-08.10.2017
 - 11.11.2017-12.11.2017
 - 16.12.2017-17.12.2017
 
@@ -48,7 +48,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 12.08.2017-13.08.2017
-- 07.10.2017-08.10.2017
+- 30.09.2017-01.10.2017
 - 18.11.2017-19.11.2017
 - 25.12.2017-26.12.2017
 
@@ -87,6 +87,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
+- 16.09.2017-17.09.2017
 - 09.12.2017-10.12.2017
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
