@@ -39,7 +39,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 05.08.2017-06.08.2017
 - 23.09.2017-24.09.2017
 - 28.10.2017-29.10.2017
-- 25.11.2017-26.11.2017
+- 18.11.2017-19.11.2017
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -49,7 +49,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 12.08.2017-13.08.2017
 - 30.09.2017-01.10.2017
-- 18.11.2017-19.11.2017
+- 25.11.2017-26.11.2017
 - 25.12.2017-26.12.2017
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
