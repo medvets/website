@@ -10,27 +10,63 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.
 Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
 
 
-[Praxis Anton](tieraerzte/anton.html)-------------------------------------------------------------
+[Praxis Anton](tieraerzte/anton.html)
+-------------------------------------------------------------
+
 - 27.01.2018-28.01.2018
+- 10.05.2018
+
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
+
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 03.03.2018-04.03.2018
+
+[Mehr informationen über die Praxis](tieraerzte/bachmann.html)
+
 
 [Praxis Beisse](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
-06.01.2018-07.01.2018
-
+- 06.01.2018-07.01.2018
+- 01.05.2018
 
 [Mehr informationen über die Praxis](tieraerzte/beisse.html)
 
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 21.04.2018-22.04.2018
+
+[Mehr informationen über die Praxis](tieraerzte/daum.html)
 
 
 [Praxis Finkbeiner](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 23.12.2017-24.12.2017
+- 01.04.2018-02.04.2018
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
+
+[Praxis Güldenhaupt und Radke](tieraerzte/güldenhaupt.html)
+-------------------------------------------------------------
+
+- 10.03.2018-11.03.2018
+
+[Mehr informationen über die Praxis](tieraerzte/güldenhaupt.html)
+
+
+[Praxis Kölling und Kirchner](tieraerzte/kölling und kirchner.html)
+-------------------------------------------------------------
+
+- 14.04.2018-15.04.2018
+
+[Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
 
 [Praxis Leis](tieraerzte/leis.html)
@@ -42,33 +78,27 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
 
-
-
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis Möbus](tieraerzte/möbus.html)
 -------------------------------------------------------------
 
-- 02.09.2017-03.09.2017
-- 21.10.2017-22.10.2017
+- 28.04.2018-29.04.2018
+
+[Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
 
-[Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
-
-
-[Praxis Bachmann](tieraerzte/bachmann.html)
+[Praxis Rockemann und Orphanos](tieraerzte/rockemann und orphanos.html)
 -------------------------------------------------------------
 
-- 19.08.2017-20.08.2017
-- 14.10.2017-15.10.2017
-- 02.12.2017-03.12.2017
+- 07.04.2018-08.04.2018
 
-[Mehr informationen über die Praxis](tieraerzte/bachmann.html)
+[Mehr informationen über die Praxis](tieraerzte/rockemann und orphanos.html)
 
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 13.01.2018-14.01.2018
+- 17.03.2018-18.03.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
@@ -77,17 +107,50 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 13.01.2018-14.01.2018
-
+- 30.03.2018-31.03.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
-[Praxis Steinbach & Heidemann](tieraerzte/Steinbach & Heidemann.html)-------------------------------------------------------------
+
+[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+-------------------------------------------------------------
+
+- 24.02.2018-28.02.2018
+
+[Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
+
+
+[Praxis Steinbach & Heidemann](tieraerzte/Steinbach & Heidemann.html)
+-------------------------------------------------------------
+
 - 20.01.2018-21.01.2018
+- 05.05.2018-06.05.2018
+
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
+
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 02.09.2017-03.09.2017- 21.10.2017-22.10.2017
+
+[Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
+
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 17.02.2018-18.02.2018
+- 24.03.2018-25.03.2018
+
+[Mehr informationen über die Praxis](tieraerzte/welge.html)
+
 
 [Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
 -------------------------------------------------------------
+
 - 25.12.2017-26.12.2017
+
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
 
