@@ -10,12 +10,23 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.
 Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
 
 
+[Praxis Anton](tieraerzte/anton.html)-------------------------------------------------------------
+- 27.01.2018-28.01.2018
+[Mehr informationen über die Praxis](tieraerzte/anton.html)
+
+[Praxis Beisse](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+06.01.2018-07.01.2018
+
+
+[Mehr informationen über die Praxis](tieraerzte/beisse.html)
+
+
+
 [Praxis Finkbeiner](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 09.09.2017-10.09.2017
-- 03.10.2017
-- 31.10.2017
 - 23.12.2017-24.12.2017
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
@@ -25,34 +36,13 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 07.10.2017-08.10.2017
-- 28.10.2017-29.10.2017
-- 16.12.2017-17.12.2017
+- 03.02.2018-04.02.2018
 
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
 
-[Praxis Anton](tieraerzte/anton.html)
--------------------------------------------------------------
 
-- 05.08.2017-06.08.2017
-- 23.09.2017-24.09.2017
-- 11.11.2017-12.11.2017
-- 18.11.2017-19.11.2017
-
-[Mehr informationen über die Praxis](tieraerzte/anton.html)
-
-
-[Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
--------------------------------------------------------------
-
-- 12.08.2017-13.08.2017
-- 30.09.2017-01.10.2017
-- 25.11.2017-26.11.2017
-- 25.12.2017-26.12.2017
-
-[Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
@@ -75,22 +65,30 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
 
-[Praxis Schmöe](tieraerzte/schmoe.html)
--------------------------------------------------------------
-
-- 26.08.2017-27.08.2017
-- 04.11.2017-05.11.2017
-
-[Mehr informationen über die Praxis](tieraerzte/schmoe.html)
-
-
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 16.09.2017-17.09.2017
-- 09.12.2017-10.12.2017
+- 13.01.2018-14.01.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
+
+
+[Praxis Schmöe](tieraerzte/schmoe.html)
+-------------------------------------------------------------
+
+- 13.01.2018-14.01.2018
+
+
+[Mehr informationen über die Praxis](tieraerzte/schmoe.html)
+
+[Praxis Steinbach & Heidemann](tieraerzte/Steinbach & Heidemann.html)-------------------------------------------------------------
+- 20.01.2018-21.01.2018
+[Mehr informationen über die Praxis](tieraerzte/schmoe.html)
+
+[Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
+-------------------------------------------------------------
+- 25.12.2017-26.12.2017
+[Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
 
 [Heute findet kein koordinierter Notruf statt. Wir müssen Sie leider an eine Klinik oder Praxis außerhalb Schaumburgs verweisen]
