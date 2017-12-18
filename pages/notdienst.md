@@ -63,24 +63,24 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
 
-[Praxis Güldenhaupt und Radke](tieraerzte/güldenhaupt.html)
+[Praxis Güldenhaupt und Radke](tieraerzte/gueldenhaupt.html)
 -------------------------------------------------------------
 
 - 10.03.2018-11.03.2018
 - 16.06.2018-17.06.2018
 - 13.10.2018-14.10.2018
 
-[Mehr informationen über die Praxis](tieraerzte/güldenhaupt.html)
+[Mehr informationen über die Praxis](tieraerzte/gueldenhaupt.html)
 
 
-[Praxis Kölling und Kirchner](tieraerzte/kölling und kirchner.html)
+[Praxis Kölling&Kirchner](tieraerzte/koelling&kirchner.html)
 -------------------------------------------------------------
 
 - 14.04.2018-15.04.2018
 - 28.07.2018-29.07.2018
 - 24.11.2018-25.11.2018
 
-[Mehr informationen über die Praxis](tieraerzte/kölling und kirchner.html)
+[Mehr informationen über die Praxis](tieraerzte/koelling&kirchner.html)
 
 
 [Praxis Leis](tieraerzte/leis.html)
@@ -94,14 +94,14 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
 
-[Praxis Möbus](tieraerzte/möbus.html)
+[Praxis Möbus](tieraerzte/moebus.html)
 -------------------------------------------------------------
 
 - 28.04.2018-29.04.2018
 - 11.08.2018-12.08.2018
 - 08.12.2018-09.12.2018
 
-[Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
+[Mehr informationen über die Praxis](tieraerzte/moebus.html)
 
 
 [Praxis Rockemann und Orphanos](tieraerzte/rockemann und orphanos.html)
