@@ -15,6 +15,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 27.01.2018-28.01.2018
 - 10.05.2018
+- 01.09.2018-02.09.2018
+- 24.12.2018-25-12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -23,6 +25,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 03.03.2018-04.03.2018
+- 04.08.2018-05.08.2018
+- 22.12.2018-23.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
@@ -32,6 +36,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 06.01.2018-07.01.2018
 - 01.05.2018
+- 18.08.2018-19.08.2018
+- 15.12.2018-16.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/beisse.html)
 
@@ -40,6 +46,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 21.04.2018-22.04.2018
+- 07.07.2018-08.07.2018
+- 06.10.2018-07.10.2018
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
 
@@ -49,6 +57,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 23.12.2017-24.12.2017
 - 01.04.2018-02.04.2018
+- 03.10.2018
+- 10.11.2018-11.11.2018
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -57,6 +67,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 10.03.2018-11.03.2018
+- 16.06.2018-17.06.2018
+- 13.10.2018-14.10.2018
 
 [Mehr informationen über die Praxis](tieraerzte/güldenhaupt.html)
 
@@ -65,15 +77,19 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 14.04.2018-15.04.2018
+- 28.07.2018-29.07.2018
+- 24.11.2018-25.11.2018
 
-[Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
+[Mehr informationen über die Praxis](tieraerzte/kölling und kirchner.html)
 
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 03.02.2018-04.02.2018
-
+- 19.05.2018-20.05.2018
+- 27.10.2018-28.10.2018
+- 29.12.2018-30.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
@@ -82,6 +98,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 28.04.2018-29.04.2018
+- 11.08.2018-12.08.2018
+- 08.12.2018-09.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
@@ -90,6 +108,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 07.04.2018-08.04.2018
+- 21.07.2018-22.07.2018
+- 17.11.2018-18.11.2018
 
 [Mehr informationen über die Praxis](tieraerzte/rockemann und orphanos.html)
 
@@ -99,6 +119,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 13.01.2018-14.01.2018
 - 17.03.2018-18.03.2018
+- 08.09.2018-09.09.2018
+- 26.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
@@ -108,6 +130,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 13.01.2018-14.01.2018
 - 30.03.2018-31.03.2018
+- 09.06.2018-10.06.2018
+- 03.11.2018-04.11.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
@@ -116,25 +140,41 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 24.02.2018-28.02.2018
+- 02.06.2018-03.06.2018
+- 14.07.2018-15.07.2018
 
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
 
 
-[Praxis Steinbach & Heidemann](tieraerzte/Steinbach & Heidemann.html)
+[Praxis Steinbach und Heidemann](tieraerzte/steinbach und heidemann.html)
 -------------------------------------------------------------
 
 - 20.01.2018-21.01.2018
 - 05.05.2018-06.05.2018
+- 29.09.2018-30.09.2018
+- 01.12.2018-02.12.2018
 
-[Mehr informationen über die Praxis](tieraerzte/schmoe.html)
+[Mehr informationen über die Praxis](tieraerzte/steinbach und heidemann.html)
 
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 02.09.2017-03.09.2017- 21.10.2017-22.10.2017
+- 26.05.2018-27.05.2018
+- 30.06.2018-01.07.2018
+- 15.09.2018-16.09.2018
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
+
+
+[Praxis Weiglein](tieraerzte/weiglein.html)
+-------------------------------------------------------------
+
+- 10.02.2018-11.02.2018
+- 21.05.2018
+- 22.09.2018-23.09.2018
+- 31.12.2018-1.1.2019
+[Mehr informationen über die Praxis](tieraerzte/welge.html)
 
 
 [Praxis Welge](tieraerzte/welge.html)
@@ -142,6 +182,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 17.02.2018-18.02.2018
 - 24.03.2018-25.03.2018
+- 25.08.2018-26.08.2018
 
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
@@ -150,6 +191,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 25.12.2017-26.12.2017
+- 12.05.2018-13.05.2018
+- 23.06.2018-24.06.2018
+- 20.10.2018-21.10.2018
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
