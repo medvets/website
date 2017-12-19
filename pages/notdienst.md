@@ -128,7 +128,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schmöe](tieraerzte/schmoe.html)
 -------------------------------------------------------------
 
-- 13.01.2018-14.01.2018
 - 30.03.2018-31.03.2018
 - 09.06.2018-10.06.2018
 - 03.11.2018-04.11.2018
