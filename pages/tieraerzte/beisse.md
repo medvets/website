@@ -15,7 +15,7 @@ Inhaberin: Sandra Beiße
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
 | 10-12 | 10-12 | 10-12 | 10-12 | 10-12 | [siehe Notdienst](../notdienst.html) |
-| 16-18 | 16-18 |       | 16-18 | 15-18 | [siehe Notdienst](../notdienst.html) |
+| 16-18 | 16-18 |       | 16-18 | 15-17 | [siehe Notdienst](../notdienst.html) |
 
 und nach Vereinbarung
 
