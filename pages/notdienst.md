@@ -173,7 +173,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 21.05.2018
 - 22.09.2018-23.09.2018
 - 31.12.2018-1.1.2019
-[Mehr informationen über die Praxis](tieraerzte/welge.html)
+[Mehr informationen über die Praxis](tieraerzte/weiglein.html)
 
 
 [Praxis Welge](tieraerzte/welge.html)
