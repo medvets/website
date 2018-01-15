@@ -76,9 +76,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Kölling&Kirchner](tieraerzte/koelling&kirchner.html)
 -------------------------------------------------------------
 
-- 14.04.2018-15.04.2018
+- 07.04.2018-08.04.2018
 - 28.07.2018-29.07.2018
-- 24.11.2018-25.11.2018
+- 17.11.2018-18.11.2018
 
 [Mehr informationen über die Praxis](tieraerzte/koelling&kirchner.html)
 
@@ -107,9 +107,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Rockemann und Orphanos](tieraerzte/rockemann und orphanos.html)
 -------------------------------------------------------------
 
-- 07.04.2018-08.04.2018
+- 14.04.2018-15.04.2018
 - 21.07.2018-22.07.2018
-- 17.11.2018-18.11.2018
+- 24.11.2018-25.11.2018
 
 [Mehr informationen über die Praxis](tieraerzte/rockemann und orphanos.html)
 
