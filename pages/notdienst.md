@@ -25,7 +25,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 03.03.2018-04.03.2018
-- 04.08.2018-05.08.2018
+- 27.10.2018-28.10.2018
 - 22.12.2018-23.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
@@ -88,7 +88,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 03.02.2018-04.02.2018
 - 19.05.2018-20.05.2018
-- 27.10.2018-28.10.2018
+- 04.08.2018-05.08.2018
 - 29.12.2018-30.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
