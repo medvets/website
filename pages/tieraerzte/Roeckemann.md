@@ -9,11 +9,8 @@ title: Tierarztpraxis Röckemann und Orphanos
 
 Öffnungszeiten:
 ---------------
+http://www.tierarztpraxis-rinteln.de/sprechzeiten.htm
 
-|  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
-| ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 11-12 | 11-12 |   -   | 11-12 | 11-12 | wir bieten immer einen Notdienst an  |
-| 17-19 | 17-19 |   -   | 17-19 |   -   | wir bieten immer einen Notdienst an  |
 
 
 
@@ -21,7 +18,7 @@ title: Tierarztpraxis Röckemann und Orphanos
 Adresse:
 ---------
 
-    Alte Poststr. 21
+    Alte Poststr. 21a
     31737 Rinteln
 
 
