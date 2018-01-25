@@ -1,4 +1,4 @@
-title: Kleintierpraxis Steinbach und Heidemann, Rodenberg
+title: Kleintierpraxis Steinbach & Heidemann, Rodenberg
 
 Inhaber: Dr. Gudrun **Steinbach** & Dr. Ralf **Heidemann**
 
