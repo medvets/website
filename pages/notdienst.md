@@ -145,7 +145,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
 
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach&heidemann.html)
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
 - 20.01.2018-21.01.2018
@@ -153,7 +153,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 29.09.2018-30.09.2018
 - 01.12.2018-02.12.2018
 
-[Mehr informationen über die Praxis](tieraerzte/steinbach&heidemann.html)
+[Mehr informationen über die Praxis](tieraerzte/steinbach.html)
 
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
