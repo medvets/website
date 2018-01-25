@@ -73,14 +73,14 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/gueldenhaupt.html)
 
 
-[Praxis Kölling&Kirchner](tieraerzte/kleintierklinik koelling&kirchner.html)
+[Praxis Kölling&Kirchner](tieraerzte/kleintierklinikkoelling&kirchner.html)
 -------------------------------------------------------------
 
 - 07.04.2018-08.04.2018
 - 28.07.2018-29.07.2018
 - 17.11.2018-18.11.2018
 
-[Mehr informationen über die Praxis](tieraerzte/kleintierklinik koelling&kirchner.html)
+[Mehr informationen über die Praxis](tieraerzte/kleintierklinikkoelling&kirchner.html)
 
 
 [Praxis Leis](tieraerzte/leis.html)
