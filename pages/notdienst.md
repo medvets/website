@@ -31,7 +31,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
 
-[Praxis Beisse](tieraerzte/beisse.html)
+[Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
 - 06.01.2018-07.01.2018
