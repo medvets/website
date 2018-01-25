@@ -1,4 +1,4 @@
-title: Michael Kirchner & Dr.Sylke Kölling
+title: Michael Kirchner & Dr. Sylke Kölling
 
 # Tierärztliche Klinik für Kleintiere
 
