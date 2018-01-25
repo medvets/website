@@ -1,24 +1,25 @@
-Tierärztliche Klinik für Kleintiere
+title: Michael Kirchner & Dr.Sylke Kölling
 
-Michael Kirchner & Dr.Sylke Kölling
+# Tierärztliche Klinik für Kleintiere
 
-Konrad-Adenauer-Str.30
+## Michael Kirchner & Dr.Sylke Kölling
 
-31737 Rinteln
+    Konrad-Adenauer-Str.30
+    31737 Rinteln
+    Tel: 05751-5766
+    Fax: 05751-963788
 
-Tel: 05751-5766
-
-Fax: 05751-963788
-
-E-Mail: labor@tierkliniken-rinteln.de
-
+E-Mail: <labor@tierkliniken-rinteln.de>
 
 Sprechzeiten:
+---------------
 
-Montag, Dienstag, Donnerstag, Freitag, Samstag 11.00-12.00 Uhr
+|  Mo   |  Di   |  Mi   |  Do   |  Fr   | Sa    |     So                               |
+| ----- | ----- | ----- | ----- | ----- | ----- |------------------------------------- |
+| 11-12 | 11-12 |       | 11-12 | 11-12 | 11-12 |[siehe Notdienst](../notdienst.html)  |
+| 17-19 | 17-19 |       | 17-19 | 17-19 |       |[siehe Notdienst](../notdienst.html)  |
 
-Montag, Dienstag, Donnerstag, Freitag 17.00-19.00 Uhr
 
 Termine außerhalb der Sprechzeiten nach Vereinbarung.
 
-Wir bieten Ihnen JEDERZEIT einen Notdienst an.
+Wir bieten Ihnen **JEDERZEIT einen Notdienst** an.
