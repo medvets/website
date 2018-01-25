@@ -73,7 +73,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/gueldenhaupt.html)
 
 
-[Praxis Kölling&Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
+[Praxis Kölling & Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -------------------------------------------------------------
 
 - 07.04.2018-08.04.2018
