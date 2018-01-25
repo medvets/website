@@ -111,7 +111,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 21.07.2018-22.07.2018
 - 24.11.2018-25.11.2018
 
-[Mehr informationen über die Praxis](tieraerzte/rockemann&orphanos.html)
+[Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
