@@ -104,14 +104,14 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/moebus.html)
 
 
-[Praxis Rockemann und Orphanos](tieraerzte/rockemann und orphanos.html)
+[Praxis Rockemann & Orphanos](tieraerzte/rockemann&orphanos.html)
 -------------------------------------------------------------
 
 - 14.04.2018-15.04.2018
 - 21.07.2018-22.07.2018
 - 24.11.2018-25.11.2018
 
-[Mehr informationen über die Praxis](tieraerzte/rockemann und orphanos.html)
+[Mehr informationen über die Praxis](tieraerzte/rockemann&orphanos.html)
 
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
@@ -145,7 +145,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
 
 
-[Praxis Steinbach und Heidemann](tieraerzte/steinbach und heidemann.html)
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach&heidemann.html)
 -------------------------------------------------------------
 
 - 20.01.2018-21.01.2018
@@ -153,7 +153,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 29.09.2018-30.09.2018
 - 01.12.2018-02.12.2018
 
-[Mehr informationen über die Praxis](tieraerzte/steinbach und heidemann.html)
+[Mehr informationen über die Praxis](tieraerzte/steinbach&heidemann.html)
 
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
