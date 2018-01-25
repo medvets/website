@@ -2,8 +2,6 @@ title: Michael Kirchner & Dr.Sylke Kölling
 
 # Tierärztliche Klinik für Kleintiere
 
-## Michael Kirchner & Dr.Sylke Kölling
-
     Konrad-Adenauer-Str.30
     31737 Rinteln
     Tel: 05751-5766
