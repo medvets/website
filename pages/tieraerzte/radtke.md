@@ -1,6 +1,4 @@
-title: Tierarztpraxis Bückeburg - Radtke
-(ehemals Dr. Güldenhaupt)
----------------
+title: Tierarztpraxis Bückeburg - Radtke (ehemals Dr. Güldenhaupt)
 
 **Telefon**:   05722 / 35 44
 
