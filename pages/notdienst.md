@@ -63,7 +63,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
 
-[Praxis Güldenhaupt und Radke](tieraerzte/gueldenhaupt.html)
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 10.03.2018-11.03.2018
