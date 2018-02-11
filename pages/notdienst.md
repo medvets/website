@@ -70,7 +70,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 16.06.2018-17.06.2018
 - 13.10.2018-14.10.2018
 
-[Mehr informationen über die Praxis](tieraerzte/gueldenhaupt.html)
+[Mehr informationen über die Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
 
 
 [Praxis Kölling & Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
