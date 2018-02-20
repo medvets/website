@@ -66,7 +66,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
-- 10.03.2018-11.03.2018
+- 17.03.2018-18.03.2018
 - 16.06.2018-17.06.2018
 - 13.10.2018-14.10.2018
 
@@ -118,7 +118,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 13.01.2018-14.01.2018
-- 17.03.2018-18.03.2018
+- 10.03.2018-11.03.2018
 - 08.09.2018-09.09.2018
 - 26.12.2018
 
