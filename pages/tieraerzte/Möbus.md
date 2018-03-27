@@ -1,7 +1,7 @@
 title: Tierarztpraxis Möbus
 
-Inhaberin: Thekla Möbus
+Inhaberin:  Dr. med. vet. Thekla Möbus
 
-**Telefon**:  
+**Telefon**:  0177-7963042
 
-**eMail**: 
+**eMail**: praxis@pferde-doc.de
