@@ -1,4 +1,5 @@
 
+
 title: Tierarztpraxis Möbus
 
 Inhaberin:  Dr. med. vet. Thekla Möbus
@@ -8,6 +9,7 @@ Inhaberin:  Dr. med. vet. Thekla Möbus
 **eMail**: praxis@pferde-doc.de
 
 **Sprechzeiten**:
+
 Montag 	18:00 Uhr - 19:30 Uhr
 
 Donnerstag 	18:00 Uhr - 19:30 Uhr
