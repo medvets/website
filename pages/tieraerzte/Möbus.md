@@ -1,7 +1,7 @@
 
 
 
-title: Tierarztpraxis Möbus
+title: **Tierarztpraxis Möbus**
 
 Inhaberin:  Dr. med. vet. Thekla Möbus
 
