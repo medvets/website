@@ -11,12 +11,18 @@ Inhaberin:  Dr. med. vet. Thekla Möbus
 
 **eMail**: praxis@pferde-doc.de
 
-**homepage**: www.pferde-doc.de
+**web**: http://www.pferde-doc.de
 
 **Sprechzeiten**:
 -----------------
 |Montag  |Dienstag   |Mittwoch   |Donnerstag|Freitag   |Sa/So      |
+|--------|-----------|-----------|----------|----------|-----------|
 |18-19:30|n. Vereinb.|n. Vereinb.|18-19:30  |9:30-11:00|n. Vereinb.|
+
+**Adresse**
+
+Asternweg 15
+31867 Pohle
 
 Anfahrt
 -------
