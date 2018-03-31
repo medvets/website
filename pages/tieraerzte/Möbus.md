@@ -1,9 +1,7 @@
 
 
-
-
-
-title: **Tierarztpraxis Möbus**
+**Tierarztpraxis Möbus**
+------------------------
 
 Inhaberin:  Dr. med. vet. Thekla Möbus
 
@@ -22,6 +20,7 @@ Inhaberin:  Dr. med. vet. Thekla Möbus
 **Adresse**
 
 Asternweg 15
+
 31867 Pohle
 
 Anfahrt
