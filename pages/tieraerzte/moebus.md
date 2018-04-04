@@ -1,9 +1,6 @@
+title: Tierarztpraxis Möbus
 
-
-**Tierarztpraxis Möbus**
-------------------------
-
-Inhaberin:  Dr. med. vet. Thekla Möbus
+**Inhaberin**:  Dr. med. vet. Thekla Möbus
 
 **Telefon**:  05043-963042
 
@@ -13,6 +10,7 @@ Inhaberin:  Dr. med. vet. Thekla Möbus
 
 **Sprechzeiten**:
 -----------------
+
 |Montag  |Dienstag   |Mittwoch   |Donnerstag|Freitag   |Sa/So      |
 |--------|-----------|-----------|----------|----------|-----------|
 |18-19:30|n. Vereinb.|n. Vereinb.|18-19:30  |9:30-11:00|n. Vereinb.|
