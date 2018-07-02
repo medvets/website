@@ -1,4 +1,4 @@
-title: Kleintierpraxis Dr. Finkbeiner
+title: Kleintierpraxis Sandra Schuster
 
 **Telefon**: 05721 / 93 33 699
 
