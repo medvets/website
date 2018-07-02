@@ -52,7 +52,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
 
 
-[Praxis Finkbeiner](tieraerzte/finkbeiner.html)
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 23.12.2017-24.12.2017
