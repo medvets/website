@@ -15,7 +15,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 27.01.2018-28.01.2018
 - 10.05.2018
-- 01.09.2018-02.09.2018
+- 08.09.2018-09.09.2018
 - 24.12.2018-25-12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
@@ -119,7 +119,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 13.01.2018-14.01.2018
 - 10.03.2018-11.03.2018
-- 08.09.2018-09.09.2018
+- 01.09.2018-02.09.2018
 - 26.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
