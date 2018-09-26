@@ -192,7 +192,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 25.12.2017-26.12.2017
 - 12.05.2018-13.05.2018
 - 23.06.2018-24.06.2018
-- 29.10.2018-30.10.2018
+- 29.09.2018-30.09.2018
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
