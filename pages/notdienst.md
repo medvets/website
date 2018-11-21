@@ -1,9 +1,11 @@
 title: Aktueller Notdienst
 
+Arbeitstäglichen Notdienst bietet die [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html) an.
+
 Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 9 Uhr.
 An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
 
-Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist):
+Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist): 
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.JJJJ-TT.MM.JJJJ
@@ -26,6 +28,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 22.12.2018-23.12.2018
 - 30.05.2019
+- 28.09.2019-29.09.2019
+- 23.11.2019-24.11.2019
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
@@ -36,6 +40,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 15.12.2018-16.12.2018
 - 09.02.2019-10.02.2019
 - 01.06.2019-02.06.2019
+- 03.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/beisse.html)
 
@@ -45,6 +50,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 16.03.2019-17.03.2019
 - 29.06.2019-30.06.2019
+- 31.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
 
@@ -54,6 +60,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 27.04.2019-28.04.2019
 - 08.06.2019-09.06.2019
+- 14.12.2019-15.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/extertalbahn.html)
 
@@ -63,6 +70,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 23.03.2019-24.03.2019
 - 13.07.2019-14.07.2019
+- 05.10.2019-06.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -71,6 +79,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 30.03.2019-31.03.2019
+- 20.07.2019-21.07.2019
+- 16.11.2019-17.11.2019
 
 [Mehr informationen über die Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
 
@@ -80,6 +90,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 02.03.2019-03.03.2019
 - 15.06.2019-16.06.2019
+- 19.10.2019-20.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 
@@ -89,6 +100,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 29.12.2018-30.12.2018
 - 18.05.2019-19.05.2019
+- 24.08.2019-25.08.2019
+- 14.09.2019-15.09.2019
+- 28.12.2019-29.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
@@ -99,6 +113,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 08.12.2018-09.12.2018
 - 06.04.2019-07.04.2019
 - 06.07.2019-07.07.2019
+- 02.11.2019-03.11.2019
 
 [Mehr informationen über die Praxis](tieraerzte/moebus.html)
 
@@ -109,6 +124,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 24.11.2018-25.11.2018
 - 23.02.2019-24.02.2019
 - 10.06.2019
+- 12.10.2019-13.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
@@ -118,6 +134,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 26.12.2018
 - 22.06.2019-23.06.2019
+- 21.09.2019-22.09.2019
+- 26.10.2019-27.10.2019
+- 31.12.2019-01.01.2020
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
@@ -126,6 +145,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 19.04.2019-20.04.2019
+- 17.08.2019-18.08.2019
+- 09.11.2019-10.11.2019
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
@@ -134,6 +155,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 19.01.2019-20.01.2019
+- 03.08.2019-04.08.2019
+- 21.12.2019-22.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
 
@@ -144,6 +167,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 01.12.2018-02.12.2018
 - 05.01.2019-06.01.2019
 - 04.05.2019-05.05.2019
+- 31.08.2019-01.09.2019
+- 24.12.2019-25.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/steinbach.html)
 
@@ -153,6 +178,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 12.01.2019-13.01.2019
 - 11.05.2019-12.05.2019
+- 07.09.2019-08.09.2019
+- 26.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
 
@@ -172,6 +199,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 21.04.2019-22.04.2019
+- 10.08.2019-11.08.2019
+- 07.12.2019-08.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
@@ -180,6 +209,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 01.05.2019
+- 27.07.2019-28.07.2019
+- 30.11.2019-01.12.2019
 
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
@@ -188,7 +219,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Heute findet kein koordinierter Notruf statt. Wir müssen Sie leider an eine Klinik oder Praxis außerhalb Schaumburgs verweisen]
 ------------------------------------------------------------ 
 
-- 31.12.2017-01.01.2018
 
 Reguläre Dienstzeiten
 ===================================
