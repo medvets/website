@@ -10,13 +10,12 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.
 Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
 
 
-[Praxis Anton](tieraerzte/anton.html)
+[Praxis Anton/van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
-- 27.01.2018-28.01.2018
-- 10.05.2018
-- 08.09.2018-09.09.2018
 - 24.12.2018-25-12.2018
+- 26.01.2019-27.01.2019
+- 09.03.2019-10.03.2019
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -24,8 +23,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
-- 03.03.2018-04.03.2018
-- 27.10.2018-28.10.2018
 - 22.12.2018-23.12.2018
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
@@ -34,10 +31,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
-- 06.01.2018-07.01.2018
-- 01.05.2018
-- 18.08.2018-19.08.2018
 - 15.12.2018-16.12.2018
+- 09.02.2019-10.02.2019
 
 [Mehr informationen über die Praxis](tieraerzte/beisse.html)
 
@@ -45,9 +40,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
-- 21.04.2018-22.04.2018
-- 07.07.2018-08.07.2018
-- 06.10.2018-07.10.2018
+- 16.03.2019-17.03.2019
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
 
@@ -55,10 +48,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 23.12.2017-24.12.2017
-- 01.04.2018-02.04.2018
-- 03.10.2018
-- 10.11.2018-11.11.2018
+- 23.03.2019-24.03.2019
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -66,9 +56,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
-- 17.03.2018-18.03.2018
-- 16.06.2018-17.06.2018
-- 13.10.2018-14.10.2018
+- 30.03.2019-31.03.2019
 
 [Mehr informationen über die Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
 
@@ -76,9 +64,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Kölling & Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -------------------------------------------------------------
 
-- 07.04.2018-08.04.2018
-- 28.07.2018-29.07.2018
-- 17.11.2018-18.11.2018
+- 02.03.2019-03.03.2019
 
 [Mehr informationen über die Praxis](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 
@@ -97,9 +83,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Möbus](tieraerzte/moebus.html)
 -------------------------------------------------------------
 
-- 28.04.2018-29.04.2018
-- 11.08.2018-12.08.2018
 - 08.12.2018-09.12.2018
+- 06.04.2019-07.04.2019
 
 [Mehr informationen über die Praxis](tieraerzte/moebus.html)
 
@@ -107,9 +92,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
-- 14.04.2018-15.04.2018
-- 21.07.2018-22.07.2018
 - 24.11.2018-25.11.2018
+- 23.02.2019-24.02.2019
 
 [Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
@@ -128,9 +112,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schmöe](tieraerzte/schmoe.html)
 -------------------------------------------------------------
 
-- 30.03.2018-31.03.2018
-- 09.06.2018-10.06.2018
-- 03.11.2018-04.11.2018
+- 19.04.2019-20.04.2019
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
@@ -138,9 +120,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
 -------------------------------------------------------------
 
-- 24.02.2018-28.02.2018
-- 02.06.2018-03.06.2018
-- 14.07.2018-15.07.2018
+- 19.01.2019-20.01.2019
 
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
 
@@ -148,10 +128,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
-- 20.01.2018-21.01.2018
-- 05.05.2018-06.05.2018
-- 20.10.2018-21.10.2018
 - 01.12.2018-02.12.2018
+- 05.01.2019-06.01.2019
 
 [Mehr informationen über die Praxis](tieraerzte/steinbach.html)
 
@@ -159,9 +137,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 26.05.2018-27.05.2018
-- 30.06.2018-01.07.2018
-- 15.09.2018-16.09.2018
+- 12.01.2019-13.01.2019
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
 
@@ -169,19 +145,18 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Weiglein](tieraerzte/weiglein.html)
 -------------------------------------------------------------
 
-- 10.02.2018-11.02.2018
-- 21.05.2018
-- 22.09.2018-23.09.2018
-- 31.12.2018-1.1.2019
+- 31.12.2018-01.01.2019
+- 02.02.2019-03.02.2019
+- 16.02.2019-17.02.2019
+- 13.04.2019-14.04.2019
+
 [Mehr informationen über die Praxis](tieraerzte/weiglein.html)
 
 
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
 
-- 17.02.2018-18.02.2018
-- 24.03.2018-25.03.2018
-- 25.08.2018-26.08.2018
+- 21.04.2019-22.04.2019
 
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
