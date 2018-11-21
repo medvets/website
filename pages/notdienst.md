@@ -16,6 +16,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 24.12.2018-25-12.2018
 - 26.01.2019-27.01.2019
 - 09.03.2019-10.03.2019
+- 25.05.2019-26.05.2019
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -24,6 +25,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 22.12.2018-23.12.2018
+- 30.05.2019
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
@@ -33,6 +35,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 15.12.2018-16.12.2018
 - 09.02.2019-10.02.2019
+- 01.06.2019-02.06.2019
 
 [Mehr informationen über die Praxis](tieraerzte/beisse.html)
 
@@ -41,14 +44,25 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 16.03.2019-17.03.2019
+- 29.06.2019-30.06.2019
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
+
+
+[Praxis Extertalbahn (Bosse & Heßling)](tieraerzte/extertalbahn.html)
+-------------------------------------------------------------
+
+- 27.04.2019-28.04.2019
+- 08.06.2019-09.06.2019
+
+[Mehr informationen über die Praxis](tieraerzte/extertalbahn.html)
 
 
 [Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 23.03.2019-24.03.2019
+- 13.07.2019-14.07.2019
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -65,6 +79,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 02.03.2019-03.03.2019
+- 15.06.2019-16.06.2019
 
 [Mehr informationen über die Praxis](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 
@@ -72,10 +87,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 03.02.2018-04.02.2018
-- 19.05.2018-20.05.2018
-- 04.08.2018-05.08.2018
 - 29.12.2018-30.12.2018
+- 18.05.2019-19.05.2019
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
@@ -85,6 +98,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 08.12.2018-09.12.2018
 - 06.04.2019-07.04.2019
+- 06.07.2019-07.07.2019
 
 [Mehr informationen über die Praxis](tieraerzte/moebus.html)
 
@@ -94,6 +108,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 24.11.2018-25.11.2018
 - 23.02.2019-24.02.2019
+- 10.06.2019
 
 [Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
@@ -101,10 +116,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 13.01.2018-14.01.2018
-- 10.03.2018-11.03.2018
-- 01.09.2018-02.09.2018
 - 26.12.2018
+- 22.06.2019-23.06.2019
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
@@ -130,6 +143,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 01.12.2018-02.12.2018
 - 05.01.2019-06.01.2019
+- 04.05.2019-05.05.2019
 
 [Mehr informationen über die Praxis](tieraerzte/steinbach.html)
 
@@ -138,6 +152,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 12.01.2019-13.01.2019
+- 11.05.2019-12.05.2019
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
 
@@ -161,13 +176,11 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
 
-[Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
+[Praxis Wolandowitsch/Maxheim](tieraerzte/wolandowitsch.html)
 -------------------------------------------------------------
 
-- 25.12.2017-26.12.2017
-- 12.05.2018-13.05.2018
-- 23.06.2018-24.06.2018
-- 29.09.2018-30.09.2018
+- 01.05.2019
+
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
