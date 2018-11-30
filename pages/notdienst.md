@@ -87,10 +87,11 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 [Praxis Kölling & Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -------------------------------------------------------------
+- 24.11.2018-25.11.2018
+- 23.02.2019-24.02.2019
+- 10.06.2019
+- 12.10.2019-13.10.2019
 
-- 02.03.2019-03.03.2019
-- 15.06.2019-16.06.2019
-- 19.10.2019-20.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 
@@ -121,10 +122,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
-- 24.11.2018-25.11.2018
-- 23.02.2019-24.02.2019
-- 10.06.2019
-- 12.10.2019-13.10.2019
+- 02.03.2019-03.03.2019
+- 15.06.2019-16.06.2019
+- 19.10.2019-20.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
