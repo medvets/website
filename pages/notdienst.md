@@ -216,7 +216,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
 
 
-[Heute findet kein koordinierter Notruf statt. Wir müssen Sie leider an eine Klinik oder Praxis außerhalb Schaumburgs verweisen]
 ------------------------------------------------------------ 
 
 
