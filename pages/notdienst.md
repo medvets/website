@@ -122,6 +122,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
+- 05.01.2019-06.01.2019
 - 02.03.2019-03.03.2019
 - 15.06.2019-16.06.2019
 - 19.10.2019-20.10.2019
@@ -164,8 +165,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
-- 01.12.2018-02.12.2018
-- 05.01.2019-06.01.2019
 - 04.05.2019-05.05.2019
 - 31.08.2019-01.09.2019
 - 24.12.2019-25.12.2019
