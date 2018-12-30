@@ -6,14 +6,12 @@ title: Tierarztpraxis Möbus
 
 **eMail**: praxis@pferde-doc.de
 
-**web**: https://www.pferde-doc.de
+**web**: http://www.pferde-doc.de
 
 **Sprechzeiten**:
 -----------------
 
-|Montag  |Dienstag   |Mittwoch   |Donnerstag|Freitag   |Sa/So      |
-|--------|-----------|-----------|----------|----------|-----------|
-|18-19:30|n. Vereinb.|n. Vereinb.|18-19:30  |9:30-11:00|n. Vereinb.|
+nur nach telefonischer Vereinbarung
 
 **Adresse**:
 -----------
