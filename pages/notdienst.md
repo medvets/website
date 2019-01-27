@@ -188,8 +188,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 31.12.2018-01.01.2019
 - 02.02.2019-03.02.2019
-- 16.02.2019-17.02.2019
 - 13.04.2019-14.04.2019
+- 10.08.2019-11.08.2019
 
 [Mehr informationen über die Praxis](tieraerzte/weiglein.html)
 
@@ -197,8 +197,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
 
+- 16.02.2019-17.02.2019
 - 21.04.2019-22.04.2019
-- 10.08.2019-11.08.2019
 - 07.12.2019-08.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
