@@ -12,10 +12,10 @@ title: Tierarztpraxis Dr. Isabelle von Götz
 
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 11-13 | 11-13 | 11-13 | 11-13 | 11-13 | [siehe Notdienst](../notdienst.html) |
-| 17-19 |  --   | 16-18 | 16-18 | 16-18 | [siehe Notdienst](../notdienst.html) |
+| 09-13 | 09-13 | 09-13 | 09-13 | 09-13 | nach telefonischer Vereinbarung oder |
+| 16-19 |  --   | 16-18 | 16-18 | 16-18 | [siehe Notdienst](../notdienst.html) |
 
-und nach Vereinbarung
+und jeden Tag nach telefonischer Vereinbarung, OP-Zeit 9-11 Uhr, Notfälle bitte tel. anmelden
 
 Adresse:
 ---------
