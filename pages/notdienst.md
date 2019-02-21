@@ -58,9 +58,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Extertalbahn (Bosse & Heßling)](tieraerzte/extertalbahn.html)
 -------------------------------------------------------------
 
-- 27.04.2019-28.04.2019
-- 08.06.2019-09.06.2019
-- 14.12.2019-15.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/extertalbahn.html)
 
@@ -87,7 +84,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 [Praxis Kölling & Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -------------------------------------------------------------
-- 24.11.2018-25.11.2018
 - 23.02.2019-24.02.2019
 - 10.06.2019
 - 12.10.2019-13.10.2019
@@ -99,7 +95,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 29.12.2018-30.12.2018
+- 27.04.2019-28.04.2019
 - 18.05.2019-19.05.2019
 - 24.08.2019-25.08.2019
 - 14.09.2019-15.09.2019
@@ -155,8 +151,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
 -------------------------------------------------------------
 
-- 19.01.2019-20.01.2019
+- 08.06.2019-09.06.2019
 - 03.08.2019-04.08.2019
+- 14.12.2019-15.12.2019
 - 21.12.2019-22.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
