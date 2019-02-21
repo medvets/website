@@ -6,7 +6,7 @@ title: Praxen und Kliniken
 
 ### Tierärzte im Schaumburger Land
 
-Nachfolgend sind die Kontaktdaten und Öffnungszeiten der einzelen Tierarzt-Praxen und -Kliniken im Schaumburger Land aufgelistet:
+Nachfolgend sind die Kontaktdaten der einzelen Tierarzt-Praxen und -Kliniken im Schaumburger Land aufgelistet. Bitte klicken Sie auf den jeweiligen Link zur Anzeige der Details wie z.B. Öffungszeiten:
 
 </header>
 </div>
