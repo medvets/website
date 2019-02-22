@@ -58,6 +58,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Extertalbahn (Bosse & Heßling)](tieraerzte/extertalbahn.html)
 -------------------------------------------------------------
 
+- 16.03.2019-17.03.2022
 
 [Mehr informationen über die Praxis](tieraerzte/extertalbahn.html)
 
