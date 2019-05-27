@@ -1,10 +1,10 @@
-title: Tierarztpraxis Wolandowitsch
+title: Tierarztpraxis Kerstin Maxheim
 
-Inhaberin: Evely Wolandowitsch
+Inhaberin: Kerstin Maxheim
 
 **Telefon**:   05724 / 91 31 54
 
-**Web**: <http://www.wolandowitsch.de>
+**Web**: <http://www.kleintierpraxis-obernkirchen.de>
 
 
 Öffnungszeiten:
@@ -12,8 +12,8 @@ Inhaberin: Evely Wolandowitsch
 
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 10-12 | 10-12 | ----- | 10-12 | 10-12 | [siehe Notdienst](../notdienst.html) |
-| 16-18 | 17-19 | ----- | 16-18 | 16-18 | [siehe Notdienst](../notdienst.html) |
+| 09-12 | 09-12 | 08-12 | 09-12 | 08-12 | [siehe Notdienst](../notdienst.html) |
+| 15-18 | 16-19 | 15-17 | 16-19 | 14-17 | [siehe Notdienst](../notdienst.html) |
 
 
 
