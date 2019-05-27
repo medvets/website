@@ -26,7 +26,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
-- 22.12.2018-23.12.2018
 - 30.05.2019
 - 28.09.2019-29.09.2019
 - 23.11.2019-24.11.2019
@@ -91,8 +90,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 27.04.2019-28.04.2019
-- 18.05.2019-19.05.2019
 - 24.08.2019-25.08.2019
 - 14.09.2019-15.09.2019
 - 28.12.2019-29.12.2019
@@ -103,8 +100,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Möbus](tieraerzte/moebus.html)
 -------------------------------------------------------------
 
-- 08.12.2018-09.12.2018
-- 06.04.2019-07.04.2019
 - 06.07.2019-07.07.2019
 - 02.11.2019-03.11.2019
 
@@ -168,8 +163,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 12.01.2019-13.01.2019
-- 11.05.2019-12.05.2019
 - 07.09.2019-08.09.2019
 - 26.12.2019
 
@@ -179,9 +172,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Weiglein](tieraerzte/weiglein.html)
 -------------------------------------------------------------
 
-- 31.12.2018-01.01.2019
-- 02.02.2019-03.02.2019
-- 13.04.2019-14.04.2019
 - 10.08.2019-11.08.2019
 
 [Mehr informationen über die Praxis](tieraerzte/weiglein.html)
@@ -197,10 +187,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
 
-[Praxis Wolandowitsch/Maxheim](tieraerzte/wolandowitsch.html)
+[Praxis Maxheim](tieraerzte/wolandowitsch.html)
 -------------------------------------------------------------
 
-- 01.05.2019
 - 27.07.2019-28.07.2019
 - 30.11.2019-01.12.2019
 
