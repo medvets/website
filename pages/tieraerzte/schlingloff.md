@@ -6,7 +6,7 @@ title: Tierarztpraxis Schlingloff
 Asternweg 8
 31559 Haste- Wilhelmsdorf
 
-ACHTUNG:   bitte in Haste am NETTO Markt in Richtung Wilhelmsdorf abbiegen
+ACHTUNG:   bitte in Haste am NETTO Markt in Richtung Wilhelmsdorf Sigwardskirche abbiegen
 
 Termine immer nach Vereinbarung
 
