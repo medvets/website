@@ -123,7 +123,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 26.12.2018
 - 22.06.2019-23.06.2019
 - 21.09.2019-22.09.2019
-- 26.10.2019-27.10.2019
+- 09.11.2019-10.11.2019
 - 31.12.2019-01.01.2020
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
@@ -134,7 +134,8 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 19.04.2019-20.04.2019
 - 17.08.2019-18.08.2019
-- 09.11.2019-10.11.2019
+- 26.10.2019-27.10.2019
+
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
 
