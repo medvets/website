@@ -15,7 +15,7 @@ von 16 Uhr bis 18 Uhr;
                                                     Termine jederzeit nach Vereinbarung
 Hausbesuche und Termine auch am Wochenende
 
-Beachte: ANFAHRT  in Haste am NETTO Markt in Richtung WILHELMSDORF Sigwardskirche fahren, Verkehrsschilder beachten!!
+Beachte: ANFAHRT  in Haste am NETTO Markt in Richtung WILHELMSDORF fahren, Verkehrsschilder beachten!!
 in Wilhelmsdorf - rechts in den Asternweg - vorletztes Haus rechts
 
 
