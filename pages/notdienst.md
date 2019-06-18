@@ -48,7 +48,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 16.03.2019-17.03.2019
-- 29.06.2019-30.06.2019
+- übernommen von Praxis Schlingloff
 - 31.10.2019
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
@@ -122,6 +122,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 26.12.2018
 - 22.06.2019-23.06.2019
+  und 29.6 - 30.06.2019  übernommen
 - 21.09.2019-22.09.2019
 - 09.11.2019-10.11.2019
 - 31.12.2019-01.01.2020
