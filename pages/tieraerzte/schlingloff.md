@@ -7,14 +7,16 @@ Asternweg 8
 0163 83 83 123   zur Terminvereinbarung
 
 Termine nur nach vorheriger Absprache!
-bitte immer telefonisch anmelden
+bitte immer telefonisch anmelden, zum reibungslosen Ablauf auch im Notdienst bitte vorher anrufen.
 
-Montag und Donnerstag offen Servicezeiten (Abholung von Futter oder Medikamenten, Terminvereinbarungen, Impfungen, etc...)
-von 16 Uhr bis 18 Uhr;
-                                                    Termine jederzeit nach Vereinbarung
-Hausbesuche und Termine auch am Wochenende
+Montag und Donnerstag offen Servicezeiten von 16 bis 18 Uhr
+(Abholung von Futter oder Medikamenten, Terminvereinbarungen, Impfungen, etc...)
 
-Beachte: ANFAHRT  in Haste am NETTO Markt in Richtung WILHELMSDORF/SIGWARDSKIRCHE fahren, Verkehrsschilder beachten!!
+                                                   
+Hausbesuche mit Terminvereinbarung 
+
+Beachte:
+ANFAHRT  in Haste am NETTO Markt in Richtung WILHELMSDORF/SIGWARDSKIRCHE fahren, Verkehrsschilder beachten !!
 in Wilhelmsdorf - rechts in den Asternweg - vorletztes Haus rechts
 
 
