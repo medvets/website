@@ -90,7 +90,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 24.08.2019-25.08.2019
 - 14.09.2019-15.09.2019
 - 28.12.2019-29.12.2019
 
@@ -146,6 +145,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 08.06.2019-09.06.2019
 - 03.08.2019-04.08.2019
+- 24.08.2019-25.08.2019
 - 14.12.2019-15.12.2019
 - 21.12.2019-22.12.2019
 
