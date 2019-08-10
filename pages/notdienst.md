@@ -62,7 +62,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 - 23.03.2019-24.03.2019
 - 13.07.2019-14.07.2019
-- 05.10.2019-06.10.2019
+- 30.11.2019-01.12.2019
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -193,7 +193,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 27.07.2019-28.07.2019
-- 30.11.2019-01.12.2019
+- 05.10.2019-06.10.2019
 
 
 [Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
