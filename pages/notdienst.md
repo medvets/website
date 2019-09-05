@@ -27,7 +27,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 30.05.2019
-- 28.09.2019-29.09.2019
+- 19.10.2019-20.10.2019
 - 23.11.2019-24.11.2019
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
@@ -111,7 +111,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 05.01.2019-06.01.2019
 - 02.03.2019-03.03.2019
 - 15.06.2019-16.06.2019
-- 19.10.2019-20.10.2019
+- 28.09.2019-29.09.2019
 
 [Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
