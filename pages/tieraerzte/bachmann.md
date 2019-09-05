@@ -6,13 +6,16 @@ title: Dr. med vet. Norbert Bachmann
  
 **Web**: <http://www.docbachmann.de>
 
-Öffnungszeiten und nach telefonischer Vereinbarung:
+Öffnungszeiten:
+Die ersten 30 Minuten einer Sprechstunde sind Terminsprechstunde.
+
+Notdienst außerhalb der Sprechstunden nach telefonischer Vereinbarung.
 ---------------
 
 |  Mo         |  Di         |  Mi         |  Do         |  Fr         |           Sa+So                      |
 | -----       | -----       | -----       | -----       | -----       | ------------------------------------ |
-| 10:00-11:00 |             |             |10:00-11:00  |    -----    | Notdienst nach telefonischer Vereinbarung |
-| 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | 16:30-18:30 | Notdienst nach telefonischer Vereinbarung |
+| 10:00-11:00 |             |             |10:00-11:00  |  -----      | Notdienst nach telefonischer Vereinbarung |
+| 16:30-18:30 | 16:30-18:30 | 16:30-18:30 |16:30-18:30  | 16:30-18:30 | Notdienst nach telefonischer Vereinbarung |
 
 
 
