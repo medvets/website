@@ -189,14 +189,14 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
 
-[Praxis Maxheim](tieraerzte/wolandowitsch.html)
+[Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
 - 27.07.2019-28.07.2019
 - 05.10.2019-06.10.2019
 
 
-[Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
+[Mehr informationen über die Praxis](tieraerzte/maxheim.html)
 
 
 ------------------------------------------------------------ 
