@@ -1,4 +1,4 @@
-title: Tierarztpraxis Kerstin Maxheim
+title: Tierarztpraxis Kerstin Maxheim (ehemals Wolandowitsch)
 
 Inhaberin: Kerstin Maxheim
 
@@ -12,7 +12,7 @@ Inhaberin: Kerstin Maxheim
 
 |  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 09-12 | 09-12 | 08-12 | 09-12 | 08-12 | [siehe Notdienst](../notdienst.html) |
+| 09-12 | 09-12 | 08-12 | 09-12 | 08-12 | 09:30-11:30 jede gerade Kalenderwoche|
 | 15-18 | 16-19 | 15-17 | 16-19 | 14-17 | [siehe Notdienst](../notdienst.html) |
 
 
