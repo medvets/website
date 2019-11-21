@@ -55,7 +55,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
 
-[Praxis Extertalbahn]
+Praxis Extertalbahn
 ---------------------------------------------
 
 - 12.04.2020-13.04.2020
@@ -68,9 +68,11 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 23.03.2019-24.03.2019
-- 13.07.2019-14.07.2019
 - 30.11.2019-01.12.2019
+- 01.02.2020-02.02.2020
+- 16.05.2020-17.05.2020
+- 05.09.2020-06.09.2020
+- 31.12.2020-01.01.2021
 
 [Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
 
@@ -78,28 +80,20 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
-- 30.03.2019-31.03.2019
-- 20.07.2019-21.07.2019
-- 16.11.2019-17.11.2019
+- 21.05.2020
+- 18.07.2020-19.07.2020
+- 26.09.2020-27.09.2020
 
 [Mehr informationen über die Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
-
-
-[Praxis Kölling & Kirchner](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
--------------------------------------------------------------
-- 23.02.2019-24.02.2019
-- 10.06.2019
-- 12.10.2019-13.10.2019
-
-
-[Mehr informationen über die Praxis](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 14.09.2019-15.09.2019
 - 28.12.2019-29.12.2019
+- 15.02.2020-16.02.2020
+- 23.05.2020-24.05.2020
+- 12.09.2020-13.09.2020
 
 [Mehr informationen über die Praxis](tieraerzte/leis.html)
 
@@ -107,8 +101,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Möbus](tieraerzte/moebus.html)
 -------------------------------------------------------------
 
-- 06.07.2019-07.07.2019
-- 02.11.2019-03.11.2019
+- 22.02.2020-23.02.2020
+- 01.06.2020
+- 03.10.2020-04.10.2020
 
 [Mehr informationen über die Praxis](tieraerzte/moebus.html)
 
@@ -116,10 +111,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
-- 05.01.2019-06.01.2019
-- 02.03.2019-03.03.2019
-- 15.06.2019-16.06.2019
-- 28.09.2019-29.09.2019
+- 29.02.2020-01.03.2020
+- 06.06.2020-07.06.2020
+- 28.11.2020-29.11.2020
 
 [Mehr informationen über die Praxis](tieraerzte/roeckemann.html)
 
@@ -127,12 +121,10 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 26.12.2018
-- 22.06.2019-23.06.2019
-  und 29.6 - 30.06.2019  übernommen
-- 21.09.2019-22.09.2019
-- 09.11.2019-10.11.2019
 - 31.12.2019-01.01.2020
+- 07.03.2020-08.03.2020
+- 13.06.2020-14.06.2020
+- 21.11.2020-22.11.2020
 
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
@@ -140,9 +132,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Schmöe](tieraerzte/schmoe.html)
 -------------------------------------------------------------
 
-- 19.04.2019-20.04.2019
-- 17.08.2019-18.08.2019
-- 26.10.2019-27.10.2019
 
 
 [Mehr informationen über die Praxis](tieraerzte/schmoe.html)
@@ -151,11 +140,11 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
 -------------------------------------------------------------
 
-- 08.06.2019-09.06.2019
-- 03.08.2019-04.08.2019
-- 24.08.2019-25.08.2019
 - 14.12.2019-15.12.2019
 - 21.12.2019-22.12.2019
+- 14.03.2020-15.03.2020
+- 20.06.2020-21.06.2020
+- 22.08.2020-23.08.2020
 
 [Mehr informationen über die Praxis](tieraerzte/Shcherbyna.html)
 
@@ -163,9 +152,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
-- 04.05.2019-05.05.2019
-- 31.08.2019-01.09.2019
 - 24.12.2019-25.12.2019
+- 30.05.2020-31.05.2020
+- 19.09.2020-20.09.2020
 
 [Mehr informationen über die Praxis](tieraerzte/steinbach.html)
 
@@ -173,8 +162,10 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 07.09.2019-08.09.2019
 - 26.12.2019
+- 21.03.2020-22.03.2020
+- 27.06.2020-28.06.2020
+- 31.10.2020-01.11.2020
 
 [Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
 
@@ -182,7 +173,9 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Weiglein](tieraerzte/weiglein.html)
 -------------------------------------------------------------
 
-- 10.08.2019-11.08.2019
+- 28.03.2020-29.03.2020
+- 04.07.2020-05.07.2020
+- 07.11.2020-08.11.2020
 
 [Mehr informationen über die Praxis](tieraerzte/weiglein.html)
 
@@ -190,9 +183,10 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
 
-- 16.02.2019-17.02.2019
-- 21.04.2019-22.04.2019
 - 07.12.2019-08.12.2019
+- 04.04.2020-05.04.2020
+- 11.07.2020-12.07.2020
+- 14.11.2020-15.11.2020
 
 [Mehr informationen über die Praxis](tieraerzte/welge.html)
 
@@ -200,12 +194,20 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
-- 27.07.2019-28.07.2019
-- 05.10.2019-06.10.2019
+- 08.02.2020-09.02.2020
+- 10.04.2020-11.04.2020
+- 17.10.2020-18.10.2020
 
 
 [Mehr informationen über die Praxis](tieraerzte/maxheim.html)
 
+
+Praxis Abele
+-------------------
+
+- 18.04.2020-19.04.2020
+- 01.08.2020-02.08.2020
+- 05.12.2020-06.12.2020
 
 ------------------------------------------------------------ 
 
