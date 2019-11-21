@@ -1,7 +1,5 @@
 title: Aktueller Notdienst
 
-Arbeitstäglichen Notdienst bietet die [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html) an.
-
 Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 9 Uhr.
 An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
 
