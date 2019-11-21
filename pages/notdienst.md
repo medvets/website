@@ -129,14 +129,6 @@ Praxis Extertalbahn
 [Mehr informationen über die Praxis](tieraerzte/schlingloff.html)
 
 
-[Praxis Schmöe](tieraerzte/schmoe.html)
--------------------------------------------------------------
-
-
-
-[Mehr informationen über die Praxis](tieraerzte/schmoe.html)
-
-
 [Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
 -------------------------------------------------------------
 
