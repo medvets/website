@@ -13,10 +13,10 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Anton/van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
-- 24.12.2018-25-12.2018
-- 26.01.2019-27.01.2019
-- 09.03.2019-10.03.2019
-- 25.05.2019-26.05.2019
+- 04.01.2020-05.01.2020
+- 08.08.2020-09.08.2020
+- 10.10.2020-11.10.2020
+- 12.12.2020-13.10.2020
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -24,9 +24,11 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
-- 30.05.2019
-- 19.10.2019-20.10.2019
 - 23.11.2019-24.11.2019
+- 11.01.2020-12.01.2020
+- 01.05.2020
+- 15.08.2020-16.08.2020
+- 19.12.2020-20.12.2020
 
 [Mehr informationen über die Praxis](tieraerzte/bachmann.html)
 
@@ -34,10 +36,10 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
-- 15.12.2018-16.12.2018
-- 09.02.2019-10.02.2019
-- 01.06.2019-02.06.2019
-- 03.10.2019
+- 18.01.2020-10.01.2020
+- 02.05.2020-03.05.2020
+- 24.10.2020-25.10.2020
+- 24.12.2020-25.12.2020
 
 [Mehr informationen über die Praxis](tieraerzte/beisse.html)
 
@@ -45,12 +47,20 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
-- 16.03.2019-17.03.2019
-- übernommen von Praxis Schlingloff
-- 31.10.2019
+- 25.01.2020-26.01.2020
+- 09.05.2020-10.05.2020
+- 29.08.2020-30.08.2020
+- 26.12.2020-27.12.2020
+
 
 [Mehr informationen über die Praxis](tieraerzte/daum.html)
 
+[Praxis Extertalbahn]
+---------------------------------------------
+
+- 12.04.2020-13.04.2020
+- 25.04.2020-26.04.2020
+- 25.07.2020-26.07.2020
 
 [Mehr informationen über die Praxis](tieraerzte/extertalbahn.html)
 
