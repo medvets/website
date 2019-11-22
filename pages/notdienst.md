@@ -16,7 +16,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 - 04.01.2020-05.01.2020
 - 08.08.2020-09.08.2020
 - 10.10.2020-11.10.2020
-- 12.12.2020-13.10.2020
+- 12.12.2020-13.12.2020
 
 [Mehr informationen über die Praxis](tieraerzte/anton.html)
 
@@ -36,7 +36,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
-- 18.01.2020-10.01.2020
+- 18.01.2020-19.01.2020
 - 02.05.2020-03.05.2020
 - 24.10.2020-25.10.2020
 - 24.12.2020-25.12.2020
