@@ -231,7 +231,7 @@ Mehrere Datumsangaben werden durch Komma getrennt. Es ist auch möglich
 Zeiträume anzugeben, wobei ein Bindestrich das Start- vom End-Datum
 abgrenzt. Beispiel `# Überschrift (23.04.2014 - 25.04.2014)`.
 
-(C) 2014, Samuel John (www.samueljohn.de)
+(C) 2014, 2019 Samuel John (www.samueljohn.de)
 Released under MIT license.
 -->
 
@@ -329,8 +329,8 @@ function now_in_date_ranges ( date_ranges, duration_before, duration_after ) {
 // `before_now` long earlier than `now`.
 function seek_and_hide () {
     // Not only show at beginning of first day but this long before already
-    var duration_before = moment.duration(1, 'days');
-    var duration_after  = moment.duration(1, 'days');
+    var duration_before = moment.duration(12, 'hours');
+    var duration_after  = moment.duration(8, 'hours');
     var h2_headings = document.getElementById("content").getElementsByTagName("H2");
     console.log("seek and hide...");
     console.log("found " + h2_headings.length + " h2 headings.");
