@@ -13,7 +13,7 @@ save_as: index.html
 
 Für Information zum aktuellen Notdienst klicken Sie bitte auf den entsprechenden oben gelisteten Reiter.
 
-Die Kontaktdaten aller Schaumburger Praxen finden Sie in der obigen Liste unter "Praxen und Kliniken"
+Die Kontaktdaten aller Schaumburger Praxen, die am koordinierten Notdienst teilnehmen, finden Sie in der obigen Liste unter "Praxen und Kliniken"
 
 
 </header>
