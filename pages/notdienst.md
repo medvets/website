@@ -1,7 +1,7 @@
 title: Aktueller Notdienst
 
-Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 9 Uhr.
-An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
+Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 8 Uhr.
+An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 8 Uhr.
 
 Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist): 
 
