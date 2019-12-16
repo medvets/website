@@ -10,13 +10,38 @@ Entsprechend sind die Tieräerzte verpflichtet, **mindestens den 2fachen Gebühr
 Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist): 
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
-Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.JJJJ-TT.MM.JJJJ
-Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
+Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
+Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 31.12.2019-01.01.2020
 
 [Praxis Anton/van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
 - 04.01.2020-05.01.2020
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 11.01.2020-12.01.2020
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 18.01.2020-19.01.2020
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 25.01.2020-26.01.2020
+
+
+[Praxis Anton/van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
 - 08.08.2020-09.08.2020
 - 10.10.2020-11.10.2020
 - 12.12.2020-13.12.2020
@@ -28,7 +53,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 -------------------------------------------------------------
 
 - 23.11.2019-24.11.2019
-- 11.01.2020-12.01.2020
 - 01.05.2020
 - 15.08.2020-16.08.2020
 - 19.12.2020-20.12.2020
@@ -39,7 +63,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
-- 18.01.2020-19.01.2020
 - 02.05.2020-03.05.2020
 - 24.10.2020-25.10.2020
 - 24.12.2020-25.12.2020
@@ -50,7 +73,6 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
-- 25.01.2020-26.01.2020
 - 09.05.2020-10.05.2020
 - 29.08.2020-30.08.2020
 - 26.12.2020-27.12.2020
@@ -124,7 +146,6 @@ Praxis Extertalbahn
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 31.12.2019-01.01.2020
 - 07.03.2020-08.03.2020
 - 13.06.2020-14.06.2020
 - 21.11.2020-22.11.2020
