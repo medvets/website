@@ -3,12 +3,14 @@ title: Aktueller Notdienst
 Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 8 Uhr.
 An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 8 Uhr.
 
+Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei Nacht ..., an Wochenenden ... und an Feiertagen erbracht werden.
+Entsprechend sind die Tieräerzte verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
+
 Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist): 
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
-
 
 [Praxis Anton/van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
