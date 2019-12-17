@@ -64,7 +64,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 01.02.2020-02.02.2020
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
 - 08.02.2020-09.02.2020
@@ -159,7 +159,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 23.05.2020-24.05.2020
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+[Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
 - 30.05.2020-31.05.2020
