@@ -114,7 +114,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 10.04.2020-11.04.2020
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn)
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 ---------------------------------------------
 
 - 12.04.2020-13.04.2020
@@ -124,7 +124,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 18.04.2020-19.04.2020
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn)
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 ---------------------------------------------
 
 - 25.04.2020-26.04.2020
@@ -206,7 +206,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 18.07.2020-19.07.2020
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn)
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 ---------------------------------------------
 
 - 25.07.2020-26.07.2020
