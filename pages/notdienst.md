@@ -84,7 +84,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 29.02.2020-01.03.2020
 
-
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
@@ -115,17 +114,17 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 10.04.2020-11.04.2020
 
-Praxis Extertalbahn
+[Praxis Extertalbahn](tieraerzte/extertalbahn)
 ---------------------------------------------
 
 - 12.04.2020-13.04.2020
 
-[Praxis Abele] (tieraerzte/abele.html)
+[Praxis Abele](tieraerzte/abele.html)
 -------------------
 
 - 18.04.2020-19.04.2020
 
-Praxis Extertalbahn
+[Praxis Extertalbahn](tieraerzte/extertalbahn)
 ---------------------------------------------
 
 - 25.04.2020-26.04.2020
@@ -207,7 +206,7 @@ Praxis Extertalbahn
 
 - 18.07.2020-19.07.2020
 
-Praxis Extertalbahn
+[Praxis Extertalbahn](tieraerzte/extertalbahn)
 ---------------------------------------------
 
 - 25.07.2020-26.07.2020
@@ -306,7 +305,7 @@ Praxis Extertalbahn
 
 - 28.11.2020-29.11.2020
 
-[Praxis Abele] (tieraerzte/abele.html)
+[Praxis Abele](tieraerzte/abele.html)
 -------------------
 
 - 05.12.2020-06.12.2020
