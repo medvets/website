@@ -1,5 +1,6 @@
 title: Aktueller Notdienst
 
+
 Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 8 Uhr.
 An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 8 Uhr.
 
@@ -7,7 +8,7 @@ Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Geb
 
 Entsprechend sind die Tieräerzte verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
 
-Nachfolgend werden die Praxen, welche heute Notdienst haben, angezeigt (falls heute ein Wochenende oder Feiertag ist): 
+Nachfolgend wird die notdiensthabende Praxis angezeigt (nur nach vorheriger telefonischer Anmeldung) : 
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
@@ -212,7 +213,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 - 25.07.2020-26.07.2020
 
 
-[Praxis Abele] (tieraerzte/abele.html)
+[Praxis Abele](tieraerzte/abele.html)
 -------------------
 
 - 01.08.2020-02.08.2020
