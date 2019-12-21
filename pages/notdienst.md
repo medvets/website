@@ -2,6 +2,7 @@ title: Aktueller Notdienst
 
 
 Der Notdienst beginnt am Freitag um 18 Uhr und endet am Montag um 8 Uhr.
+
 An Feiertagen beginnt der Notdienst am Vortag um 18 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.
 
 Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei Nacht ..., an Wochenenden ... und an Feiertagen erbracht werden."
