@@ -1,5 +1,5 @@
 
-title: Praxis Extertalbahn (Bosse & Heßling)
+Praxis Extertalbahn (Bosse & Heßling)
 
 **Telefon**: 05751 9930660
 
