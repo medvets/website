@@ -9,7 +9,7 @@ Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Geb
 
 Die Tieräerzte sind verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
 
-Nachfolgend wird die notdiensthabende Praxis angezeigt (nur nach vorheriger telefonischer Anmeldung) : 
+Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur vorherigen telefonischen Anmeldung, damit Ihr Notfall auch zeitnah behandelt werden kann.
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
