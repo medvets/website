@@ -8,6 +8,7 @@ An Feiertagen beginnt der Notdienst am Vortag um 18 Uhr und dauert bis zum darau
 Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
 
 Die Tierärzte sind verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
+Zusätzlich ist eine **Notdienstgebühr von 50,- €** pro Behandlungsfall zu erheben. 
 
 Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur vorherigen telefonischen Anmeldung, damit Ihr Notfall auch zeitnah behandelt werden kann.
 
