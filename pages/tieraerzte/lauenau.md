@@ -10,7 +10,7 @@ Coppenbrügger Landstr. 31
     
 Tel: 05043-2233
     
-E-Mail: tierarztpraxis-lauenau@magenta.de
+E-Mail: <tierarztpraxis-lauenau@magenta.de>
 
 Website: <http://www.tierarztpraxis-lauenau.de>
 
