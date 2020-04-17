@@ -1,4 +1,4 @@
-title: Tierarztpraxis Lauenau - Dr. Silvia Fecht & Dr. Stefanie Pohl
+title: Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl
 
 # Tierarztpraxis Lauenau
 
