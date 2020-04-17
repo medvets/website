@@ -122,7 +122,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 12.04.2020-13.04.2020
 
-[Praxis Abele](tieraerzte/abele.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------
 
 - 18.04.2020-19.04.2020
@@ -215,7 +215,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 - 25.07.2020-26.07.2020
 
 
-[Praxis Abele](tieraerzte/abele.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------
 
 - 01.08.2020-02.08.2020
@@ -308,7 +308,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 28.11.2020-29.11.2020
 
-[Praxis Abele](tieraerzte/abele.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------
 
 - 05.12.2020-06.12.2020
