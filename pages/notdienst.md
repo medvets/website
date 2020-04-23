@@ -155,7 +155,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
-- 21.05.2020
+- 01.06.2020
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
@@ -170,7 +170,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 [Praxis Möbus](tieraerzte/moebus.html)
 -------------------------------------------------------------
 
-- 01.06.2020
+- 21.05.2020
 
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
