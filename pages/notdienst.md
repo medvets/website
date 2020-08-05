@@ -42,7 +42,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 31.12.2019-01.01.2020
 
-[Praxis Anton/van der Weijden](tieraerzte/anton.html)
+[Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
 - 04.01.2020-05.01.2020
@@ -220,7 +220,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 01.08.2020-02.08.2020
 
-[Praxis Anton/van der Weijden](tieraerzte/anton.html)
+[Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
 - 08.08.2020-09.08.2020
@@ -266,7 +266,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 03.10.2020-04.10.2020
 
-[Praxis Anton/van der Weijden](tieraerzte/anton.html)
+[Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
 - 10.10.2020-11.10.2020
@@ -313,7 +313,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 05.12.2020-06.12.2020
 
-[Praxis Anton/van der Weijden](tieraerzte/anton.html)
+[Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
 - 12.12.2020-13.12.2020
