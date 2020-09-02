@@ -8,7 +8,6 @@ Inhaberin: Ulrike **Welge**, Prakt. Tierärztin
 
 **Webseite**: <a href="https://kleintierpraxis-brandshof.de">Kleintierpraxis Brandshof</a>
 
-
 Öffnungszeiten:
 ---------------
 
