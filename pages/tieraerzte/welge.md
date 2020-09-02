@@ -6,7 +6,7 @@ Inhaberin: Ulrike **Welge**, Prakt. Tierärztin
 
 **eMail**: welge (ät) welge-pr.de
 
-**Website**: https://kleintierpraxis-brandshof.de
+**Webseite**: <a href="https://kleintierpraxis-brandshof.de">Kleintierpraxis Brandshof</a>
 
 
 Öffnungszeiten:
