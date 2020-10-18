@@ -35,6 +35,7 @@ jobs:
     - name: Build website
       id: build
       run: |
+        ls
         pelican -s website/pelicanconf.py -v -D 
 
     - name: Sync files to web server
