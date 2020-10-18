@@ -39,6 +39,7 @@ jobs:
     - name: Build website
       id: build
       run: |
+        tree -L 2 .
         pelican -s website/pelicanconf.py -v -D 
 
     - name: Sync files to web server
@@ -61,4 +62,4 @@ jobs:
         
     
     - name: Display status from deploy
-      run: echo "${{ steps.build.outputs.status }} ${{ steps.deploy.outputs.status }}"
+      run: echo "${{ steps.deploy.outputs.status }}"
