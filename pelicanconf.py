@@ -2,7 +2,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Tierärzte Schaumburger Land'
 SITENAME = 'Tierärzte Schaumburger Land'
-SITEURL = ''
+SITEURL = 'https://tieraerzte-schaumburg.de'
 CC_LICENSE = 'CC-BY'
 
 TIMEZONE = 'Europe/Berlin'
@@ -50,7 +50,7 @@ PATH = '.'
 
 DEFAULT_PAGINATION = True
 
-MARKDOWN = ['extra','md_in_html']
+MD_EXTENSIONS = ['extra', 'md_in_html']
 # We don't need a page listing the different authors
 AUTHORS_SAVE_AS = False
 
