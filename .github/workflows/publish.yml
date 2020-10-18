@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        path: 'website'
       # will checkout the website repository as the default action
 
     - name: Set up Python 3.8
@@ -26,16 +28,17 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: 'medvets/medvets-theme'
+        path: 'medvets-theme'
      
     - name: Checkout hierarchy plugin (from Samuels fork of pelican-plugins)
       uses: actions/checkout@v2
       with:
         repository: 'samueljohn/pelican-plugins'
+        path: 'pelican-plugins'
         
     - name: Build website
       id: build
       run: |
-        ls
         pelican -s website/pelicanconf.py -v -D 
 
     - name: Sync files to web server
