@@ -4,10 +4,19 @@ status: hidden
 ## Angaben nach § 5 TMG:
 
 #### Tierärzte Schaumburger Land
+Kreisstellenvorsitzende:
 
-    <todo: adresse, tel>
+Dr. med. vet. Verena Scheper
 
+Hauptstr. 9
 
+31555 Suthfeld
+
+Tel.: 05723 7085969
+
+e-mail. scheper.verena@mh-hannover.de
+
+Vielen herzlichen Dank an Eckard Struckmann für das schöne Bild von "Elvis", das unsere Startzeite ziert.
 
 ## Haftungsausschluss
 

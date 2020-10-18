@@ -1,124 +1,347 @@
 title: Aktueller Notdienst
 
-Die Notdienstzeit für die Wochenenden beginnt bereits am Freitag um 18 Uhr und endet am Montag um 9 Uhr.
-An Feiertagen beginnt der Notdienst am Vortag des Feiertags um 18 Uhr und dauert bis zum Tag nach dem Feiertag um 9 Uhr.
 
-Nachfolgend werden die Praxen, welche heute Notdienst haben angezeigt (falls heute ein Wochenende oder Feiertag ist):
+Der Notdienst beginnt am Freitag um 18 Uhr und endet am Montag um 8 Uhr.
+
+An Feiertagen beginnt der Notdienst am Vortag um 18 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.
+
+Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
+
+Die Tierärzte sind verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
+Zusätzlich ist eine **Notdienstgebühr von 50,- €** pro Behandlungsfall zu erheben. 
+
+Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur vorherigen telefonischen Anmeldung, damit Ihr Notfall auch zeitnah behandelt werden kann.
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
-Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsberiehc als TT.MM.JJJJ-TT.MM.JJJJ
-Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angezeigt. -->
+Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
+Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Finkbeiner](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 31.12.2014-01.01.2015
-- 31.01.2015-01.02.2015
-- 21.03.2015-22.03.2015
-- 25.04.2015-26.04.2015
-- 14.05.2015
-- 23.05.2015-24.05.2015
-- 20.06.2015-21.05.2015
-- 01.08.2015-02.08.2015
-- 19.09.2015-20.09.2015
-- 24.10.2015-25.10.2015
-- 12.12.2015
-- 19.12.2015-20.12.2015)
-
-[Mehr informationen über die Praxis](tieraerzte/finkbeiner.html)
-
-
-
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
 -------------------------------------------------------------
 
-- 25.12.2014-26.12.2014
-- 24.01.2015-25.01.2015
-- 14.03.2015-15.03.2015
-- 02.05.2015-03.05.2015
-- 30.05.2015-31.05.2015
-- 18.07.2015-19.07.2015
-- 22.08.2015-23.08.2015
-- 26.09.2015-27.09.2015
-- 30.10.2015-01.11.2015
-- 05.12.2015-06.12.2015
+- 21.12.2019-22.12.2019
 
-[Mehr informationen über die Praxis](tieraerzte/leis.html)
-
-
-[Praxis Anton](tieraerzte/anton.html)
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
-- 24.12.2014
-- 03.01.2015-04.01.2015
-- 21.02.2015-22.02.2015
-- 18.04.2015-19.04.2015
-- 16.05.2015-17.05.2015
-- 06.06.2015-07.06.2015
-- 25.07.2015-26.07.2015
-- 12.09.2015-13.09.2015
-- 10.10.2015-11.10.2015
-- 28.11.2015-29.11.2015
-- 26.12.2015-27.12.2015
-
-[Mehr informationen über die Praxis](tieraerzte/anton.html)
-
-
-[Praxis Wolandowitsch](tieraerzte/wolandowitsch.html)
--------------------------------------------------------------
-
-- 10.01.2015-11.01.2015
-- 07.03.2015-08.03.2015
-- 05.04.2015-06.04.2015
-- 01.05.2015
-- 25.05.2015
-- 27.06.2015-28.06.2015
-- 15.08.2015-16.08.2015
-- 03.10.2015-04.10.2015
-- 13.12.2015
-- 31.12.2015
-
-[Mehr informationen über die Praxis](tieraerzte/wolandowitsch.html)
-
+- 24.12.2019-25.12.2019
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 17.01.2015-18.01.2015
-- 09.05.2015-10.05.2015
-- 11.07.2015-12.07.2015
+- 26.12.2019
 
-[Mehr informationen über die Praxis](tieraerzte/von-goetz.html)
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
 
+- 28.12.2019-29.12.2019
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 31.12.2019-01.01.2020
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 04.01.2020-05.01.2020
 
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
-- 27.12.2014-28.12.2014
-- 07.02.2015-08.02.2015
-- 28.02.2015-01.03.2015
-- 28.03.2015-29.03.2015
-- 11.04.2015-12.04.2015
-- 04.07.2015-05.07.2015
-- 08.08.2015-09.08.2015
-- 05.09.2015-06.09.2015
-- 17.10.2015-18.10.2015
-- 21.11.2015-22.11.2015
-- 24.12.2015-25.12.2015
 
-[Mehr informationen über die Praxis](tieraerzte/bachmann.html)
+- 11.01.2020-12.01.2020
 
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
 
-[Praxis Schmöe](tieraerzte/schmoe.html)
+- 18.01.2020-19.01.2020
+
+[Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
-- 14.02.2015-15.02.2015
-- 03.04.2015-04.04.2015
-- 13.06.2015-14.06.2015
-- 29.08.2015-30.08.2015
-- 07.11.2015-08.11.2015
 
-[Mehr informationen über die Praxis](tieraerzte/schmoe.html)
+- 25.01.2020-26.01.2020
 
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 01.02.2020-02.02.2020
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 08.02.2020-09.02.2020
+
+[Praxis Möbus](tieraerzte/moebus.html)
+-------------------------------------------------------------
+
+- 15.02.2020-16.02.2020
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 22.02.2020-23.02.2020
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 29.02.2020-01.03.2020
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 07.03.2020-08.03.2020
+
+[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+-------------------------------------------------------------
+
+- 14.03.2020-15.03.2020
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 21.03.2020-22.03.2020
+
+[Praxis Weiglein](tieraerzte/weiglein.html)
+-------------------------------------------------------------
+
+- 28.03.2020-29.03.2020
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 04.04.2020-05.04.2020
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 10.04.2020-11.04.2020
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+---------------------------------------------
+
+- 12.04.2020-13.04.2020
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 18.04.2020-19.04.2020
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+---------------------------------------------
+
+- 25.04.2020-26.04.2020
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 01.05.2020
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 02.05.2020-03.05.2020
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 09.05.2020-10.05.2020
+
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 16.05.2020-17.05.2020
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 01.06.2020
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 23.05.2020-24.05.2020
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 30.05.2020-31.05.2020
+
+[Praxis Möbus](tieraerzte/moebus.html)
+-------------------------------------------------------------
+
+- 21.05.2020
+
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 06.06.2020-07.06.2020
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 13.06.2020-14.06.2020
+
+[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+-------------------------------------------------------------
+
+- 20.06.2020-21.06.2020
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 27.06.2020-28.06.2020
+
+[Praxis Weiglein](tieraerzte/weiglein.html)
+-------------------------------------------------------------
+
+- 04.07.2020-05.07.2020
+
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 11.07.2020-12.07.2020
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 18.07.2020-19.07.2020
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+---------------------------------------------
+
+- 25.07.2020-26.07.2020
+
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 01.08.2020-02.08.2020
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 08.08.2020-09.08.2020
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 15.08.2020-16.08.2020
+
+[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+-------------------------------------------------------------
+
+- 22.08.2020-23.08.2020
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 29.08.2020-30.08.2020
+
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 05.09.2020-06.09.2020
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 12.09.2020-13.09.2020
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 19.09.2020-20.09.2020
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 26.09.2020-27.09.2020
+
+
+[Praxis Möbus](tieraerzte/moebus.html)
+-------------------------------------------------------------
+
+- 03.10.2020-04.10.2020
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 10.10.2020-11.10.2020
+
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 17.10.2020-18.10.2020
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 24.10.2020-25.10.2020
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 31.10.2020-01.11.2020
+
+[Praxis Weiglein](tieraerzte/weiglein.html)
+-------------------------------------------------------------
+
+- 07.11.2020-08.11.2020
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 14.11.2020-15.11.2020
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 21.11.2020-22.11.2020
+
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 28.11.2020-29.11.2020
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 05.12.2020-06.12.2020
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 12.12.2020-13.12.2020
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 19.12.2020-20.12.2020
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 24.12.2020-25.12.2020
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 26.12.2020-27.12.2020
+
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 31.12.2020-01.01.2021
+
+
+
+
+------------------------------------------------------------ 
 
 
 Reguläre Dienstzeiten
@@ -145,11 +368,11 @@ Mehrere Datumsangaben werden durch Komma getrennt. Es ist auch möglich
 Zeiträume anzugeben, wobei ein Bindestrich das Start- vom End-Datum
 abgrenzt. Beispiel `# Überschrift (23.04.2014 - 25.04.2014)`.
 
-(C) 2014, Samuel John (www.samueljohn.de)
+(C) 2014, 2019 Samuel John (www.samueljohn.de)
 Released under MIT license.
 -->
 
-<script src="moment.js"></script>
+<script src="/pages/moment.js"></script>
 <script>
 
 // Find html nodes on the same level after `elem`, up to but excluding the
@@ -243,8 +466,8 @@ function now_in_date_ranges ( date_ranges, duration_before, duration_after ) {
 // `before_now` long earlier than `now`.
 function seek_and_hide () {
     // Not only show at beginning of first day but this long before already
-    var duration_before = moment.duration(1, 'days');
-    var duration_after  = moment.duration(1, 'days');
+    var duration_before = moment.duration(12, 'hours');
+    var duration_after  = moment.duration(8, 'hours');
     var h2_headings = document.getElementById("content").getElementsByTagName("H2");
     console.log("seek and hide...");
     console.log("found " + h2_headings.length + " h2 headings.");
