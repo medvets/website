@@ -50,6 +50,7 @@ PATH = '.'
 
 DEFAULT_PAGINATION = True
 
+MD_EXTENSIONS = ['extra','md_in_html']
 # We don't need a page listing the different authors
 AUTHORS_SAVE_AS = False
 

@@ -1,13 +1,12 @@
 Title: Tierärzte im Schaumburger Land
 Summary: Tierärzte
-Date: 2015-01-30
+Date: 2020-10-18
 URL: index.html
 save_as: index.html
 
 <!-- The previous two lines make this the Homepage -->
 
-<div markdown="1">
-<header class="image-bg-fluid-height" style="background: url('./images/img02.JPG') no-repeat center center scroll; color:white;">
+<header markdown="1" class="image-bg-fluid-height" style="background: url('./images/img02.JPG') no-repeat center center scroll; color:white;">
 
 ### Herzlich Willkommen bei den Tierärzten des Schaumburger Landes!
 
@@ -17,7 +16,6 @@ Die Kontaktdaten aller Schaumburger Praxen finden Sie in der obigen Liste unter 
 
 
 </header>
-</div>
 
 
 * * * * * *
