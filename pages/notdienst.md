@@ -92,7 +92,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 07.03.2020-08.03.2020
 
-[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 14.03.2020-15.03.2020
@@ -183,7 +183,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 13.06.2020-14.06.2020
 
-[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 20.06.2020-21.06.2020
@@ -230,7 +230,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 15.08.2020-16.08.2020
 
-[Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 22.08.2020-23.08.2020
@@ -372,7 +372,7 @@ abgrenzt. Beispiel `# Überschrift (23.04.2014 - 25.04.2014)`.
 Released under MIT license.
 -->
 
-<script src="/pages/moment.js"></script>
+<script src="/moment.js"></script>
 <script>
 
 // Find html nodes on the same level after `elem`, up to but excluding the
