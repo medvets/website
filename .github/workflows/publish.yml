@@ -25,12 +25,12 @@ jobs:
     - name: Checkout medvets-theme
       uses: actions/checkout@v2
       with:
-        repository: 'https://github.com/medvets/medvets-theme.git'
+        repository: 'medvets/medvets-theme'
      
     - name: Checkout hierarchy plugin (from Samuels fork of pelican-plugins)
       uses: actions/checkout@v2
       with:
-        repository: 'https://github.com/samueljohn/pelican-plugins.git'
+        repository: 'samueljohn/pelican-plugins'
         
     - name: Build website
       id: build
