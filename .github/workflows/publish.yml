@@ -45,21 +45,19 @@ jobs:
 
     - name: Sync files to web server
       id: deploy
-      # You may pin to the exact commit or the version.
-      # uses: Pendect/action-rsyncer@2554a1e574cf229fb144f23ea5971dbdca8ae8e3
-      uses: Pendect/action-rsyncer@v1.1.0
-      env:
-        # Generate like so:
-        # ssh-keygen -f ~/.ssh/deploy_key_rsa -q -P "" 
-        # cat ~/.ssh/deploy_key_rsa.pub
-        DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
+      uses: Burnett01/rsync-deployments@4.1
+      # Generate like so:
+      # ssh-keygen -f ~/.ssh/deploy_key_rsa -q -P "" 
+      # cat ~/.ssh/deploy_key_rsa.pub
+      # Add pub key to ~/.ssh/authorized_hosts
+      # Add private deploy_key_rsa to Github as a secret on the website
       with:
-        # Rsync flags
-        flags: # default is -avzr --delete
-        # Local folder to be synced
-        src: html/
-        # Remote server and path. i.e user@server.com:/var/www/server.com/
-        dest: 'medvets@vanness.uberspace.de:~/html/'
+        switches: -avzr --delete
+        path: html/
+        remote_path: /var/www/virtual/medvets/html/
+        remote_host: vanness.uberspace.de
+        remote_user: medvets
+        remote_key: ${{ DEPLOY_KEY }}
         
     
     - name: Display status from deploy
