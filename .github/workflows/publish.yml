@@ -57,9 +57,9 @@ jobs:
         # Rsync flags
         flags: # default is -avzr --delete
         # Local folder to be synced
-        src: 'html/'
+        src: html/
         # Remote server and path. i.e user@server.com:/var/www/server.com/
-        dest: 'medvets@vanness.uberspace.de:/var/www/virtual/medvets/html/'
+        dest: 'medvets@vanness.uberspace.de:~/html/'
         
     
     - name: Display status from deploy
