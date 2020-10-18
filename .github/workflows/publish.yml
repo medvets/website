@@ -40,8 +40,8 @@ jobs:
       id: build
       run: |
         ls
-        ls -la html/
         pelican -s website/pelicanconf.py -v -D 
+        ls -la html/
 
     - name: Sync files to web server
       id: deploy
