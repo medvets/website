@@ -57,7 +57,7 @@ jobs:
         remote_path: /var/www/virtual/medvets/html/
         remote_host: vanness.uberspace.de
         remote_user: medvets
-        remote_key: ${{ DEPLOY_KEY }}
+        remote_key: ${{ secrets.DEPLOY_KEY }}
         
     
     - name: Display status from deploy
