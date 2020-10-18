@@ -372,7 +372,7 @@ abgrenzt. Beispiel `# Überschrift (23.04.2014 - 25.04.2014)`.
 Released under MIT license.
 -->
 
-<script src="moment.js"></script>
+<script src="/pages/moment.js"></script>
 <script>
 
 // Find html nodes on the same level after `elem`, up to but excluding the
