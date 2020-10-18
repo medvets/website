@@ -1,6 +1,6 @@
 title: Impressum
 status: hidden
-save_as: pages/implressum.html
+save_as: pages/impressum.html
 
 ## Angaben nach § 5 TMG:
 
