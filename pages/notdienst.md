@@ -328,10 +328,15 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 24.12.2020-25.12.2020
 
-[Praxis Daum](tieraerzte/daum.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 26.12.2020-27.12.2020
+- 26.12.2020
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 27.12.2020
 
 [Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
