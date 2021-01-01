@@ -22,8 +22,8 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 31.12.2020-01.01.2021
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
 
 - 02.01.2021-03.01.2021
 
@@ -52,256 +52,270 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 05.02.2021-07.02.2021
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 14.03.2020-15.03.2020
-
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
-- 21.03.2020-22.03.2020
+- 12.02.2021-14.02.2021
 
-[Praxis Weiglein](tieraerzte/weiglein.html)
--------------------------------------------------------------
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+---------------------------------------------
 
-- 28.03.2020-29.03.2020
+- 19.02.2021-21.02.2021
 
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
 
-- 04.04.2020-05.04.2020
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 10.04.2020-11.04.2020
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
----------------------------------------------
-
-- 12.04.2020-13.04.2020
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 18.04.2020-19.04.2020
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
----------------------------------------------
-
-- 25.04.2020-26.04.2020
-
-[Praxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------
-
-- 01.05.2020
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 02.05.2020-03.05.2020
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 09.05.2020-10.05.2020
-
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 16.05.2020-17.05.2020
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 01.06.2020
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 23.05.2020-24.05.2020
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 30.05.2020-31.05.2020
-
-[Praxis Möbus](tieraerzte/moebus.html)
--------------------------------------------------------------
-
-- 21.05.2020
-
+- 26.02.2021-28.02.2021
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
-- 06.06.2020-07.06.2020
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 13.06.2020-14.06.2020
+- 05.03.2021-07.03.2021
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
-- 20.06.2020-21.06.2020
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 27.06.2020-28.06.2020
-
-[Praxis Weiglein](tieraerzte/weiglein.html)
--------------------------------------------------------------
-
-- 04.07.2020-05.07.2020
-
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-
-- 11.07.2020-12.07.2020
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 18.07.2020-19.07.2020
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
----------------------------------------------
-
-- 25.07.2020-26.07.2020
-
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 01.08.2020-02.08.2020
+- 12.03.2021-14.03.2021
 
 [Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
-- 08.08.2020-09.08.2020
+- 19.03.2021-21.03.2021
 
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
-- 15.08.2020-16.08.2020
+- 26.03.2021-28.03.2021
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
 
-- 22.08.2020-23.08.2020
+-01.04.2021-02.04.2021
 
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
-- 29.08.2020-30.08.2020
-
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 05.09.2020-06.09.2020
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 12.09.2020-13.09.2020
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 19.09.2020-20.09.2020
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 26.09.2020-27.09.2020
-
-
-[Praxis Möbus](tieraerzte/moebus.html)
--------------------------------------------------------------
-
-- 03.10.2020-04.10.2020
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
--------------------------------------------------------------
-
-- 10.10.2020-11.10.2020
-
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 17.10.2020-18.10.2020
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 24.10.2020-25.10.2020
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 31.10.2020-01.11.2020
-
-[Praxis Weiglein](tieraerzte/weiglein.html)
--------------------------------------------------------------
-
-- 07.11.2020-08.11.2020
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-
-- 14.11.2020-15.11.2020
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 21.11.2020-22.11.2020
-
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 28.11.2020-29.11.2020
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 05.12.2020-06.12.2020
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
--------------------------------------------------------------
-
-- 12.12.2020-13.12.2020
-
-[Praxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------
-
-- 19.12.2020-20.12.2020
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 24.12.2020-25.12.2020
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 26.12.2020
+- 03.04.2021-04.04.2021
 
 [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 -------------------------------------------------------
 
-- 27.12.2020
+- 05.04.2021
 
 [Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 31.12.2020-01.01.2021
+- 09.04.2021-11.04.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 16.04.2021-18.04.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 23.04.2021-25.04.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 30.04.2021-02.05.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 07.05.2021-09.05.2021
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 12.05.2021-13.05.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 14.05.2021-16.05.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 21.05.2021-23.05.2021
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 24.05.2021
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 28.05.2021-30.05.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 04.06.2021-06.06.2021
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 11.06.2021-13.06.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 18.06.2021-20.06.2021
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 25.06.2021-27.06.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 02.07.2021-04.07.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 09.07.2021-11.07.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 16.07.2021-18.07.2021
+
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 23.07.2021-25.07.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 30.07.2021-01.08.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 06.08.2021-08.08.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 13.08.2021-15.08.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 20.08.2021-22.08.2021
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 27.08.2021-29.08.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 03.09.2021-05.09.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 10.09.2021-12.09.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 17.09.2021-19.09.2021
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 24.09.2021-26.09.2021
+
+Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 01.10.2021-03.10.2021
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 08.10.2021-10.10.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 15.10.2021-17.10.2021
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 22.10.2021-24.10.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 29.10.2021-31.10.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 05.11.2021-07.11.2021
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+
+- 12.11.2021-14.11.2021
+
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 19.11.2021-21.11.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 26.11.2021-28.11.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 03.12.2021-05.12.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 10.12.2021-12.12.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 17.12.2021-19.12.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 23.12.2021-25.12.2021
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 26.12.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 27.12.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 31.12.2021-02.01.2022
 
 
 
