@@ -7,10 +7,8 @@ title: Dr. med vet. Norbert Bachmann
 **Web**: <http://www.docbachmann.de>
 
 Öffnungszeiten:
-Die ersten 30 Minuten einer Sprechstunde sind Terminsprechstunde.
-
-Notdienst außerhalb der Sprechstunden nach telefonischer Vereinbarung.
----------------
+Bitte unter https://www.terminland.de/aueteich/ Termine vereinbaren. 
+Telefonische Anfragen für Notfälle jeder Zeit. Alle anderen Anfragen ausschließlich in den Sprechzeiten. 
 
 |  Mo         |  Di         |  Mi         |  Do         |  Fr         |           Sa+So                      |
 | -----       | -----       | -----       | -----       | -----       | ------------------------------------ |
