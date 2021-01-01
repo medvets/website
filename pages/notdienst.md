@@ -90,7 +90,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
--01.04.2021-02.04.2021
+- 01.04.2021-02.04.2021
 
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
@@ -237,7 +237,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 24.09.2021-26.09.2021
 
-Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
 - 01.10.2021-03.10.2021
