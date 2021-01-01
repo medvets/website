@@ -17,80 +17,40 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 21.12.2019-22.12.2019
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 24.12.2019-25.12.2019
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 26.12.2019
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 28.12.2019-29.12.2019
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 31.12.2019-01.01.2020
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
--------------------------------------------------------------
-
-- 04.01.2020-05.01.2020
-
-[Praxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------
-
-- 11.01.2020-12.01.2020
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 18.01.2020-19.01.2020
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 25.01.2020-26.01.2020
-
 [Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
-- 01.02.2020-02.02.2020
+- 31.12.2020-01.01.2021
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
-- 08.02.2020-09.02.2020
-
-[Praxis Möbus](tieraerzte/moebus.html)
--------------------------------------------------------------
-
-- 15.02.2020-16.02.2020
+- 02.01.2021-03.01.2021
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 22.02.2020-23.02.2020
+- 08.01.2021-10.01.2021
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+[Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
-- 29.02.2020-01.03.2020
+- 15.01.2021-17.01.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 22.01.2021-24.01.2021
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 07.03.2020-08.03.2020
+- 29.01.2021-31.01.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 05.02.2021-07.02.2021
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
