@@ -300,17 +300,16 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
-- 23.12.2021-25.12.2021
+- 24.12.2021-25.12.2021
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 26.12.2021
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
--------------------------------------------------------
 
-- 27.12.2021
+
+
 
 [Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
