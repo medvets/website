@@ -17,7 +17,7 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+[Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 31.12.2020-01.01.2021
@@ -117,7 +117,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 23.04.2021-25.04.2021
 
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+[Praxis Schuster](tieraerzte/finkbeiner.html)
 -------------------------------------------------------------
 
 - 30.04.2021-02.05.2021
@@ -187,7 +187,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 16.07.2021-18.07.2021
 
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+[Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 23.07.2021-25.07.2021
@@ -272,7 +272,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 12.11.2021-14.11.2021
 
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+[Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 19.11.2021-21.11.2021
