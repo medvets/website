@@ -102,7 +102,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 05.04.2021
 
-[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
+[Praxis Maxheim](tieraerzte/maxheim.html)
 -----------------------------------------------------------
 
 - 09.04.2021-11.04.2021
@@ -117,7 +117,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 23.04.2021-25.04.2021
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
+[Praxis Schuster (ehemals Finkbeiner)](tieraerzte/finkbeiner.html)
 -------------------------------------------------------------
 
 - 30.04.2021-02.05.2021
