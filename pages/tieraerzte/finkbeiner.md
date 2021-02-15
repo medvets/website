@@ -10,7 +10,7 @@ title: Kleintierpraxis Sandra Schuster
 
 |  Mo      |  Di      |  Mi      |  Do      |  Fr      |           Sa+So                                     |
 | -------- | -------- | -------- | -------- | -------- | --------------------------------------------------- |
-| 10-12    | 10-12    | 10-12    | 10-12    | 10-12    | Sa und So: [siehe Notdienst](../notdienst.html) |
+| 10-12    | 10-12    | 10-12    | 10-12    | 10-12    | [siehe Notdienst](../notdienst.html) |
 | 16-18:30 | 16-18:30 | 16-18:30 | 16-18:30 | 16-18:30 | [siehe Notdienst](../notdienst.html)                |
 
 Telefonische Erreichbarkeit Wochentags: 7:15h bis 12:00h und 15:00h bis 18:30h
