@@ -5,7 +5,7 @@ title: Praxen und Kliniken
 
 ### Tierärzte im Schaumburger Land
 
-Nachfolgend sind die Kontaktdaten der einzelen Tierarzt-Praxen im Schaumburger Land aufgelistet, die am koordinierten Notdienst teilnehmen. Bitte klicken Sie auf den jeweiligen Link zur Anzeige der Details wie z.B. Öffungszeiten:
+Nachfolgend sind die Kontaktdaten der einzelen Tierarzt-Praxen im Schaumburger Land aufgelistet, die am koordinierten Notdienst für Klein- und Heimtiere teilnehmen. Bitte klicken Sie auf den jeweiligen Link zur Anzeige der Details wie z.B. Öffungszeiten:
 
 </header>
 
