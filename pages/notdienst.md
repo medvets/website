@@ -74,6 +74,21 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 ------------------------------
 - 01.03.2021
 
+[Tierarztpraxis Paeger]
+-----------------------
+
+- 02.03.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 03.03.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+-04.03.2021
+
 
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
