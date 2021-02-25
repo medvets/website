@@ -65,11 +65,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 26.02.2021-28.02.2021
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 05.03.2021-07.03.2021
-
 Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 01.03.2021
@@ -87,7 +82,7 @@ Tierarztpraxis Paeger
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
--04.03.2021
+- 04.03.2021-07.03.2021
 
 
 
