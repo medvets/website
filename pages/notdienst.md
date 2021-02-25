@@ -71,6 +71,12 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 
 - 05.03.2021-07.03.2021
+- 
+.[Tierarztpraxis an der Weser]
+------------------------------
+- 01.03.2021
+
+
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
