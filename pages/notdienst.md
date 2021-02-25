@@ -70,11 +70,11 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 05.03.2021-07.03.2021
 
-[Tierarztpraxis an der Weser]- Kirchner&Kölling
+Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 01.03.2021
 
-[Tierarztpraxis Paeger]
+Tierarztpraxis Paeger
 -----------------------
 
 - 02.03.2021
