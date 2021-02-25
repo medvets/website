@@ -1,9 +1,7 @@
 title: Aktueller Notdienst für Klein- und Heimtiere 
 
 
-Der Notdienst beginnt am Freitag um 18 Uhr und endet am Montag um 8 Uhr.
-
-An Feiertagen beginnt der Notdienst am Vortag um 18 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.
+An Feiertagen beginnt der Notdienst am Vortag um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.
 
 Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
 
@@ -71,8 +69,8 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 
 - 05.03.2021-07.03.2021
-- 
-.[Tierarztpraxis an der Weser]
+
+[Tierarztpraxis an der Weser]
 ------------------------------
 - 01.03.2021
 
