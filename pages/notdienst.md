@@ -1,9 +1,11 @@
 title: Aktueller Notdienst für Klein- und Heimtiere 
 
 
-Bitte prüfen Sie zunächst, ob der Tierarzt Ihres Vertrauens erreichbar ist und sich um Ihren Liebling kümmern kann.
+ Während der regulären Arbeitszeiten können Sie sich eine Praxis im Menüpunkt [Praxen und Kliniken](tieraerzte.html) aussuchen.
+ Bitte prüfen Sie zunächst, ob der Tierarzt Ihres Vertrauens erreichbar ist und sich um Ihren Liebling kümmern kann.
 
-Falls dem nicht so ist, kontaktieren Sie die unten genannte Praxis.
+
+Falls dem nicht so ist, kontaktieren Sie die unten genannte notdiensthabende Praxis.
 
 Als Notdienstzeiten gelten wochentags die Zeit von 20:00 Uhr bis morgens um 8:00 Uhr. An Wochenenden und Feiertagen beginnt der Notdienst um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.  
 
