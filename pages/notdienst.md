@@ -1,9 +1,13 @@
 title: Aktueller Notdienst für Klein- und Heimtiere 
 
 
-An Feiertagen beginnt der Notdienst am Vortag um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.
+Bitte prüfen Sie zunächst, ob der Tierarzt Ihres Vertrauens erreichbar ist und sich um Ihren Liebling kümmern kann.
 
-Die Vergütung erfolgt im Notdienst entsprechend § 3 (4) der GOT: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
+Falls dem nicht so ist, kontaktieren Sie die unten genannte Praxis.
+
+Als Notdienstzeiten gelten wochentags die Zeit von 20:00 Uhr bis morgens um 8:00 Uhr. An Wochenenden und Feiertagen beginnt der Notdienst um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.  
+
+Falls Sie während der Notdienstzeiten eine Behandlung wünschen bedenken Sie bitte, dass die Vergütung im Notdienst entsprechend § 3 (4) der GOT erfolgt: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
 
 Die Tierärzte sind verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
 Zusätzlich ist eine **Notdienstgebühr von 50,- €** pro Behandlungsfall zu erheben. 
