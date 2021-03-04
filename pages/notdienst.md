@@ -7,12 +7,12 @@ title: Aktueller Notdienst für Klein- und Heimtiere
 
 Falls dem nicht so ist, kontaktieren Sie die unten genannte notdiensthabende Praxis.
 
-Als Notdienstzeiten gelten wochentags die Zeit von 20:00 Uhr bis morgens um 8:00 Uhr. An Wochenenden und Feiertagen beginnt der Notdienst um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.  
+Als Notdienstzeiten gelten wochentags die Zeit von 18:00 Uhr bis morgens um 8:00 Uhr. An Wochenenden und Feiertagen beginnt der Notdienst um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.  
 
 Falls Sie während der Notdienstzeiten eine Behandlung wünschen bedenken Sie bitte, dass die Vergütung im Notdienst entsprechend § 3 (4) der GOT erfolgt: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
 
 Die Tierärzte sind verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
-Zusätzlich ist eine **Notdienstgebühr von 50,- €** pro Behandlungsfall zu erheben. 
+Zusätzlich ist eine **Notdienstgebühr von 50,- €** (zzgl. Mwst.) pro Behandlungsfall zu erheben. 
 
 Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur vorherigen telefonischen Anmeldung, damit Ihr Notfall auch zeitnah behandelt werden kann.
 
@@ -21,55 +21,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 31.12.2020-01.01.2021
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 02.01.2021-03.01.2021
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 08.01.2021-10.01.2021
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 15.01.2021-17.01.2021
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 22.01.2021-24.01.2021
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 29.01.2021-31.01.2021
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 05.02.2021-07.02.2021
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 12.02.2021-14.02.2021
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
----------------------------------------------
-
-- 19.02.2021-21.02.2021
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-
-- 26.02.2021-28.02.2021
 
 Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
@@ -90,12 +41,50 @@ Tierarztpraxis Paeger
 
 - 04.03.2021-07.03.2021
 
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
 
+- 08.03.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 09.03.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+------------------------------------------------------------
+
+- 10.03.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-------------------------------------------------------------
+
+- 11.03.2021
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 12.03.2021-14.03.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 15.03.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 16.03.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 17.03.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 18.03.2021
 
 [Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
@@ -104,8 +93,41 @@ Tierarztpraxis Paeger
 
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
+- 22.03.2021
+
+[Dr. Holzhausen]
+-------------------
+
+- 23.03.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 24.03.2021
+
+[Dr. Schmoe]
+--------------
+
+- 25.03.2021 
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
 
 - 26.03.2021-28.03.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 29.03.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 30.03.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 31.03.2021
 
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
