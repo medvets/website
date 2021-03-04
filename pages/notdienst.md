@@ -95,7 +95,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 22.03.2021
 
-[Dr. Holzhausen]
+Dr. Holzhausen
 -------------------
 
 - 23.03.2021
@@ -105,7 +105,7 @@ Tierarztpraxis Paeger
 
 - 24.03.2021
 
-[Dr. Schmoe]
+Dr. Schmoe
 --------------
 
 - 25.03.2021 
