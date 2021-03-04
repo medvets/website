@@ -129,10 +129,15 @@ Tierarztpraxis Paeger
 
 - 31.03.2021
 
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 01.04.2021
+
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
-- 01.04.2021-02.04.2021
+- 02.04.2021
 
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
@@ -144,20 +149,95 @@ Tierarztpraxis Paeger
 
 - 05.04.2021
 
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 06.04.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 07.04.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 08.04.2021
+
 [Praxis Maxheim](tieraerzte/maxheim.html)
 -----------------------------------------------------------
 
 - 09.04.2021-11.04.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-------------------------------------------------------------
+
+- 12.04.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 13.04.2021
+
+Praxis Schönfeld
+-----------------
+
+- 14.04.2021
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 15.04.2021
 
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------
 
 - 16.04.2021-18.04.2021
 
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 19.04.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 20.04.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 21.04.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 22.04.2021
+
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 23.04.2021-25.04.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 26.04.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 27.04.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 28.04.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 29.04.2021
 
 [Praxis Schuster](tieraerzte/finkbeiner.html)
 -------------------------------------------------------------
