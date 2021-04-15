@@ -152,6 +152,11 @@ Tierarztpraxis Paeger
 
 - 19.05.2021
 
+Tierarztpraxis Dr. Schmoe, Bückeburg
+-----------------------
+
+- 20.05.2021
+
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
@@ -162,10 +167,45 @@ Tierarztpraxis Paeger
 
 - 24.05.2021
 
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 25.05.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 26.05.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 27.05.2021
+
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
 
 - 28.05.2021-30.05.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 31.05.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 01.06.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 02.06.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-------------------------------------------------------------
+
+- 03.06.2021
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
