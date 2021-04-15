@@ -86,20 +86,71 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 30.04.2021-02.05.2021
 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 03.05.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 04.05.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 05.05.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-------------------------------------------------------------
+
+- 06.05.2021
+
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 07.05.2021-09.05.2021
 
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 10.05.2021
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 11.05.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 12.05.2021
+
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
-- 12.05.2021-13.05.2021
+- 13.05.2021
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
 - 14.05.2021-16.05.2021
+
+
+Tierarztpraxis Dr. Holzhausen, Bückeburg
+--------------------------
+
+- 17.05.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 18.05.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 19.05.2021
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
