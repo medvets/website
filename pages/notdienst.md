@@ -212,20 +212,91 @@ Tierarztpraxis Paeger
 
 - 04.06.2021-06.06.2021
 
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 07.06.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 08.06.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 09.06.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 10.06.2021
+
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 11.06.2021-13.06.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 14.06.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 15.06.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 16.06.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 17.06.2021
 
 [Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
 - 18.06.2021-20.06.2021
 
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 21.06.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 22.06.2021
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 23.06.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 24.06.2021
+
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
 - 25.06.2021-27.06.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 28.06.2021
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------
+
+- 29.06.2021
 
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
