@@ -298,6 +298,16 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 29.06.2021
 
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 30.06.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 01.07.2021
+
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
@@ -306,22 +316,123 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
+- 05.07.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 06.07.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 07.07.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 08.07.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
 - 09.07.2021-11.07.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 12.07.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 13.07.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 14.07.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 15.07.2021
 
 [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 -------------------------------------------------------
 
 - 16.07.2021-18.07.2021
 
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 19.07.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 20.07.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 21.07.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 22.07.2021
+
 [Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 23.07.2021-25.07.2021
 
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 26.07.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 27.07.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 28.07.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 29.07.2021
+
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------
 
 - 30.07.2021-01.08.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 02.08.2021
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 03.08.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 04.08.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 05.08.2021
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
