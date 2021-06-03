@@ -21,146 +21,7 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
------------------
 
-- 14.04.2021
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 15.04.2021
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 16.04.2021-18.04.2021
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-
-- 19.04.2021
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 20.04.2021
-
-Tierarztpraxis Paeger
------------------------
-
-- 21.04.2021
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 22.04.2021
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 23.04.2021-25.04.2021
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 26.04.2021
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 27.04.2021
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 28.04.2021
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 29.04.2021
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
--------------------------------------------------------------
-
-- 30.04.2021-02.05.2021
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 03.05.2021
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
--------------------------------------------------------------
-
-- 04.05.2021
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 05.05.2021
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
--------------------------------------------------------------
-
-- 06.05.2021
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 07.05.2021-09.05.2021
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 10.05.2021
-
-[Praxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------
-
-- 11.05.2021
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 12.05.2021
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 13.05.2021
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 14.05.2021-16.05.2021
-
-
-Tierarztpraxis Dr. Holzhausen, Bückeburg
---------------------------
-
-- 17.05.2021
-
-Tierarztpraxis Paeger
------------------------
-
-- 18.05.2021
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 19.05.2021
-
-Tierarztpraxis Dr. Schmoe, Bückeburg
------------------------
-
-- 20.05.2021
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 21.05.2021-23.05.2021
 
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
@@ -338,7 +199,7 @@ Tierarztpraxis Paeger
 
 - 09.07.2021-11.07.2021
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
 - 12.07.2021
@@ -439,20 +300,92 @@ Tierarztpraxis Paeger
 
 - 06.08.2021-08.08.2021
 
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 09.08.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 10.08.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 11.08.2021
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 12.08.2021
+
 [Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
 - 13.08.2021-15.08.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 16.08.2021 
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 17.08.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 18.08.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 19.08.2021
 
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 20.08.2021-22.08.2021
 
+Tierarztpraxis Paeger
+-----------------------
+
+- 23.08.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 24.08.2021 
+
+[Praxis Dr. Schmoe, Bückeburg] 
+--------------------------------------
+
+- 25.08.2021
+
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 26.08.2021
+
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 27.08.2021-29.08.2021
+
+[Praxis Dr. Holzhausen, Bückeburg]
+--------------------------------------
+
+- 30.08.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 31.08.2021
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
