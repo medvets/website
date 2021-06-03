@@ -387,25 +387,116 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 31.08.2021
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 01.09.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 02.09.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 03.09.2021-05.09.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 06.09.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 07.09.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 08.09.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 09.09.2021
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 
 - 10.09.2021-12.09.2021
 
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 13.09.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 14.09.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 15.09.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 16.09.2021
+
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
 - 17.09.2021-19.09.2021
 
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 20.09.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 21.09.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 22.09.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 23.09.2021
+
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
 
 - 24.09.2021-26.09.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 27.09.2021
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 28.09.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 29.09.2021
+
+[Praxis Dr. Schmoe, Bückeburg] 
+--------------------------------------
+
+- 30.09.2021
+
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
