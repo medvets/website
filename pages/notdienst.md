@@ -184,8 +184,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 06.07.2021
 
-Tierarztpraxis Paeger
------------------------
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
 
 - 07.07.2021
 
