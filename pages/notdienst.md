@@ -503,6 +503,26 @@ Tierarztpraxis Paeger
 
 - 01.10.2021-03.10.2021
 
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 04.10.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 05.10.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 06.10.2021
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 07.10.2021
+
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
@@ -511,52 +531,272 @@ Tierarztpraxis Paeger
 [Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
 
+- 11.10.2021
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------
+
+- 12.10.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 13.10.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 14.10.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
 - 15.10.2021-17.10.2021
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 18.10.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 19.10.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 20.10.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 21.10.2021
 
 [Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
 - 22.10.2021-24.10.2021
 
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 25.10.2021
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-------------------------------------------------------
+
+- 26.10.2021
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 27.10.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 28.10.2021
+
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
 - 29.10.2021-31.10.2021
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------
+
+- 01.11.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 02.11.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 03.11.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 04.11.2021
 
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
 - 05.11.2021-07.11.2021
 
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 08.11.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 09.11.2021
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 10.11.2021
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 11.11.2021
+
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
 
 - 12.11.2021-14.11.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 15.11.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 16.11.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 17.11.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 18.11.2021
 
 [Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 19.11.2021-21.11.2021
 
+Tierarztpraxis Paeger
+-----------------------
+
+- 22.11.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 23.11.2021
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 24.11.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 25.11.2021
+
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------
 
 - 26.11.2021-28.11.2021
+
+[Praxis Dr. Schmoe, Bückeburg] 
+--------------------------------------
+
+- 29.11.2021
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 30.11.2021
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 01.12.2021
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 02.12.2021
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 03.12.2021-05.12.2021
 
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 06.12.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 07.12.2021
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 08.12.2021
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 09.12.2021
+
 [Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
 - 10.12.2021-12.12.2021
 
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 13.12.2021
+
+[Praxis Dr. Holzhausen, Bückeburg]
+--------------------------------------
+
+- 14.12.2021
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 15.12.2021
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+
+- 16.12.2021
+
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 17.12.2021-19.12.2021
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 20.12.2021
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 21.12.2021
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 22.12.2021
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 23.12.2021
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
@@ -568,9 +808,25 @@ Tierarztpraxis Paeger
 
 - 26.12.2021
 
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
 
+- 27.12.2021
 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
 
+- 28.12.2021
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 29.12.2021
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 30.12.2021
 
 [Praxis Van der Weijden](tieraerzte/anton.html)
 -------------------------------------------------------------
