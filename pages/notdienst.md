@@ -513,7 +513,7 @@ Tierarztpraxis Paeger
 
 - 05.10.2021
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
+[Praxis Maxheim](tieraerzte/maxheim.html)
 -----------------------------------------------------------
 
 - 06.10.2021
@@ -643,7 +643,7 @@ Tierarztpraxis Paeger
 
 - 10.11.2021
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
+[Praxis Schuster](tieraerzte/finkbeiner.html)
 -------------------------------------------------------------
 
 - 11.11.2021
