@@ -698,7 +698,7 @@ Tierarztpraxis Paeger
 
 - 25.11.2021
 
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------
 
 - 26.11.2021-28.11.2021
@@ -723,7 +723,7 @@ Tierarztpraxis Paeger
 
 - 02.12.2021
 
-[Praxis Leis](tieraerzte/leis.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------------------------------------------------
 
 - 03.12.2021-05.12.2021
