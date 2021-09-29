@@ -528,7 +528,7 @@ Tierarztpraxis Paeger
 
 - 08.10.2021-10.10.2021
 
-[Praxis Van der Weijden](tieraerzte/anton.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 11.10.2021
@@ -548,7 +548,7 @@ Tierarztpraxis Paeger
 
 - 14.10.2021
 
-[Praxis Van der Weijden](tieraerzte/anton.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 15.10.2021-17.10.2021
