@@ -309,7 +309,13 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
-- 17.12.2021-19.12.2021
+- 17.12.2021-18.12.2021
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+-------------------------------------------------------------
+
+- 19.12.2021
+
 
 Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
@@ -361,7 +367,7 @@ Tierarztpraxis Paeger
 
 - 30.12.2021
 
-[Praxis Van der Weijden](tieraerzte/anton.html)
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 31.12.2021-02.01.2022
