@@ -370,7 +370,7 @@ Tierarztpraxis Paeger
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
-- 31.12.2021-02.01.2022
+- 31.12.2021-02.01.2022 
 
 
 
