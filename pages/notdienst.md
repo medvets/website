@@ -23,7 +23,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 
 
-- 29.09.2021
+
 
 [Praxis Dr. Schmoe, Bückeburg] 
 --------------------------------------
