@@ -22,9 +22,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 
 
-
-
-
 [Praxis Dr. Schmoe, Bückeburg] 
 --------------------------------------
 
