@@ -19,7 +19,7 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur v
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
-
+ 
 
 
 [Praxis Dr. Schmoe, Bückeburg] 
