@@ -220,6 +220,27 @@ Tierarztpraxis Paeger
 
 - 31.12.2021-02.01.2022 
 
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 03.01.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 04.01.2022
+
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 05.01.2022
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 06.01.2022
+
+
 
 
 
