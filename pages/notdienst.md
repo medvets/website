@@ -324,6 +324,72 @@ Tierarztpraxis Paeger
 
 - 31.01.2022
 
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 01.02.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 02.02.2022
+
+Tierarztpraxis Schmoe
+------------------------------
+
+- 03.02.2022
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+24.02.2022-06.02.2022
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 07.02.2022
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 08.02.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 09.02.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 10.02.2022
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+-------------------
+
+- 11.02.2022-13.02.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 14.02.2022
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+
+- 15.02.2022
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 16.02.2022
+
+
+
+
+
+
+
 
 ------------------------------------------------------------ 
 
