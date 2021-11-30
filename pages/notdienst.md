@@ -164,7 +164,6 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 19.12.2021
 
-
 Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 
@@ -229,7 +228,6 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 04.01.2022
 
-
 Tierarztpraxis Paeger
 -----------------------
 
@@ -240,8 +238,91 @@ Tierarztpraxis Paeger
 
 - 06.01.2022
 
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+- 06.01.2022-09.01.2022
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 10.01.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+
+- 11.01.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 12.01.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 13.01.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 14.01.2022-16.01.2022
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 17.01.2022
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 18.01.2022
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 19.01.2022
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+20.01.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 21.01.2022-23.01.2022
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+- 024.01.2022
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+
+- 125.01.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 26.01.2022
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 27.01.2022
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 28.01.2022-30.01.2022
 
 
+- [Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 31.01.2022
 
 
 ------------------------------------------------------------ 
