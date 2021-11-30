@@ -241,7 +241,7 @@ Tierarztpraxis Paeger
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 ------------------------------------------------
 
-- 06.01.2022-09.01.2022
+- 07.01.2022-09.01.2022
 
 Tierarztpraxis Paeger
 -----------------------
@@ -296,24 +296,24 @@ Tierarztpraxis Paeger
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 ------------------------------------------------
 
-- 024.01.2022
+- 24.01.2022
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
 
-- 125.01.2022
+- 25.01.2022
 
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
 - 26.01.2022
 
-Tierarztpraxis Paeger
------------------------
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
 
 - 27.01.2022
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+[Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 
 - 28.01.2022-30.01.2022
