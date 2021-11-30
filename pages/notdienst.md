@@ -319,7 +319,7 @@ Tierarztpraxis Paeger
 - 28.01.2022-30.01.2022
 
 
-- [Praxis Beiße](tieraerzte/beisse.html)
+[Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
 
 - 31.01.2022
