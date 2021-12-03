@@ -286,7 +286,7 @@ Tierarztpraxis Paeger
 [Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
-20.01.2022
+- 20.01.2022
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
@@ -342,7 +342,7 @@ Tierarztpraxis Schmoe
 [Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 
-24.02.2022-06.02.2022
+- 04.02.2022-06.02.2022
 
 Tierarztpraxis Paeger
 -----------------------
