@@ -385,6 +385,71 @@ Tierarztpraxis Paeger
 - 16.02.2022
 
 
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 17.02.2022
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 18.02.2022-20.02.2022
+
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 21.02.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 22.02.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+
+- 23.02.2022
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 24.02.2022
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 25.02.2022-27.02.2022
+
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 28.02.2022
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+
+- 01.03.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 02.03.2022
+
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 03.03.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 04.03.2022-06.03.2022
+
+
+
 
 
 
