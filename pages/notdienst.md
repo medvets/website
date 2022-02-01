@@ -487,6 +487,64 @@ Tierarztpraxis Paeger
 
 - 31.03.2022
 
+[Praxis Welge](tieraerzte/welge.html)
+-----------------------
+
+- 01.04.2022-03.04.2022
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+
+- 04.04.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+
+- 05.04.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+
+- 06.04.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+
+- 07.04.2022
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+
+- 08.04.2022-10.04.2022
+
+Tierarztpraxis Paeger
+
+- 11.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+- 01.04.2022
+
+
+
+
 
 
 
