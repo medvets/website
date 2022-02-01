@@ -488,63 +488,122 @@ Tierarztpraxis Paeger
 - 31.03.2022
 
 [Praxis Welge](tieraerzte/welge.html)
------------------------
+-------------------------------------
 
 - 01.04.2022-03.04.2022
 
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
 
 - 04.04.2022
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
-
+---------------------------------------------
 - 05.04.2022
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
-
+--------------------------------------------------
 - 06.04.2022
 
 Tierarztpraxis an der Weser- Kirchner&Kölling
-
+-----------------------------------------------
 - 07.04.2022
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
 
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------
 - 08.04.2022-10.04.2022
+- 
 
 Tierarztpraxis Paeger
+---------------------
 
 - 11.04.2022
 
-- 01.04.2022
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
 
-- 01.04.2022
+- 12.04.2022
 
-- 01.04.2022
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
 
-- 01.04.2022
+- 13.04.2022
 
-- 01.04.2022
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
 
-- 01.04.2022
+- 14.04.2022
 
-- 01.04.2022
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
 
-- 01.04.2022
+- 15.04.2022
 
-- 01.04.2022
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
 
-- 01.04.2022
+- 16.04.2022-17.04.2022
 
-- 01.04.2022
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
 
-- 01.04.2022
+- 18.04.2022
 
-- 01.04.2022
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
 
+- 19.04.2022
 
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
 
+- 20.04.2022
 
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 21.04.2022
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+- 22.04.2022-24.04.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 25.04.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 26.04.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 27.04.2022
+
+Tierarztpraxis Paeger
+---------------------
+
+- 28.04.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 29.04.2022-01.05.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+---------------------------------------------
+
+- 02.05.2022
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------
+
+- 03.05.2022
 
 
 
