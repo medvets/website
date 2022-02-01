@@ -24,61 +24,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
--------------------------------------------------------------
-
-- 11.11.2021
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 12.11.2021-14.11.2021
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 15.11.2021
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 16.11.2021
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 17.11.2021
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 18.11.2021
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 19.11.2021-21.11.2021
-
-Tierarztpraxis Paeger
------------------------
-
-- 22.11.2021
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 23.11.2021
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 24.11.2021
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
--------------------------------------------------------------
-
-- 25.11.2021
-
 [Praxis Leis](tieraerzte/leis.html)
 -------------------
 
@@ -334,7 +279,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 02.02.2022
 
-Tierarztpraxis Schmoe
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 ------------------------------
 
 - 03.02.2022
