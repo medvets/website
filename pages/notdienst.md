@@ -198,8 +198,8 @@ Tierarztpraxis Paeger
 
 - 21.03.2022
 
-Tierarztpraxis Schmoe
-------------------------------
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
 
 - 22.03.2022
 
