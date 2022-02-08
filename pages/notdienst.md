@@ -266,7 +266,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -----------------------------------------------
 - 08.04.2022-10.04.2022
-- 
+
 
 Tierarztpraxis Paeger
 ---------------------
