@@ -159,7 +159,7 @@ Tierarztpraxis Paeger
 
 - 12.04.2022
 
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 13.04.2022
