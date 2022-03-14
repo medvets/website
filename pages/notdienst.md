@@ -94,7 +94,7 @@ Tierarztpraxis Paeger
 
 - 24.03.2022
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
 - 25.03.2022-27.03.2022
