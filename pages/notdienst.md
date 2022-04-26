@@ -22,126 +22,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
  
 
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 04.03.2022-06.03.2022
-
-[Praxis Dr. Holzhausen, Bückeburg]
---------------------------------------
-
-- 07.03.2022
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------
-
-- 08.03.2022
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 09.03.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 10.03.2022
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 11.03.2022-14.03.2022
-
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
-------------------------------------------------
-
-- 15.03.2022
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 16.03.2022
-
-Tierarztpraxis Paeger
------------------------
-
-- 17.03.2022
-
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 18.03.2022-20.03.2022
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 21.03.2022
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 22.03.2022
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 23.03.2022
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-
-- 24.03.2022
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 25.03.2022-27.03.2022
-
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 28.03.2022
-
-
-[Praxis Dr. Holzhausen, Bückeburg]
---------------------------------------
-
-- 29.03.2022
-
-Tierarztpraxis Paeger
------------------------
-
-- 30.03.2022
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 31.03.2022
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------
-
-- 01.04.2022-03.04.2022
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
---------------------------------------------------------------------------
-
-- 04.04.2022
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
----------------------------------------------
-- 05.04.2022
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
---------------------------------------------------
-- 06.04.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------------------------
-- 07.04.2022
 
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
@@ -219,8 +99,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 27.04.2022
 
-Tierarztpraxis Paeger
----------------------
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
 
 - 28.04.2022
 
@@ -244,8 +124,9 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 04.05.2022
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
+
+Tierarztpraxis Paeger
+---------------------
 
 - 05.05.2022
 
