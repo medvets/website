@@ -110,7 +110,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 - 29.04.2022-01.05.2022
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
----------------------------------------------
+--------------------------------------------- 
 
 - 02.05.2022
 
