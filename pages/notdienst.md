@@ -22,179 +22,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
  
 
 
-
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
------------------------------------------------
-- 08.04.2022-10.04.2022
-
-
-Tierarztpraxis Paeger
----------------------
-
-- 11.04.2022
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
------------------------------------------------
-
-- 12.04.2022
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 13.04.2022
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 14.04.2022
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 15.04.2022
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 16.04.2022-17.04.2022
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
------------------------------------------------
-
-- 18.04.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------------------------
-
-- 19.04.2022
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-
-- 20.04.2022
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 21.04.2022
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
-------------------------------------------------
-
-- 22.04.2022-24.04.2022
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 25.04.2022
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 26.04.2022
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 27.04.2022
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 28.04.2022
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 29.04.2022-01.05.2022
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 02.05.2022
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------
-
-- 03.05.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------------------------
-
-- 04.05.2022
-
-
-Tierarztpraxis Paeger
----------------------
-
-- 05.05.2022
-
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 06.05.2022 - 08.05.2022
-
-
-Tierarztpraxis Paeger
----------------------
-
-- 09.05.2022
-
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
---------------------------------------------------------------------------
-
-- 10.05.2022
-
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 11.05.2022
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 12.05.2022
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-
-- 13.05.2022 - 15.05.2022
-
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 16.05.2022
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-
-- 17.05.2022
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 18.05.2022
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
------------------------------------------------
-
-- 19.05.2022
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 20.05.2022 - 22.05.2022
-
-Tierarztpraxis Paeger
----------------------
-
-- 23.05.2022
-
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
 
@@ -304,6 +131,98 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 
 - 22.06.2022
+
+Tierarztpraxis Paeger
+---------------------
+
+- 23.06.2022
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------
+
+- 24.06.2022 - 26.06.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 27.06.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
+
+- 28.06.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 29.06.2022
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 30.06.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 01.07.2022 - 03.07.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+--------------------------------------------------
+
+- 04.07.2022
+
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+- 05.07.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 06.07.2022
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 07.07.2022
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+
+- 08.07.2022 - 10.07.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
+
+- 11.07.2022
+
+[Praxis Dr. Holzhausen, Bückeburg]
+--------------------------------------
+
+- 12.07.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 13.07.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 14.07.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 15.07.2022 - 17.07.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 18.07.2022
+
 
 
 
