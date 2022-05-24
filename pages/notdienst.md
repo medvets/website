@@ -234,9 +234,76 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 Tierarztpraxis Paeger
 ---------------------
 
-
 - 02.06.2022
 
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 03.06.2022 - 05.06.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 06.06.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 07.06.2022
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+- 08.06.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
+
+- 09.06.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+--------------------------------------------------
+
+- 10.06.2022 - 12.06.2022
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
+
+- 13.06.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 14.06.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+- 15.06.2022
+
+[Praxis Dr. Holzhausen, Bückeburg]
+--------------------------------------
+- 16.06.2022
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 17.06.2022 - 19.06.2022
+
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
+- 20.06.2022
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 21.06.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 22.06.2022
 
 
 
