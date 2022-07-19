@@ -87,7 +87,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 19.07.2022
 
-[Praxis Van der Weijden](tieraerzte/anton.html) 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -----------------------------------------------
 
 - 20.07.2022
