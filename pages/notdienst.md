@@ -172,7 +172,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 11.08.2022
 
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+[Praxis Leis](tieraerzte/leis.html)
 ------------------------------------------------
 
 - 12.08.2022 - 14.08.2022
