@@ -21,182 +21,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
  
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 01.07.2022 - 03.07.2022
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
---------------------------------------------------
-
-- 04.07.2022
-
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
-------------------------------------------------
-
-- 05.07.2022
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 06.07.2022
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 07.07.2022
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-
-- 08.07.2022 - 10.07.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------------------------
-
-- 11.07.2022
-
-[Praxis Dr. Holzhausen, Bückeburg]
---------------------------------------
-
-- 12.07.2022
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 13.07.2022
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 14.07.2022
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 15.07.2022 - 17.07.2022
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 18.07.2022
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-
-- 19.07.2022
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
------------------------------------------------
-
-- 20.07.2022
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
---------------------------------------------------------------------------
-
-- 21.07.2022
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 22.07.2022 -24.07.2022
-
-Tierarztpraxis Paeger
----------------------
-
-- 25.07.2022
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 26.07.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------------------------
-
-- 27.07.2022
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 28.07.2022
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
------------------------------------------------
-
-- 29.07.2022 - 31.07.2022
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 01.08.2022
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------
-
-- 02.08.2022
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 03.08.2022
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 04.08.2022
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 05.08.2022 - 07.08.2022
-
-Tierarztpraxis Paeger
----------------------
-
-- 08.08.2022
-
- [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 09.08.2022
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
------------------------------------------------
-
-- 10.08.2022
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------------------------
-
-- 11.08.2022
-
-[Praxis Leis](tieraerzte/leis.html)
-------------------------------------------------
-
-- 12.08.2022 - 14.08.2022
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
------------------------------------------------
-
-- 15.08.2022
-
-Tierarztpraxis Paeger
----------------------
-
-- 16.08.2022
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 17.08.2022
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
-------------------------------------------------
-
-- 18.08.2022
-
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
 
@@ -212,11 +36,154 @@ Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 
 - 23.08.2022
 
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 24.08.2022
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 25.08.2022
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 26.08.2022 - 28.08.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 29.08.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
+
+- 30.08.2022
+
+ [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 31.08.2022
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------
+
+- 01.09.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 02.09.2022 - 04.09.2022
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 05.09.2022
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------
+
+- 06.09.2022
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 07.09.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 08.09.2022
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
+
+- 09.09.2022 - 11.09.2022
+
+Tierarztpraxis Paeger
+---------------------
+
+- 12.09.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 13.09.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
+
+- 14.09.2022
+
+ [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 15.09.2022
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 16.09.2022 - 18.09.2022
 
 
-- 12.08.2022
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------
 
-- 12.08.2022
+- 19.09.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 20.09.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
+- 21.09.2022
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 22.09.2022
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+------------------------------------------------------------
+
+- 23.09.2022 - 25.09.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 26.09.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------
+
+- 27.09.2022
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+
+- 28.09.2022
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------------------------
+
+- 29.09.2022
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 30.09.2022 - 02.10.2022
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/8299174/185574387-84547aef-1dac-4f5e-af5c-0736f1428798.png)
+
 
 
 
