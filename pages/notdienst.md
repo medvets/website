@@ -110,7 +110,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 13.09.2022
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
+[Tierarztpraxis an der Weser- Kirchner&Kölling](tieraerzte/Kleintierklinik-Kirchner-und-Kölling.html)
 -----------------------------------------------
 
 - 14.09.2022
@@ -166,7 +166,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 28.09.2022
 
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
+[Tierarztpraxis an der Weser- Kirchner&Kölling](tieraerzte/Kleintierklinik-Kirchner-und-Kölling.html)
 -----------------------------------------------
 
 - 29.09.2022
