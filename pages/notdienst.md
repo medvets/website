@@ -26,7 +26,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 19.08.2022 - 21.08.2022
 
-Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 --------------------------------------------------------------------------
 
 - 22.08.2022
@@ -55,12 +55,12 @@ Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 
 - 29.08.2022
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
 -----------------------------------------------
 
 - 30.08.2022
 
- [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
 - 31.08.2022
@@ -100,7 +100,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 09.09.2022 - 11.09.2022
 
-Tierarztpraxis Paeger
+[Tierarztpraxis Paeger]
 ---------------------
 
 - 12.09.2022
@@ -115,7 +115,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 14.09.2022
 
- [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
 - 15.09.2022
@@ -166,7 +166,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 28.09.2022
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
 -----------------------------------------------
 
 - 29.09.2022
@@ -175,17 +175,6 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 
 - 30.09.2022 - 02.10.2022
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/8299174/185574387-84547aef-1dac-4f5e-af5c-0736f1428798.png)
-
-
-
 
 
 
