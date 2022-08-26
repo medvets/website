@@ -41,7 +41,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 24.08.2022
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
+[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
 - 25.08.2022
 
@@ -161,7 +161,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 27.09.2022
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
+[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
 
 - 28.09.2022
