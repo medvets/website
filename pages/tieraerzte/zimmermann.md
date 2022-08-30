@@ -1,5 +1,5 @@
-Haustierärztliche Praxis Hagenburg
------------------------------------
+title: Haustierärztliche Praxis Hagenburg
+
 
 Telefonnummer: 05033 3911272
 
