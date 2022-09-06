@@ -120,7 +120,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 15.09.2022
 
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 
 - 16.09.2022 - 18.09.2022
