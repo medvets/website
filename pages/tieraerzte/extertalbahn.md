@@ -1,4 +1,4 @@
-title: Praxis Extertalbahn (Bosse & Heßling)
+title: Praxis Extertalbahn (Bosse)
 
 **Telefon**: 05751 9930660
 
@@ -9,7 +9,7 @@ title: Praxis Extertalbahn (Bosse & Heßling)
 
 Öffnungszeiten:
 ---------------
-Montag 8:30 - 16:30
+Montag 8:30 - 12:30 & 16:30-19:30
 Dienstag 8:30 - 16:30
 Mittwoch 8:30- 12:30 & 16:30 - 19:30
 Donnerstag 8:30 - 16:30
