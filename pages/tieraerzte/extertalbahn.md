@@ -1,4 +1,4 @@
-title: Praxis Extertalbahn (Bosse)
+Titel: Praxis Extertalbahn (Bosse)
 
 **Telefon**: 05751 9930660
 
