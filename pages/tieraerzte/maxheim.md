@@ -10,10 +10,10 @@ Inhaberin: Kerstin Maxheim
 Öffnungszeiten:
 ---------------
 
-|  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa+So                      |
+|  Mo   |  Di   |  Mi   |  Do   |  Fr   |           Sa                         |
 | ----- | ----- | ----- | ----- | ----- | ------------------------------------ |
-| 09-12 | 09-12 | 08-12 | 09-12 | 08-12 | 09:30-11:30 jede gerade Kalenderwoche|
-| 15-18 | 16-19 | 15-17 | 16-19 | 14-17 | [siehe Notdienst](../notdienst.html) |
+| 09-12 | 09-12 | 08-12 | 09-12 | 09-14 | 09:30-11:30 jede gerade Kalenderwoche|
+| 15-18 | 16-19 | 15-17 | 16-19 |       | [siehe Notdienst](../notdienst.html) |
 
 
 
