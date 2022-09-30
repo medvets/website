@@ -177,6 +177,11 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 - 30.09.2022 - 02.10.2022
 
 
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 03.10.2022
+
 
 
 
