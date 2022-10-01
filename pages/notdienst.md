@@ -182,6 +182,52 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 03.10.2022
 
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 04.10.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 05.10.2022
+
+[Tierarztpraxis Paeger]
+---------------------
+
+- 06.10.2022
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 07.10.2022 - 09.10.2022
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling](tieraerzte/Kleintierklinik-Kirchner-und-Kölling.html)
+-----------------------------------------------
+
+- 10.10.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
+- 11.10.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 12.10.2022
+
+[Praxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------
+
+- 13.10.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 14.10.2022 - 16.10.2022
+
+
 
 
 
