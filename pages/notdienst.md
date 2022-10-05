@@ -111,73 +111,241 @@ Tierarztpraxis Paeger
 
 -27.10.2022
 
+[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html) 
+-----------------------------------------------
 
--28.10.2022
--29.10.2022
--30.10.2022
+-28.10.2022 - 30.10.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
 -31.10.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
 -01.11.2022
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
 -02.11.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
 -03.11.2022
--04.11.2022
--05.11.2022
--06.11.2022
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+-04.11.2022 - 06.11.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
 -07.11.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
 -08.11.2022
+
+ [Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
 -09.11.2022
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
+-----------------------------------------------
+
 -10.11.2022
--11.11.2022
--12.11.2022
--13.11.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
+-11.11.2022 - 13.11.2022
+
+Tierarztpraxis Paeger
+---------------------
+
 -14.11.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
 -15.11.2022
+
+ [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
 -16.11.2022
+
+ [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
+
 -17.11.2022
--18.11.2022
--19.11.2022
--20.11.2022
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+-18.11.2022 - 20.11.2022
+
+ [Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
 -21.11.2022
+
+ [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
 -22.11.2022
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+------------------------------------------------------------
+
 -23.11.2022
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------
+
 -24.11.2022
--25.11.2022
--26.11.2022
--27.11.2022
+
+[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html) 
+-----------------------------------------------
+
+-25.11.2022 - 27.11.2022
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------
+
 -28.11.2022
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
+-----------------------------------------------
+
 -29.11.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------
+
 -30.11.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
 -01.12.2022
--02.12.2022
--03.12.2022
--04.12.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+-02.12.2022 - 04.12.2022
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
 -05.12.2022
+
+ [Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
 -06.12.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
 -07.12.2022
+
+ [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
 -08.12.2022
--09.12.2022
--10.12.2022
--11.12.2022
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------
+
+-09.12.2022 - 11.12.2022
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
+-----------------------------------------------
+
 -12.12.2022
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
 -13.12.2022
+
+Tierarztpraxis Paeger
+---------------------
+
 -14.12.2022
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
 -15.12.2022
--16.12.2022
--17.12.2022
--18.12.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+-16.12.2022 - 18.12.2022
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
 -19.12.2022
+
+ [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
+
 -20.12.2022
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
 -21.12.2022
+
+Tierarztpraxis Paeger
+---------------------
+
 -22.12.2022
--23.12.2022
--24.12.2022
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+------------------------------------------------
+
+-23.12.2022 - 24.12.2022
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
 -25.12.2022
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
+
 -26.12.2022
+
+[Praxis Dr. Holzhausen, Bückeburg]
+--------------------------------------
+
 -27.12.2022
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
 -28.12.2022
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
+-----------------------------------------------
+
 -29.12.2022
--30.12.2022
--31.12.2022
--01.01.2023
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+-30.12.2022 - 31.12.2022
+
 
 ![image](https://user-images.githubusercontent.com/8299174/194056267-206fb2b0-e3cf-4d9b-950d-719f0a6abf2f.png)
 
