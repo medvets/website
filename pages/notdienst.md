@@ -347,12 +347,6 @@ Tierarztpraxis Paeger
 -30.12.2022 - 31.12.2022
 
 
-![image](https://user-images.githubusercontent.com/8299174/194056267-206fb2b0-e3cf-4d9b-950d-719f0a6abf2f.png)
-
-
-
-
-
 
 ------------------------------------------------------------ 
 
