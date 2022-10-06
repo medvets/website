@@ -41,8 +41,8 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 -11.10.2022
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
 
 -12.10.2022
 
