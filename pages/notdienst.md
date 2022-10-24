@@ -96,7 +96,7 @@ Tierarztpraxis Paeger
 
 - 26.10.2022
 
- [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+ [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 
 - 27.10.2022
