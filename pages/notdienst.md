@@ -66,7 +66,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 09.11.2022
 
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -----------------------------------------------
 
 - 10.11.2022
@@ -131,7 +131,7 @@ Tierarztpraxis Paeger
 
 - 28.11.2022
 
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -----------------------------------------------
 
 - 29.11.2022
@@ -176,7 +176,7 @@ Tierarztpraxis Paeger
 
 - 09.12.2022 - 11.12.2022
 
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -----------------------------------------------
 
 - 12.12.2022
@@ -246,7 +246,7 @@ Tierarztpraxis Paeger
 
 - 28.12.2022
 
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -----------------------------------------------
 
 - 29.12.2022
