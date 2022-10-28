@@ -10,10 +10,10 @@ title: Tierarztpraxis Röckemann und Orphanos, Praxis für Chirurgie (Cert.SAS)
 Öffnungszeiten:
 ---------------
 
-<http://www.tierarztpraxis-rinteln.de/sprechzeiten.htm>
-
-
-
+|  Mo           |  Di           |  Mi           |  Do           |          Fr   | Sa            |     So                               |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------------------------------- |
+| 8:45 - 12:00  | 8:45 - 12:00  | 9:00 - 12:00  | 8:45 - 12:00  | 8:45 - 12:00  | 9:00 - 12:00  |[siehe Notdienst](../notdienst.html)  |
+| 15:30 - 19:00 | 15:30 - 19:00 |               | 15:30 - 19:00 | 15:00 - 18:00 |               |[siehe Notdienst](../notdienst.html)  |
 
 
 Adresse:
