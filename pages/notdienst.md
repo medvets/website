@@ -61,7 +61,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 08.11.2022
 
- [Praxis Leis](tieraerzte/leis.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 09.11.2022
@@ -86,12 +86,12 @@ Tierarztpraxis Paeger
 
 - 15.11.2022
 
- [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 
 - 16.11.2022
 
- [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 --------------------------------------------------------------------------
 
 - 17.11.2022
@@ -101,12 +101,12 @@ Tierarztpraxis Paeger
 
 - 18.11.2022 - 20.11.2022
 
- [Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis von Götz](tieraerzte/von-goetz.html)
 --------------------------------------------- 
 
 - 21.11.2022
 
- [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+[Praxis Extertalbahn (Bosse)](tieraerzte/extertalbahn.html)
 -----------------------------------------------------------
 
 - 22.11.2022
@@ -156,7 +156,7 @@ Tierarztpraxis Paeger
 
 - 05.12.2022
 
- [Praxis Leis](tieraerzte/leis.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 06.12.2022
@@ -166,7 +166,7 @@ Tierarztpraxis Paeger
 
 - 07.12.2022
 
- [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
 - 08.12.2022
@@ -251,7 +251,7 @@ Tierarztpraxis Paeger
 
 - 29.12.2022
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+[Praxis Extertalbahn (Bosse)](tieraerzte/extertalbahn.html)
 -----------------------------------------------------------
 
 - 30.12.2022 - 31.12.2022
