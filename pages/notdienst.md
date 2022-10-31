@@ -146,7 +146,7 @@ Tierarztpraxis Paeger
 
 - 01.12.2022
 
-[Praxis Daum](tieraerzte/daum.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 02.12.2022 - 04.12.2022
@@ -171,7 +171,7 @@ Tierarztpraxis Paeger
 
 - 08.12.2022
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------
 
 - 09.12.2022 - 11.12.2022
