@@ -46,7 +46,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 03.11.2022
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 04.11.2022 - 06.11.2022
