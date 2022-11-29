@@ -18,10 +18,10 @@ Website: <http://www.tierarztpraxis-lauenau.de>
 Sprechzeiten:
 ---------------
 
-|  Mo   |  Di   |  Mi   |  Do   |  Fr   | Sa    |     So                               |
-| ----- | ----- | :---: | ----- | ----- | :---: |------------------------------------- |
-| 10-12 | 10-12 | 10-12 | 10-12 | 10-12 |   -   |[siehe Notdienst](../notdienst.html)  |
-| 16-19 | 16-19 |   -   | 16-19 | 16-19 |   -   |[siehe Notdienst](../notdienst.html)  |
+|  Mo   |  Di   |  Mi   |  Do   |  Fr   |   Sa - So                               |
+| ----- | ----- | :---: | ----- | ----- |------------------------------------- |
+| 10-12 | 10-12 | 10-12 | 10-12 | 10-12 | [siehe Notdienst](../notdienst.html)  |
+| 16-19 | 16-19 |   -   | 16-19 | 16-19 | [siehe Notdienst](../notdienst.html)  |
 
 
 Termine außerhalb der Sprechzeiten nach Vereinbarung.
