@@ -171,10 +171,11 @@ Tierarztpraxis Paeger
 
 - 08.12.2022
 
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------
 
-- 09.12.2022 - 11.12.2022
+- 09.12.2022 - 11.12.2022 bis 8 uhr Sonntagmorgen !!!  ab 8 Uhr SONNTAG  11. Dezember Praxis Daum
 
 [Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
 -----------------------------------------------
