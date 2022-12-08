@@ -179,8 +179,8 @@ Tierarztpraxis Paeger
 -  ACHTUNG
 -   ab 8:00 Uhr SONNTAG  11. Dezember Praxis Daum
 
-[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
------------------------------------------------
+Tierarztpraxis Paeger
+---------------------
 
 - 12.12.2022
 
@@ -189,8 +189,8 @@ Tierarztpraxis Paeger
 
 - 13.12.2022
 
-Tierarztpraxis Paeger
----------------------
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
+-----------------------------------------------
 
 - 14.12.2022
 
