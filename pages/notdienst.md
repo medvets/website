@@ -228,8 +228,8 @@ Tierarztpraxis Paeger
 
 - 22.12.2022
 
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
-------------------------------------------------
+[Praxis Extertalbahn (Bosse)](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
 
 - 23.12.2022 - 24.12.2022
 
