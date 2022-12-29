@@ -261,9 +261,120 @@ Tierarztpraxis Paeger
 [Praxis Extertalbahn (Bosse)](tieraerzte/extertalbahn.html)
 -----------------------------------------------------------
 
-- 30.12.2022 - 31.12.2022
+- 30.12.2022 - 01.01.2023
+
+Tierarztpraxis Paeger
+---------------------
+
+- 02.01.2023
+
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
+-----------------------------------------------
+
+- 03.01.2023
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------
+
+- 04.01.2023
 
 
+[Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 05.01.2023
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+
+- 06.01.2023 - 08.01.2023
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 09.01.2023
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 10.01.2023
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 11.01.2023
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 12.01.2023
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+------------------------------------------------------------
+
+- 13.01.2023 - 15.01.2023
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-----------------------------------------------
+
+- 16.01.2023
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+--------------------------------------------------------------------------
+
+- 17.01.2023
+
+[Praxis Extertalbahn (Bosse)](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 18.01.2023
+
+
+[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html) 
+-----------------------------------------------
+
+- 19.01.2023
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 20.01.2023 - 22.01.2023
+
+[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
+-----------------------------------------------
+
+- 23.01.2023
+
+
+Tierarztpraxis Paeger
+---------------------
+
+- 24.01.2023
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 25.01.2023
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------
+
+- 26.01.2023
+
+[Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
+-------------------------------------------------------------
+
+- 27.01.2023 - 29.01.2023
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+------------------------------------------------------------
+
+- 30.01.2023
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 31.01.2023
 
 ------------------------------------------------------------ 
 
