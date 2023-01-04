@@ -198,7 +198,7 @@ Tierarztpraxis Paeger
 
 - 03.01.2023
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+[Praxis Daum](tieraerzte/daum.html)
 -----------------------------------------------
 
 - 04.01.2023
