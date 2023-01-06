@@ -21,53 +21,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
  
 
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 25.12.2022
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
---------------------------------------------------------------------------
-
-- 26.12.2022
-
-[Praxis Dr. Holzhausen, Bückeburg]
---------------------------------------
-
-- 27.12.2022
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 28.12.2022
-
-[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
------------------------------------------------
-
-- 29.12.2022
-
-[Praxis Extertalbahn (Bosse)](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-
-- 30.12.2022 - 01.01.2023
-
-Tierarztpraxis Paeger
----------------------
-
-- 02.01.2023
-
-[Tierarztpraxis an der Weser- Kirchner & Kölling](tieraerzte/kleintierklinik-kirchner-und-kolling.html)
------------------------------------------------
-
-- 03.01.2023
-
-[Praxis Daum](tieraerzte/daum.html)
------------------------------------------------
-
-- 04.01.2023
-
-
 [Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
 -------------------------------------------------------------
 
