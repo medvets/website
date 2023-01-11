@@ -219,9 +219,6 @@ Tierarztpraxis Paeger
 
 
 
-![image](https://user-images.githubusercontent.com/8299174/210954299-de749a85-844a-4d51-be05-c5d3e52f5aec.png)
-
-
 
 
 
