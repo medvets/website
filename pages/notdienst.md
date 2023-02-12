@@ -172,7 +172,8 @@ Tierarztpraxis Paeger
 
 - 15.02.2023
 
-[Praxis Daum](tieraerzte/daum.html)
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 16.02.2023
