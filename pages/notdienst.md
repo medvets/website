@@ -193,7 +193,7 @@ Tierarztpraxis Paeger
 
 - 21.02.2023
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Praxis Van der Weijden](tieraerzte/anton.html) 
 -------------------------------------------------
 
 - 22.02.2023
