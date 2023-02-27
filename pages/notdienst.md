@@ -218,7 +218,20 @@ Tierarztpraxis Paeger
 
 - 28.02.2023
 
+[Praxis Van der Weijden] 
+-------------------------------------------
 
+- 01.03.2023
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
+-----------------------------------------------
+
+- 02.03.2023
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+----------------------------------------
+
+- 03.03.2023 - 05.03.2023
 
 
 
