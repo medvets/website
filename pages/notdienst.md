@@ -83,8 +83,9 @@ Tierarztpraxis Paeger
 
 - 06.03.2023
 
-Tierarztpraxis Paeger
----------------------
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 
 - 07.03.2023
 
@@ -103,8 +104,9 @@ Tierarztpraxis Paeger
 
 - 10.03.2023 - 12.03.2023
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
-------------------------------------------------------------
+
+Tierarztpraxis Paeger
+---------------------
 
 - 13.03.2023
 
@@ -113,8 +115,8 @@ Tierarztpraxis Paeger
 
 - 14.03.2023
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
+[Praxis Maxheim](tieraerzte/maxheim.html)
+------------------------------------------------------------
 
 - 15.03.2023
 
