@@ -184,7 +184,7 @@ Tierarztpraxis Paeger
 
 - 03.04.2023
 
-Tierarztpraxis Paeger
+[ Praxis Roeckemann & Orphanos]
 ---------------------
 
 - 04.04.2023
@@ -194,7 +194,7 @@ Tierarztpraxis Paeger
 
 - 05.04.2023
 
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
+[Tierarztpraxis Paeger]
 -----------------------------------------------
 
 - 06.04.2023
