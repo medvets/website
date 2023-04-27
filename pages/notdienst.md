@@ -22,183 +22,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
  
 
 
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 17.02.2023 - 19.02.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 20.02.2023
-
-Tierarztpraxis Paeger
----------------------
-
-- 21.02.2023
-
-[Praxis Van der Weijden] 
--------------------------------------------------
-
-- 22.02.2023
-
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
------------------------------------------------
-
-- 23.02.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 24.02.2023 - 26.02.2023
-
-[Praxis Dr. Holzhausen, Bückeburg]
---------------------------------------
-
-- 27.02.2023
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 28.02.2023
-
-[Praxis Van der Weijden] 
--------------------------------------------
-
-- 01.03.2023
-
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
------------------------------------------------
-
-- 02.03.2023
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
-----------------------------------------
-
-- 03.03.2023 - 05.03.2023
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 06.03.2023
-
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 07.03.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 08.03.2023
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 09.03.2023
-
-[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html) 
------------------------------------------------
-
-- 10.03.2023 - 12.03.2023
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
-------------------------------------------------------------
-
-- 13.03.2023
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-
-- 14.03.2023
-
-Tierarztpraxis Paeger
----------------------
-
-- 15.03.2023
-
- [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
---------------------------------------------------------------------------
-
-- 16.03.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 17.03.2023 - 19.03.2023
-
-[Tierarztpraxis an der Weser- Kirchner&Kölling]
------------------------------------------------
-
-- 20.03.2023
-
-Tierarztpraxis Paeger
----------------------
-
-- 21.03.2023
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
------------------------------------------------
-
-- 22.03.2023
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-
-- 23.03.2023
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-
-- 24.03.2023 - 26.03.2023
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------
-
-- 27.03.2023
-
-[Praxis Dr. Holzhausen, Bückeburg]
---------------------------------------
-
-- 28.03.2023
-
- [Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 29.03.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-
-- 30.03.2023
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
------------------------------------------------
-
-- 31.03.2023 - 02.04.2023
-
- [Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 03.04.2023
-
-[ Praxis Roeckemann & Orphanos]
----------------------
-
-- 04.04.2023
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 05.04.2023
-
-[Tierarztpraxis Paeger]
------------------------------------------------
-
-- 06.04.2023
-
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 ------------------------------------------------
 
@@ -404,11 +227,32 @@ Tierarztpraxis Paeger
 - 01.06.2023
 
 
-
 [Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html) 
 -----------------------------------------------
 
 - 02.06.2023 - 04.06.2023
+
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 05.06.2023
+
+
+Tierarztpraxis Paeger
+---------------------
+
+- 06.06.2023
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 07.06.2023
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling]
+-----------------------------------------------
+
+- 08.06.2023
 
 
 
