@@ -377,15 +377,16 @@ Tierarztpraxis Paeger
 
 - 25.05.2023
 
- [Praxis von Götz](tieraerzte/von-goetz.html)
---------------------------------------------- 
-
-- 26.05.2023 - 28.05.2023
-
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------
 
-- 29.05.2023
+- 26.05.2023 - 27.05.2023
+
+
+ [Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 28.05.2023 - 29.05.2023
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
@@ -403,8 +404,9 @@ Tierarztpraxis Paeger
 - 01.06.2023
 
 
- [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
+
+[Haustierärztliche Praxis Hagenburg](tieraerzte/zimmermann.html) 
+-----------------------------------------------
 
 - 02.06.2023 - 04.06.2023
 
