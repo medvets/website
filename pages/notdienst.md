@@ -200,10 +200,16 @@ Tierarztpraxis Paeger
 
 - 25.05.2023
 
+
+ [Praxis von Götz](tieraerzte/von-goetz.html)
+--------------------------------------------- 
+
+- 26.05.2023
+
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------
 
-- 26.05.2023 - 27.05.2023
+- 27.05.2023
 
 
  [Praxis von Götz](tieraerzte/von-goetz.html)
