@@ -38,17 +38,12 @@ Tierarztpraxis Paeger
 
 - 08.06.2023
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-
-- 09.06.2023 - 11.06.2023
-
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
  
-- 12.06.2023
-- 
+- 09.06.2023 - 12.06.2023
+
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------------------------------------------------------------------------------------
 
@@ -114,7 +109,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 29.06.2023
 
-[Praxis Van der Weijden](tieraerzte/anton.html) 
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 30.06.2023 - 02.07.2023
@@ -190,7 +186,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 20.07.2023
 
-[Praxis Daum](tieraerzte/daum.html)
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 
 - 21.07.2023 - 23.07.2023
