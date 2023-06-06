@@ -226,14 +226,6 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 - 31.07.2023
 
 
-![image](https://github.com/medvets/website/assets/8299174/6577b14f-94d6-4ae4-801f-b6ac9855a054)
-
-
-
-![image](https://user-images.githubusercontent.com/8299174/222410875-99be4783-8be4-4155-90f0-d810bbba3679.png)
-
-
-
 
 ------------------------------------------------------------ 
 
