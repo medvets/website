@@ -26,13 +26,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
  
 
-
-
-Tierarztpraxis Paeger
----------------------
-
-- 06.06.2023
-
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 
