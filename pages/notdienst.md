@@ -82,7 +82,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 - 22.06.2023
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
 - 23.06.2023 - 25.06.2023
@@ -219,9 +219,121 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 
 - 31.07.2023
+- 
+Tierarztpraxis Paeger
+-----------------------
 
+- 01.08.2023
 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
 
+- 02.08.2023
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+
+- 03.08.2023
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 04.08.2023 - 06.08.2023
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+
+- 07.08.2023
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 08.08.2023
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+
+- 09.08.2023
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+
+- 10.08.2023
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 11.08.2023 - 13.08.2023
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+
+- 14.08.2023
+
+Tierarztpraxis Holzhausen
+-----------------------
+
+- 15.08.2023
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 16.08.2023
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+
+- 17.08.2023
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+
+- 18.08.2023 - 20.08.2023
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 21.08.2023
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 22.08.2023
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 23.08.2023
+
+Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 24.08.2023
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+
+- 25.08.2023 - 27.08.2023
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+
+- 28.08.2023
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 29.08.2023
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+
+- 30.08.2023
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+
+- 31.08.2023
 
 ------------------------------------------------------------ 
 
