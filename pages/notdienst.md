@@ -16,6 +16,9 @@ Zusätzlich ist eine **Notdienstgebühr von 50,- €** (zzgl. Mwst.) pro Behandl
 
 Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur vorherigen telefonischen Anmeldung, damit Ihr Notfall auch zeitnah behandelt werden kann.
 
+**ACHTUNG** heute, **7.6.2023 ist der Notdienst nicht erreichbar!!** Bitte versuchen Sie eine andere Praxis zu kontaktieren, siehe Reiter "Praxen und Kliniken".
+Vielen Dank für Ihr Verständnis!
+
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
