@@ -98,8 +98,9 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 30.06.2023 - 02.07.2023
 
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
 
 - 03.07.2023
 
