@@ -132,9 +132,10 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 
 - 31.07.2023
-  
-Tierarztpraxis Paeger
------------------------
+
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------  
 
 - 01.08.2023
 
@@ -158,8 +159,8 @@ Tierarztpraxis Paeger
 
 - 07.08.2023
 
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
+Tierarztpraxis Paeger
+-----------------------
 
 - 08.08.2023
 
