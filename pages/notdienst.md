@@ -22,81 +22,8 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
  
 
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
- 
-- 09.06.2023 - 12.06.2023
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
--------------------------------------------------------------------------------------------------
-
-- 13.06.2023
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-
-- 14.06.2023
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-
-- 15.06.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-
-- 16.06.2023 - 18.06.2023
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-
-- 19.06.2023
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-
-- 20.06.2023
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-
-- 21.06.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-
-- 22.06.2023
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-
-- 23.06.2023 - 25.06.2023
-
-Tierarztpraxis Paeger
------------------------
-
-- 26.06.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-
-- 27.06.2023
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-
-- 28.06.2023
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-
-- 29.06.2023
 
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-
-- 30.06.2023 - 02.07.2023
 
 
 [Praxis Welge](tieraerzte/welge.html)
@@ -205,7 +132,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 
 - 31.07.2023
-- 
+  
 Tierarztpraxis Paeger
 -----------------------
 
