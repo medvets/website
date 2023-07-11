@@ -251,6 +251,45 @@ Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 
 ------------------------------------------------------------ 
 
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+
+- 01.09.2023 - 03.09.2023
+
+Tierarztpraxis Paeger
+-----------------------
+
+- 04.09.2023
+
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+
+- 05.09.2023
+
+  
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+
+- 06.09.2023
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+
+- 07.09.2023
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+
+- 08.09.2023 - 10.09.2023
+
+Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+
+- 11.09.2023
+
+
+
 
 Reguläre Dienstzeiten
 ===================================
