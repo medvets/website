@@ -110,8 +110,8 @@ Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 
 - 01.09.2023 - 03.09.2023
 
-Tierarztpraxis Paeger
------------------------
+Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
 
 - 04.09.2023
 
@@ -137,8 +137,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 - 08.09.2023 - 10.09.2023
 
-Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
+Tierarztpraxis Paeger
+-----------------------
 
 - 11.09.2023
 
