@@ -142,6 +142,102 @@ Tierarztpraxis Paeger
 
 - 11.09.2023
 
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 12.09.2023
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 13.09.2023
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 14.09.2023
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 15.09.2023 - 17.09.2023
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 18.09.2023
+
+  
+Tierarztpraxis Paeger
+-----------------------
+- 19.09.2023
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 20.09.2023
+
+[Tierarztpraxis Holzhausen]
+-------------------------------------------------------------------------
+- 21.09.2023
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 22.09.2023 - 24.09.2023
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 25.09.2023
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 26.09.2023
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 27.09.2023
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 28.09.2023
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 29.09.2023 - 01.10.2023
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 02.10.2023 - 03.10.2023
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 04.10.2023
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 05.10.2023
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 06.10.2023 - 08.10.2023
+
+Tierarztpraxis Paeger
+-----------------------
+- 09.10.2023
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 10.10.2023
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 11.10.2023
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 12.10.2023
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 13.10.2023 - 15.10.2023
+
+
+![image](https://github.com/medvets/website/assets/8299174/8316d117-84a3-4936-b13d-7566e05ff8bb)
+
 
 
 
