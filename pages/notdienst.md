@@ -124,6 +124,19 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------------------------------
 - 13.10.2023 - 15.10.2023
 
+[Tierarztpraxis Bückeburg Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+------------------------------------------------------------
+- 16.10.2023
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+------------------------------------------------------------
+- 17.10.2023
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+------------------------------------------------------------
+- 18.10.2023
+
+  
 
 Reguläre Dienstzeiten
 ===================================
