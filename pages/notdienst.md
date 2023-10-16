@@ -243,11 +243,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 29.12.2023 - 01.01.2024
 
-![image](https://github.com/medvets/website/assets/8299174/f8ed493f-252b-43cf-9eb7-a9581efa5a49)
-
-
-
-  
+ 
 
 Reguläre Dienstzeiten
 ===================================
