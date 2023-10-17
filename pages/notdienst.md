@@ -81,7 +81,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------------------
-03.11.2023 - 05.11.2023
+- 03.11.2023 - 05.11.2023
 
 Tierarztpraxis Paeger
 -----------------------
@@ -103,7 +103,7 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 10.11.2023 - 12.11.2023
 
-- Tierarztpraxis an der Weser- Kirchner&Kölling
+Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 13.11.2023
 
