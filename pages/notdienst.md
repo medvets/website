@@ -115,7 +115,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------------------------------
 - 15.11.2023
 
-[Praxis Van der Weijden](tieraerzte/anton.html) 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 16.11.2023
 
