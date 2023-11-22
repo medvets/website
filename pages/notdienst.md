@@ -137,11 +137,7 @@ Tierarztpraxis Paeger
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
-- 23.11.2023
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 24.11.2023 - 26.11.2023
+- 23.11.2023 - 26.11.2023
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
