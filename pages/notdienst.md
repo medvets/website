@@ -1,7 +1,7 @@
 title: Aktueller Notdienst für Klein- und Heimtiere 
 
 
- Während der regulären Arbeitszeiten oder auch bei Notfällen an Werktagen in der Zeit von 8:00 bis 18:00 Uhr können Sie sich eine Praxis im Menüpunkt [Praxen und Kliniken](tieraerzte.html) aussuchen.
+ Während der regulären Arbeitszeiten oder auch bei Notfällen an Werktagen in der Zeit von 8:00 Uhr bis 18:00 Uhr können Sie sich eine Praxis im Menüpunkt [Praxen und Kliniken](tieraerzte.html) aussuchen.
  Bitte prüfen Sie zunächst, ob der Tierarzt Ihres Vertrauens erreichbar ist und sich um Ihren Liebling kümmern kann.
 In den Notdienstzeiten haben Sie zusätzlich die Möglichkeit die unten genannte notdiensthabende Praxis zu kontaktieren.
 
