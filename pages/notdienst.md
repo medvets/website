@@ -7,6 +7,7 @@ title: Aktueller Notdienst für Klein- und Heimtiere
 Falls dem nicht so ist, kontaktieren Sie die unten genannte notdiensthabende Praxis.
 
 Als Notdienstzeit gilt wochentags die Zeit von 18:00 Uhr bis zum darauffolgenden Tag um 8:00 Uhr (an Feiertagen gilt dies entsprechend).
+
 An Wochenenden beginnt der Notdienst am Freitag um 18 Uhr und dauert bis zum darauffolgenden Montag um 8 Uhr.
 
 Falls Sie während der Notdienstzeiten eine Behandlung wünschen bedenken Sie bitte, dass die Vergütung im Notdienst entsprechend § 3 (4) der GOT erfolgt: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
