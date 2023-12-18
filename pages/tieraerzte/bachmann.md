@@ -6,7 +6,7 @@ title: Dr. med vet. Norbert Bachmann
  
 **Web**: <http://www.docbachmann.de>
 
-Öffnungszeiten:
+Terminpraxis:
 Bitte unter <https://www.terminland.de/aueteich/> Termine vereinbaren. 
 Telefonische Anfragen für Notfälle jeder Zeit. Alle anderen Anfragen ausschließlich in den Sprechzeiten. 
 
