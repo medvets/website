@@ -4,23 +4,23 @@ title: Aktueller Notdienst für Klein- und Heimtiere
  Während der regulären Arbeitszeiten können Sie sich eine Praxis im Menüpunkt [Praxen und Kliniken](tieraerzte.html) aussuchen.
  Bitte prüfen Sie zunächst, ob der Tierarzt Ihres Vertrauens erreichbar ist und sich um Ihren Liebling kümmern kann.
 
-
 Falls dem nicht so ist, kontaktieren Sie die unten genannte notdiensthabende Praxis.
 
-Als Notdienstzeiten gelten wochentags die Zeit von 18:00 Uhr bis morgens um 8:00 Uhr. An Wochenenden und Feiertagen beginnt der Notdienst um 8 Uhr und dauert bis zum darauf folgenden Tag um 8 Uhr.  
+Als Notdienstzeit gilt wochentags die Zeit von 18:00 Uhr bis zum darauffolgenden Tag um 8:00 Uhr. (an Feiertagen gilt dies entsprechend)
+An Wochenenden beginnt der Notdienst am Freitag um 18 Uhr und dauert bis zum darauffolgenden Montag um 8 Uhr.
 
 Falls Sie während der Notdienstzeiten eine Behandlung wünschen bedenken Sie bitte, dass die Vergütung im Notdienst entsprechend § 3 (4) der GOT erfolgt: "Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, ...für Leistungen, die auf Verlangen des Tierbesitzers bei **Nacht** ..., an **Wochenenden** ... und an **Feiertagen** erbracht werden."
 
 Die Tierärzte sind verpflichtet, **mindestens den 2fachen Gebührensatz** zu verlangen. 
 Zusätzlich ist eine **Notdienstgebühr von 50,- €** (zzgl. Mwst.) pro Behandlungsfall zu erheben. 
 
-Nachfolgend wird die notdiensthabende Praxis angezeigt. Wir raten dringend zur vorherigen telefonischen Anmeldung, damit Ihr Notfall auch zeitnah behandelt werden kann.
+Bitte haben Sie Verständnis dafür, dass insbesondere in den Notdienstzeiten keine telefonische Beratung stattfinden kann. Lediglich eine vorherige telefonische Anmeldung ist dringend erforderlich, damit Ihr Notfall auch zeitnah behandelt werden kann. Erst durch die Vorstellung und Untersuchung in der Praxis kann der entsprechende Fall vom Tierarzt fachgerecht beurteilt werden.
+
+Nachfolgend wird die notdiensthabende Praxis angezeigt. 
 
 <!-- Anleitung: In Klammern nach der Praxis-Überschrift eine Komma-getrennte Liste der Daten oder Datumsbereiche.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
-
- 
 
 
 [Tierarztpraxis Bückeburg Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
