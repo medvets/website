@@ -23,5 +23,4 @@ Adresse:
     Obernkirchenerstr. 2a ( Navi zeigt Nr. 2 an , etwa 250 m weiter von Obernkirchen kommend)
     31749 Auetal-Rolfshagen
 
-
-<iframe src="https://www.google.de/maps/@52.2369494,9.1549921,16.58z?entry=ttu" allowfullscreen></iframe> 
+<iframe src="https://www.google.de/maps/@52.2369494,9.1549921,16.58z?entry=ttu" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
