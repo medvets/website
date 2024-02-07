@@ -24,4 +24,4 @@ Adresse:
     31749 Auetal-Rolfshagen
 
 
-<iframe src="https://duckduckgo.com/?q=dr.+norbert+bachmann+obernkirchnerstr.+2a&t=newext&atb=v402-1&ia=web&iaxm=start&start=what%3AObernkirchener%2520Stra%25C3%259Fe%25202A%2Cwhere%3AAuetal%252C%2520Germany&end=what%3AObernkirchener%2520Stra%25C3%259Fe%25202A%2Cwhere%3AAuetal%252C%2520Deutschland&transport=drive" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
+<iframe src="https://www.bing.com/maps?cc=de&cp=52.233428%7E9.145611&lvl=15.1" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
