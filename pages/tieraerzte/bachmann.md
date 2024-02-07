@@ -24,4 +24,4 @@ Adresse:
     31749 Auetal-Rolfshagen
 
 
-<iframe src="https://www.bing.com/maps?osid=a2cdb822-692a-4c2e-98e9-aea704d09fb2&cp=52.233254~9.154014&lvl=15.534687&pi=0&imgid=7ef0d9b5-4920-4386-8fe7-369c5c944a10&v=2&sV=2&form=S00027" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
+<iframe src="https://www.google.de/maps/@52.2369494,9.1549921,16.58z?entry=ttu" allowfullscreen></iframe> 
