@@ -460,7 +460,10 @@ Tierarztpraxis Paeger
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 - 15.03.2024 - 17.03.2024
- 
+
+ [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 23.04.2024
 
 Reguläre Dienstzeiten
 ===================================
