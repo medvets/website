@@ -23,447 +23,79 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Tierarztpraxis Bückeburg Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
-------------------------------------------------------------
-- 16.10.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
-------------------------------------------------------------
-- 17.10.2023
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
-------------------------------------------------------------
-- 18.10.2023
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 19.10.2023
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 20.10.2023 - 22.10.2023
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 23.10.2023
-
-Tierarztpraxis Paeger
------------------------
-- 24.10.2023
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 25.10.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 26.10.2023
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 27.10.2023 - 29.10.2023
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 30.10.2023
-  
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 31.10.2023
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 01.11.2023
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 02.11.2023
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 03.11.2023 - 05.11.2023
-
-Tierarztpraxis Paeger
------------------------
-- 06.11.2023
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 07.11.2023
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 08.11.2023
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 09.11.2023
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 10.11.2023 - 12.11.2023
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 13.11.2023
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 14.11.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 15.11.2023
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 16.11.2023
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 17.11.2023 - 19.11.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 20.11.2023
-
-Tierarztpraxis Paeger
------------------------
-- 21.11.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 22.11.2023
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 23.11.2023 - 26.11.2023
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 27.11.2023
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 28.11.2023
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 29.11.2023
-
-Tierarztpraxis Holzhausen
-------------------------------
-- 30.11.2023
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 01.12.2023 - 03.12.2023
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 04.12.2023
-
-Tierarztpraxis Paeger
------------------------
-- 05.12.2023
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 06.12.2023
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 07.12.2023
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 08.12.2023 - 10.12.2023
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 11.12.2023
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
--  12.12.2023
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 13.12.2023
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 14.12.2023
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 15.12.2023 - 17.12.2023
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 18.12.2023
-
-Tierarztpraxis Paeger
------------------------
-- 19.12.2023
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 20.12.2023
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 21.12.2023
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 22.12.2023 - 24.12.2023
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 25.12.2023
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 26.12.2023
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 27.12.2023
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 28.12.2023
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 29.12.2023 - 01.01.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 02.01.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 03.01.2024
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 04.01.2024
-
- [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 05.01.2024 - 07.01.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 08.01.2024
-
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 09.01.2024
-
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 10.01.2024
-
- [Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 11.01.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 12.01.2024 - 14.01.2024
-
-Tierarztpraxis Paeger
------------------------
-- 15.01.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 16.01.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 17.01.2024
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 18.01.2024
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 19.01.2024 - 21.01.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 22.01.2024
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 23.01.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 24.01.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 25.01.2024
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 26.01.2024 - 28.01.2024
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 29.01.2024
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 30.01.2024
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 31.01.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 01.02.2024
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 02.02.2024
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 03.02.2024 - 04.02.2024
-  
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 05.02.2024
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 06.02.2024
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 07.02.2024
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 08.02.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 09.02.2024 - 11.02.2024
-
-Tierarztpraxis Paeger
------------------------
-- 12.02.2024
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 13.02.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 14.02.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 15.02.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 16.02.2024 - 18.02.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 19.02.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 20.02.2024
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 21.02.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 22.02.2024
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 23.02.2024 - 25.02.2024
-
-Tierarztpraxis Paeger
------------------------
-- 26.02.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 27.02.2024
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 28.02.2024
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 29.02.2024
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 01.03.2024 - 03.03.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 04.03.2024
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 05.03.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 06.03.2024
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 07.03.2024
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 08.03.2024 - 10.03.2024
-
-Tierarztpraxis Paeger
------------------------
-- 11.03.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 12.03.2024
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 13.03.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 14.03.2024
-
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
 - 15.03.2024 - 17.03.2024
 
- [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
-- 23.04.2024
+18.03.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 19.03.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 20.03.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 21.03.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 22.03.2024 - 24.03.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 25.03.2024
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 26.03.2024
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 27.03.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 28.03.2024
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 29.03.2024
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 30.03.2024
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 31.03.2024
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 01.04.2024
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 02.04.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 03.04.2024
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 04.04.2024
+
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 05.04.2024 - 07.04.2024
+
 
 Reguläre Dienstzeiten
 ===================================
