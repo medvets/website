@@ -23,13 +23,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 15.03.2024 - 17.03.2024
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-18.03.2024
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
@@ -94,7 +87,61 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
-- 05.04.2024 - 07.04.2024
+- 05.04.2024 - 08.04.2024
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+------------------------------------------------------------
+- 09.04.2024
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+----------------------------------------
+- 10.04.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+----------------------------------------------------------
+- 11.04.2024
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+----------------------------------------
+- 12.04.2024 - 14.04.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 15.04.2024
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+----------------------------------------
+
+- 16.04.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+------------------------------------------------------------
+- 17.04.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-------------------------------------------------------
+- 18.04.2024
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+----------------------------------------------------------
+- 19.04.2024 - 21.04.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-------------------------------------------------------------
+- 22.04.2024
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-----------------------------------------------
+- 23.04.2024
+
+[Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
+----------------------------------------------------
+- 24.04.2024
+
+Tierarztpraxis an der Weser - Kirchner&Kölling
+---------------------------
+- 25.04.2024
+
 
 
 Reguläre Dienstzeiten
