@@ -22,125 +22,58 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 19.03.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 20.03.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 21.03.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 22.03.2024 - 24.03.2024
-
-Tierarztpraxis Paeger
------------------------
-- 25.03.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 26.03.2024
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 27.03.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 28.03.2024
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 29.03.2024
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 30.03.2024
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 31.03.2024
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 01.04.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 02.04.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 03.04.2024
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 04.04.2024
-
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 05.04.2024 - 08.04.2024
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
-------------------------------------------------------------
-- 09.04.2024
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
-----------------------------------------
-- 10.04.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
-----------------------------------------------------------
-- 11.04.2024
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
-----------------------------------------
-- 12.04.2024 - 14.04.2024
-
-Tierarztpraxis Paeger
------------------------
-- 15.04.2024
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
-----------------------------------------
-
-- 16.04.2024
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
-------------------------------------------------------------
-- 17.04.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
--------------------------------------------------------
-- 18.04.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html)
-----------------------------------------------------------
-- 19.04.2024 - 21.04.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-- 22.04.2024
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
------------------------------------------------
-- 23.04.2024
-
-[Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
-----------------------------------------------------
-- 24.04.2024
-
 Tierarztpraxis an der Weser - Kirchner&Kölling
 ---------------------------
 - 25.04.2024
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-----------------------------------------------
+- 26.04.2024 - 28.04.2024
+
+ Tierarztpraxis Paeger
+-------------------------------------------------------------
+- 29.04.2024
+
+ [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+----------------------------------------------------------- 
+- 30.04.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+------------------------------------------------------- 
+- 01.05.2024
+
+
+- 02.05.2024
+- 03.05.2024
+- 04.05.2024
+- 05.05.2024
+- 06.05.2024
+- 07.05.2024
+- 08.05.2024
+- 09.05.2024
+- 10.05.2024
+- 11.05.2024
+- 12.05.2024
+- 13.05.2024
+- 14.05.2024
+- 15.05.2024
+- 16.05.2024
+- 17.05.2024
+- 18.05.2024
+- 19.05.2024
+- 20.05.2024
+- 21.05.2024
+- 22.05.2024
+- 23.05.2024
+- 24.05.2024
+- 25.05.2024
+- 26.05.2024
+- 27.05.2024
+- 28.05.2024
+- 29.05.2024
+- 30.05.2024
+- 31.05.2024
+- 01.06.2024
 
 
 
