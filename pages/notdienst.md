@@ -130,6 +130,179 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 31.05.2024 - 02.06.2024
 
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 03.06.2024
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 04.06.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 05.06.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 06.06.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 07.06.2024 - 09.06.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 10.06.2024
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 11.06.2024
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 12.06.2024
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 13.06.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 14.06.2024 - 16.06.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 17.06.2024
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 18.06.2024
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 19.06.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 20.06.2024
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 21.06.2024 - 23.06.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 24.06.2024
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 25.06.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 26.06.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 27.06.2024
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+28.06.2024 - 30.06.2024
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 01.07.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 02.07.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 03.07.2024
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 04.07.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 05.07.2024 - 07.07.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 08.07.2024
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 09.07.2024
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 10.07.2024
+
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 11.07.2024
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 12.07.2024 - 14.07.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 15.07.2024
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 16.07.2024
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 17.07.2024
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 18.07.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 19.07.2024 - 21.07.2024
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 22.07.2024
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 23.07.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 24.07.2024
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 25.07.2024
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 26.07.2024 - 28.07.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 29.07.2024
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 30.07.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 31.07.2024
+
 
 
 Reguläre Dienstzeiten
