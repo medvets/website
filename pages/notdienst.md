@@ -22,65 +22,7 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-Tierarztpraxis an der Weser - Kirchner&Kölling
----------------------------
-- 25.04.2024
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
------------------------------------------------
-- 26.04.2024 - 28.04.2024
-
- Tierarztpraxis Paeger
--------------------------------------------------------------
-- 29.04.2024
-
- [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------ 
-- 30.04.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
-------------------------------------------------------- 
-- 01.05.2024
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 02.05.2024
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 03.05.2024 - 05.05.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 06.05.2024
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 07.05.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 08.05.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 09.05.2024
-
- [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 10.05.2024 - 12.05.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 13.05.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 14.05.2024
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 15.05.2024
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
