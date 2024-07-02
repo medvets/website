@@ -37,7 +37,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
-28.06.2024 - 30.06.2024
+- 28.06.2024 - 30.06.2024
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
@@ -104,7 +104,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 22.07.2024
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
+[PraxisZimmermann](tieraerzte/zimmermann.html)
+
 -----------------------------------------------------------
 - 23.07.2024
 
