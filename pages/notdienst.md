@@ -102,12 +102,7 @@ Tierarztpraxis Paeger
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
-- 22.07.2024
-
-[PraxisZimmermann](tieraerzte/zimmermann.html)
-
------------------------------------------------------------
-- 23.07.2024
+- 22.07.2024 - 23.07.2024
 
 [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
 -----------------------------------------------------------
