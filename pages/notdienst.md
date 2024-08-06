@@ -47,8 +47,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 05.08.2024
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 - 06.08.2024
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
