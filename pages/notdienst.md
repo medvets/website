@@ -91,11 +91,11 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 20.08.2024
 
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 21.08.2024
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 22.08.2024
 
@@ -127,6 +127,13 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 31.08.2024 - 01.09.2024
 
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 16.10.2024
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 29.10.2024
 
 
 
