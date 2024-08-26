@@ -22,87 +22,6 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 29.07.2024
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 30.07.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 31.07.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 01.08.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 02.08.2024 - 04.08.2024
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 05.08.2024
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 06.08.2024
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 07.08.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 08.08.2024
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 09.08.2024 - 11.08.2024
-
-Tierarztpraxis Paeger
------------------------
-- 12.08.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 13.08.2024
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 14.08.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 15.08.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 16.08.2024 - 18.08.2024
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 19.08.2024
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 20.08.2024
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 21.08.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 22.08.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 23.08.2024 - 25.08.2024
-
 Tierarztpraxis Paeger
 -----------------------
 - 26.08.2024
@@ -127,13 +46,130 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 31.08.2024 - 01.09.2024
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 02.09.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 03.09.2024
+
+[Praxis Welge](tieraerzte/welge.html)
 -------------------------------------------------------------
-- 16.10.2024
+- 04.09.2024
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 05.09.2024
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 06.09.2024 - 08.09.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 09.09.2024
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
-- 29.10.2024
+- 10.09.2024
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 11.09.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 12.09.2024
+  
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 13.09.2024 - 15.09.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 16.09.2024
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 17.09.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 18.09.2024
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 19.09.2024
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 20.09.2024 - 22.09.2024
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 23.09.2024
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 24.09.2024
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 25.09.2024
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 26.09.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 27.09.2024 - 29.09.2024
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 30.09.2024
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 01.10.2024
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 02.10.2024 - 03.10.2024
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 04.10.2024 - 06.10.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 07.10.2024
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 08.10.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 09.10.2024
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 10.10.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 11.10.2024 - 13.10.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 14.10.2024
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 15.10.2024
+![image](https://github.com/user-attachments/assets/417da893-9bf3-4381-b61f-7fab6e951d43)
 
 
 
