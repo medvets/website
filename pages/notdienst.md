@@ -169,8 +169,6 @@ Tierarztpraxis Paeger
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 ------------------------------
 - 15.10.2024
-![image](https://github.com/user-attachments/assets/417da893-9bf3-4381-b61f-7fab6e951d43)
-
 
 
 Reguläre Dienstzeiten
