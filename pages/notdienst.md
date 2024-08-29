@@ -22,14 +22,6 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-Tierarztpraxis Paeger
------------------------
-- 26.08.2024
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 27.08.2024
-
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
 - 28.08.2024
@@ -62,7 +54,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------------------
 - 05.09.2024
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 - 06.09.2024 - 08.09.2024
 
