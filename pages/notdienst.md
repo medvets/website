@@ -22,31 +22,9 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 08.10.2024
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 09.10.2024
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 10.10.2024
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 11.10.2024 - 13.10.2024
-
-Tierarztpraxis Paeger
------------------------
-- 14.10.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 15.10.2024
-
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
 - 16.10.2024
 
@@ -78,7 +56,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 28.10.2024
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+[Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 29.10.2024
 
