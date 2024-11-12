@@ -67,7 +67,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 31.10.2024
-- 
+
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
 - 01.11.2024 - 03.11.2024
