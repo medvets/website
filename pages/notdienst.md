@@ -23,98 +23,138 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 16.10.2024
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 17.10.2024 - 20.10.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 21.10.2024
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 22.10.2024
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 23.10.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 24.10.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 25.10.2024 - 27.10.2024
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 28.10.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 29.10.2024
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 30.10.2024
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 31.10.2024
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 01.11.2024 - 03.11.2024
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 04.11.2024
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------- 
-- 05.11.2024
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 06.11.2024
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 07.11.2024
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 08.11.2024 - 10.11.2024
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 11.11.2024
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 12.11.2024
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 13.11.2024
-
 Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 14.11.2024
 
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 15.11.2024 - 17.11.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 18.11.2024
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 19.11.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 20.11.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 21.11.2024
+  
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 22.11.2024 - 24.11.2024
+  
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 25.11.2024
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 26.11.2024
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 27.11.2024
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 28.11.2024
+
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------------------
-- 15.11.2024 - 17.11.2024
+- 29.11.2024 - 01.12.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 02.12.2024
   
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 03.12.2024
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 04.12.2024
+
+
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
-- 29.11.2024 - 01.12.2024
+- 05.12.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 06.12.2024 - 08.12.2024
+
+Tierarztpraxis Paeger
+-----------------------
+- 09.12.2024
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 10.12.2024
+  
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 11.12.2024
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 12.12.2024
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 13.12.2024 - 15.12.2024
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 16.12.2024
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 17.12.2024
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 18.12.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 19.12.2024
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 20.12.2024 - 22.12.2024
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 23.12.2024
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 24.12.2024
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 25.12.2024
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 26.12.2024
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 27.12.2024 - 30.12.2024
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 31.12.2024 - 01.01.2025
 
 
 Reguläre Dienstzeiten
