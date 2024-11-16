@@ -27,7 +27,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 14.11.2024
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------
 - 15.11.2024 - 17.11.2024
 
@@ -67,7 +67,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 28.11.2024
 
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------------------
 - 29.11.2024 - 01.12.2024
 
