@@ -67,8 +67,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 28.11.2024
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------------------
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
 - 29.11.2024 - 01.12.2024
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
