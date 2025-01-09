@@ -144,8 +144,159 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
-- 31.01.2025
+- 31.01.2025 - 02.02.2025
 
+Tierarztpraxis Paeger
+-----------------------
+- 03.02.2025
+
+ [Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 04.02.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 05.02.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 06.02.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 07.02.2025 - 09.02.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 10.02.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 11.02.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 12.02.2025
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+--------------------------------------------
+- 13.02.2025
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+---------------------------------------------------------
+- 14.02.2025 - 16.02.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+--------------------------------------------------------
+- 17.02.2025
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+----------------------------------------------------------
+- 18.02.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+---------------------------------------------------
+- 19.02.2025 - 23.02.2025
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+----------------------------------------------------------
+- 24.02.2025
+
+[PraxisZimmermann](tieraerzte/zimmermann.html)
+------------------------------------------------------------
+- 25.02.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 26.02.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 27.02.2025
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+--------------------------------------------
+- 28.02.2025 - 02.03.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 03.03.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 04.03.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 05.03.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 06.03.2025
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+--------------------------------------------
+- 07.03.2025 - 09.03.2025
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 10.03.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 11.03.2025
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 12.03.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 13.03.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 14.03.2025 - 16.03.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+---------------------------------------------------
+- 17.03.2025
+
+[Praxis Van der Weijden](tieraerzte/anton.html)
+----------------------------------------------------------
+- 18.03.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 20.03.2025
+
+[PraxisZimmermann](tieraerzte/zimmermann.html)
+------------------------------------------------------------
+- 21.03.2025 - 23.03.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 24.03.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 25.03.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+--------------------------------------------------------
+- 26.03.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 27.03.2025
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+----------------------------------------------------------
+- 28.03.2025 - 30.03.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 31.03.2025
 
 
 Reguläre Dienstzeiten
