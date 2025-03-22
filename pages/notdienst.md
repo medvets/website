@@ -51,6 +51,132 @@ Tierarztpraxis Paeger
 -----------------------
 - 31.03.2025
 
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html) 
+------------------------------------------------------------------------------------ 
+- 01.04.2025
+
+[Praxis Leis](tieraerzte/leis.html) 
+------------------------------------------------------------- 
+- 02.04.2025
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html) 
+------------------------------------------------------------- 
+- 03.04.2025
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html) 
+------------------------------------------------------------------------- 
+- 04.04.2025 - 06.04.2025
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html) 
+------------------------------------------------------------- 
+- 07.04.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling 
+------------------------------
+- 08.04.2025
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html) 
+------------------------------------------------------------- 
+- 09.04.2025
+
+Tierarztpraxis Paeger 
+----------------------- 
+- 10.04.2025
+
+[Praxis Van der Weijden](tieraerzte/anton.html)  
+------------------------------------------------------------- 
+- 11.04.2025 - 13.04.2025
+
+[Praxis Schuster](tieraerzte/finkbeiner.html) 
+----------------------------------------------------------- 
+- 14.04.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html) 
+------------------------------------------------------------- 
+- 15.04.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html) 
+----------------------------------------------------------- 
+- 16.04.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html) 
+------------------------------------------------------------------------------------ 
+- 17.04.2025
+
+[Praxis Beiße](tieraerzte/beisse.html) 
+----------------------------------------------------------- 
+- 18.04.2025
+
+[Praxis Daum](tieraerzte/daum.html) 
+------------------------------------------------------------- 
+- 19.04.2025 - 20.04.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html) 
+----------------------------------------------------------- 
+- 21.04.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html) 
+------------------------------ 
+- 22.04.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html) 
+------------------------------ 
+- 23.04.2025
+
+[Praxis Daum](tieraerzte/daum.html) 
+------------------------------------------------------------- 
+- 24.04.2025
+
+[Praxis Schuster](tieraerzte/finkbeiner.html) 
+------------------------------- 
+- 25.04.2025 - 27.04.2025
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html) 
+------------------------------------------------------------- 
+- 28.04.2025
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html) 
+------------------------------------------------------------- 
+- 29.04.2025
+
+[Tierarztpraxis an der Weser- Kirchner&Kölling 
+------------------------------ 
+- 30.04.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html) 
+------------------------------------------------------------- 
+01.05.2025
+02.05.2025
+03.05.2025
+04.05.2025
+05.05.2025
+06.05.2025
+07.05.2025
+08.05.2025
+09.05.2025
+10.05.2025
+11.05.2025
+12.05.2025
+13.05.2025
+14.05.2025
+15.05.2025
+16.05.2025
+17.05.2025
+18.05.2025
+19.05.2025
+20.05.2025
+21.05.2025
+22.05.2025
+23.05.2025
+24.05.2025
+25.05.2025
+26.05.2025
+27.05.2025
+28.05.2025
+29.05.2025
+30.05.2025
+31.05.2025
+
 
 Reguläre Dienstzeiten
 ===================================
