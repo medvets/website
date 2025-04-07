@@ -59,8 +59,9 @@ Tierarztpraxis Paeger
 ------------------------------------------------------------- 
 - 02.04.2025
 
+
 [Praxis Schönfeld](tieraerzte/schoenfeld.html) 
-------------------------------------------------------------- 
+------------------------------------------------------------ 
 - 03.04.2025
 
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html) 
@@ -119,8 +120,8 @@ Tierarztpraxis Paeger
 ------------------------------ 
 - 22.04.2025
 
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html) 
------------------------------- 
+[Praxis Schönfeld](tieraerzte/schoenfeld.html) 
+-------------------------------------------------
 - 23.04.2025
 
 [Praxis Daum](tieraerzte/daum.html) 
