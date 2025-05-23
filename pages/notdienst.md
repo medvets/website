@@ -124,7 +124,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 23.06.2025
 
-Schlingloff](tie[Praxis raerzte/schlingloff.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 24.06.2025
 
