@@ -48,7 +48,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------ 
 - 27.05.2025
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html) 
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html) 
 ------------------------------------------------------------- 
 - 28.05.2025
 
