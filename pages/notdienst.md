@@ -148,7 +148,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 16.07.2025
 
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis Van der Weijden](tieraerzte/anton.html) 
 -------------------------------------------------------------
 - 17.07.2025
 
