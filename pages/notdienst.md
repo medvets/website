@@ -252,8 +252,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 21.08.2025
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 22.08.2025 - 24.08.2025
 
 [Praxis Daum](tieraerzte/daum.html)
@@ -275,6 +275,83 @@ Tierarztpraxis Paeger
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 29.08.2025 - 31.08.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 01.09.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 02.09.2025
+
+ Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 03.09.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 04.09.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 05.09.2025 -07.09.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 08.09.2025
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 09.09.2025
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+--------------------------------
+- 10.09.2025
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 11.09.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 12.09.2025 - 14.09.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------ 
+- 15.09.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 16.09.2025
+
+ [Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 17.09.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 18.09.2025
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 19.09.2025 - 21.09.2025
+
+[PraxisZimmermann](tieraerzte/zimmermann.html)
+---------------------------
+- 22.09.2025
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 23.09.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 24.09.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 25.09.2025
+
 
 
 Reguläre Dienstzeiten
