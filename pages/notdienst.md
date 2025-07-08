@@ -240,8 +240,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 18.08.2025
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
+Tierarztpraxis Paeger
+-----------------------
 - 19.08.2025
 
 [Praxis Welge](tieraerzte/welge.html)
@@ -268,8 +268,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------------------
 - 27.08.2025
 
-Tierarztpraxis Paeger
------------------------
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 - 28.08.2025
 
 [Praxis Leis](tieraerzte/leis.html)
@@ -332,8 +332,9 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 18.09.2025
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+[Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
+
 - 19.09.2025 - 21.09.2025
 
 [PraxisZimmermann](tieraerzte/zimmermann.html)
@@ -352,7 +353,9 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 25.09.2025
 
-
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 26.09.2025 - 28.09.2025
 
 Reguläre Dienstzeiten
 ===================================
