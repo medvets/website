@@ -120,8 +120,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 07.07.2025
 
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
 - 08.07.2025
 
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
@@ -136,8 +136,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 11.07.2025 - 13.07.2025
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
 - 14.07.2025
 
 Tierarztpraxis Paeger
