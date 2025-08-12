@@ -164,6 +164,14 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 26.09.2025 - 28.09.2025
 
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 30.09.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 01.10.2025
+
 Reguläre Dienstzeiten
 ===================================
 
@@ -345,5 +353,6 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
