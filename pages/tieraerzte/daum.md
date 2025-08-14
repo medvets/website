@@ -1,4 +1,4 @@
-title: Kleintierpraxis Daum
+title: Tierarztpraxis Krainhagen Claudia Daum
 
 Telefon: 05724/9770999
 
@@ -8,11 +8,16 @@ Email  : daumvet@gmail.com
 
 Adresse: Winternstraße 36, 31683 Obernkirchen, OT Krainhagen
 
-Wir haben eine Bestellpraxis, am Vormittag sind (bestellte!!!) Operationen, nachmittags vergeben wir Termine von 16 bis 18 Uhr.
+Wir haben eine Bestellpraxis, am Vormittag sind (bestellte!!!) Operationen, nachmittags vergeben wir Termine von 15 bis 18 Uhr.
 
-Bitte rufen Sie einfach an für einen Termin!
+Bitte rufen Sie einfach an für einen Termin, selbstverständlich rufen wir zurück und machen meist noch einen Termin am selben Tag möglich.
+Unsere Patienten nutzen auch gern Whatsapp für Terminabsprachen, wir verschicken dann einen nicht-öffentlichen Link, wo Sie sich bei uns einen Termin buchen können.
+Termine bieten uns Planungssicheheit,und Sie müssen mit Ihrem Tier nicht warten!
 
-Unsere Patienten nutzen auch gern Whatsapp für Terminabsprachen. Dass Untersuchungen und Beratungen nicht über eine App abzuwickeln sind, versteht sich von selbst...
+Whatsapp im Notdienst nachts funktioniert NICHT.
+
+Dass Untersuchungen und Beratungen nicht über eine App abzuwickeln sind, versteht sich von selbst...
+
 
 
 
