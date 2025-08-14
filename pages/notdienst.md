@@ -65,7 +65,7 @@ Tierarztpraxis Paeger
 
 [Praxis Daum](tieraerzte/daum.html)
 -------------------------------------------------------------
-- 25.08.2025
+- 25.08.2025  neu Praxis Schlingloff 01638383123  nicht DAUM
 
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 ------------------------------
@@ -353,6 +353,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
