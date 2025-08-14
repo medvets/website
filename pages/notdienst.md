@@ -63,7 +63,7 @@ Tierarztpraxis Paeger
 ------------------------------------------------------------------------------------
 - 22.08.2025 - 24.08.2025
 
-[Praxis Daum](tieraerzte/daum.html)
+[Praxis Schlingloff](tieraerzte/daum.html)
 -------------------------------------------------------------
 - 25.08.2025  neu Praxis Schlingloff 01638383123  nicht DAUM
 
@@ -353,6 +353,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
