@@ -172,6 +172,16 @@ Tierarztpraxis Paeger
 -----------------------
 - 01.10.2025
 
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 22.10.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 29.10.2025
+
+
+
 Reguläre Dienstzeiten
 ===================================
 
@@ -353,6 +363,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
