@@ -23,162 +23,76 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 11.08.2025
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 12.08.2025
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 13.08.2025
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 14.08.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 15.08.2025 - 17.08.2025
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 18.08.2025
-
-Tierarztpraxis Paeger
------------------------
-- 19.08.2025
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 20.08.2025
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 21.08.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 22.08.2025 - 24.08.2025
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 25.08.2025  neu Praxis Schlingloff 01638383123  nicht DAUM
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 26.08.2025
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 27.08.2025
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 28.08.2025
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 29.08.2025 - 31.08.2025
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 01.09.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 02.09.2025
-
- Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 03.09.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 04.09.2025
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 05.09.2025 -07.09.2025
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 08.09.2025
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 09.09.2025
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
---------------------------------
-- 10.09.2025
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 11.09.2025
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 12.09.2025 - 14.09.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
------------------------------- 
-- 15.09.2025
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 16.09.2025
-
- [Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 17.09.2025
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 18.09.2025
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-
-- 19.09.2025 - 21.09.2025
-
-[PraxisZimmermann](tieraerzte/zimmermann.html)
----------------------------
-- 22.09.2025
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 23.09.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 24.09.2025
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 25.09.2025
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 26.09.2025 - 28.09.2025
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 30.09.2025
-
-Tierarztpraxis Paeger
------------------------
-- 01.10.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 22.10.2025
-
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 29.10.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 30.09.2025
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 01.10.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 02.10.2025
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 03.10.2025
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------- 
+- 04.10.2025 - 05.10.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 06.10.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 07.10.2025
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 08.10.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 09.10.2025
+
+[PraxisZimmermann](tieraerzte/zimmermann.html)
+---------------------------
+- 10.10.2025 - 12.10.2025
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 13.10.2025
+14.10.2025
+15.10.2025
+16.10.2025
+17.10.2025
+18.10.2025
+19.10.2025
+20.10.2025
+21.10.2025
+22.10.2025
+23.10.2025
+24.10.2025
+25.10.2025
+26.10.2025
+27.10.2025
+28.10.2025
+29.10.2025
+30.10.2025
+31.10.2025
+01.11.2025
+
+  
+<img width="72" height="681" alt="image" src="https://github.com/user-attachments/assets/b9e88fa8-c7f5-4d79-ad74-5901ee4e2930" />
+
 
 
 
@@ -363,6 +277,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
