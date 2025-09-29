@@ -70,25 +70,7 @@ Tierarztpraxis Paeger
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 13.10.2025
-14.10.2025
-15.10.2025
-16.10.2025
-17.10.2025
-18.10.2025
-19.10.2025
-20.10.2025
-21.10.2025
-22.10.2025
-23.10.2025
-24.10.2025
-25.10.2025
-26.10.2025
-27.10.2025
-28.10.2025
-29.10.2025
-30.10.2025
-31.10.2025
-01.11.2025
+
 
   
 <img width="72" height="681" alt="image" src="https://github.com/user-attachments/assets/b9e88fa8-c7f5-4d79-ad74-5901ee4e2930" />
@@ -277,6 +259,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
