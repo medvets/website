@@ -23,9 +23,7 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 29.10.2025
+
 
 Tierarztpraxis Paeger
 -----------------------
@@ -72,6 +70,10 @@ Tierarztpraxis Paeger
 - 13.10.2025
 
 
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 29.10.2025
   
 <img width="72" height="681" alt="image" src="https://github.com/user-attachments/assets/b9e88fa8-c7f5-4d79-ad74-5901ee4e2930" />
 
@@ -259,6 +261,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
