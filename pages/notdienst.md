@@ -69,7 +69,10 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 13.10.2025
 
+Tierarztpraxis an der Weser in Rinteln
+---------------------------------------
 
+- 14.10.2025
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
@@ -261,6 +264,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
