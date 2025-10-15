@@ -24,27 +24,6 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 
 
-
-Tierarztpraxis Paeger
------------------------
-- 30.09.2025
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 01.10.2025
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 02.10.2025
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 03.10.2025
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------- 
-- 04.10.2025 - 05.10.2025
-
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
 - 06.10.2025
@@ -71,20 +50,25 @@ Tierarztpraxis Paeger
 
 Tierarztpraxis an der Weser in Rinteln
 ---------------------------------------
-
 - 14.10.2025
 
  [Praxis Maxheim](tieraerzte/maxheim.html)
 ----------------------------------------------------------
-
 - 15.10.2025
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 16.10.2025
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 17.10.2025 - 19.10.2025
 
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 29.10.2025
   
-<img width="72" height="681" alt="image" src="https://github.com/user-attachments/assets/b9e88fa8-c7f5-4d79-ad74-5901ee4e2930" />
 
 
 
@@ -270,6 +254,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
