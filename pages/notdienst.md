@@ -74,6 +74,12 @@ Tierarztpraxis an der Weser in Rinteln
 
 - 14.10.2025
 
+ [Praxis Maxheim](tieraerzte/maxheim.html)
+----------------------------------------------------------
+
+- 15.10.2025
+
+
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 29.10.2025
@@ -264,6 +270,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
