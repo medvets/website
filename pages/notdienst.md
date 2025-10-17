@@ -59,7 +59,8 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 ------------------------------------------------------------------------------------
 - 29.10.2025
 
-
+[Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
+-------------------------------------------------------------------------
 - 30.10.2025
 
 [Praxis Van der Weijden](tieraerzte/anton.html) 
@@ -110,7 +111,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 14.11.2025 - 16.11.2025
 
-
+[Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
+-------------------------------------------------------------------------
 - 17.11.2025
 
 [Praxis Beiße](tieraerzte/beisse.html)
@@ -243,11 +245,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------------------
-- 31.12.2025
-
-
-
-  
+- 31.12.2025 
 
 
 
@@ -433,6 +431,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
