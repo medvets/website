@@ -23,43 +23,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 06.10.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 07.10.2025
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 08.10.2025
-
-Tierarztpraxis Paeger
------------------------
-- 09.10.2025
-
-[PraxisZimmermann](tieraerzte/zimmermann.html)
----------------------------
-- 10.10.2025 - 12.10.2025
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 13.10.2025
-
-Tierarztpraxis an der Weser in Rinteln
----------------------------------------
-- 14.10.2025
-
- [Praxis Maxheim](tieraerzte/maxheim.html)
-----------------------------------------------------------
-- 15.10.2025
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 16.10.2025
-
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 17.10.2025 - 19.10.2025
@@ -198,7 +161,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 03.12.2025
 
-
+[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------------------------
 - 04.12.2025
 
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
@@ -277,7 +241,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------------------
 - 30.12.2025
 
-[Tierarztpraxis Schönfeld](tieraerzte/schönfeld.html)
+[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------------------
 - 31.12.2025
 
@@ -469,6 +433,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
