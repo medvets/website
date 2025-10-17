@@ -64,10 +64,225 @@ Tierarztpraxis an der Weser in Rinteln
 -------------------------------------------------------------
 - 17.10.2025 - 19.10.2025
 
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 20.10.2025
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 21.10.2025
 
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
+- 22.10.2025
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 23.10.2025
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 24.10.2025 - 26.10.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 27.10.2025
+
+[Praxis Schuster](tieraerzte/schuster.html)
+-------------------------------------------------------------
+- 28.10.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 29.10.2025
+
+
+- 30.10.2025
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 31.10.2025
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 01.11.2025 - 02.11.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 03.11.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+------------------------------------------------------------
+- 04.11.2025
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 05.11.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------
+- 06.11.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 07.11.2025 - 09.11.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 10.11.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 11.11.2025
+
+ [Praxis von Götz](tieraerzte/von-goetz.html) 
+------------------------------------------------------------- 
+- 12.11.2025
+
+-[Praxis Schuster](tieraerzte/schuster.html)
+------------------------------------------------------------
+- 13.11.2025
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 14.11.2025 - 16.11.2025
+
+
+- 17.11.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 18.11.2025
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 19.11.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 20.11.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 21.11.2025 - 23.11.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 24.11.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 25.11.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------
+- 26.11.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 27.11.2025
+
+-[Praxis Schuster](tieraerzte/schuster.html)
+------------------------------------------------------------
+- 28.11.2025 - 30.11.2025
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 01.12.2025
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 02.12.2025
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 03.12.2025
+
+
+- 04.12.2025
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 05.12.2025 - 07.12.2025
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 08.12.2025
+
+ [Praxis von Götz](tieraerzte/von-goetz.html) 
+------------------------------------------------------------- 
+- 09.12.2025
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 10.12.2025
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 11.12.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 12.12.2025 - 14.12.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+ - 15.12.2025
+
+Tierarztpraxis Paeger
+-----------------------
+- 16.12.2025
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 17.12.2025
+
+-[Praxis Schuster](tieraerzte/schuster.html)
+------------------------------------------------------------
+- 18.12.2025
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 19.12.2025 - 21.12.2025
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+-----------------------------
+- 22.12.2025
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 23.12.2025
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 24.12.2025
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 25.12.2025
+
+-[Praxis Schuster](tieraerzte/schuster.html)
+------------------------------------------------------------
+- 26.12.2025
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 27.12.2025 - 28.12.2025
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 29.12.2025
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 30.12.2025
+
+[Tierarztpraxis Schönfeld](tieraerzte/schönfeld.html)
+-------------------------------------------------------------------------
+- 31.12.2025
+
+
+
   
 
 
@@ -254,6 +469,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
