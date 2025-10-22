@@ -35,7 +35,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 - 21.10.2025
 
-[Praxis Leis](tieraerzte/leis.html)
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 -------------------------------------------------------------
 - 22.10.2025
 
@@ -55,7 +55,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 - 28.10.2025
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+[Praxis Leis](tieraerzte/leis.html)
 ------------------------------------------------------------------------------------
 - 29.10.2025
 
@@ -431,6 +431,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
