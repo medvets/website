@@ -107,7 +107,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------
 - 13.11.2025
 
-[Praxis Daum](tieraerzte/daum.html)
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 14.11.2025 - 16.11.2025
 
@@ -431,6 +432,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
