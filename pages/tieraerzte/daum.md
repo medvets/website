@@ -1,4 +1,4 @@
-title: Tierarztpraxis Krainhagen Claudia Daum
+title: Tierarztpraxis Krainhagener Dorftierarzt Claudia Daum
 
 Telefon: 05724/9770999
 Mobil  :0172/5452269
