@@ -23,65 +23,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 17.10.2025 - 19.10.2025
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 20.10.2025
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 21.10.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
--------------------------------------------------------------
-- 22.10.2025
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 23.10.2025
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 24.10.2025 - 26.10.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 27.10.2025
-
-[Praxis Schuster](tieraerzte/schuster.html)
--------------------------------------------------------------
-- 28.10.2025
-
-[Praxis Leis](tieraerzte/leis.html)
-------------------------------------------------------------------------------------
-- 29.10.2025
-
-[Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
--------------------------------------------------------------------------
-- 30.10.2025
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 31.10.2025
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 01.11.2025 - 02.11.2025
-
-Tierarztpraxis Paeger
------------------------
-- 03.11.2025
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
-------------------------------------------------------------
-- 04.11.2025
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 05.11.2025
 
 Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------
@@ -107,9 +48,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------
 - 13.11.2025
 
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
+[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
+-----------------------------------------------------------------
 - 14.11.2025 - 16.11.2025
 
 [Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
@@ -432,6 +372,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
