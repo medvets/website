@@ -48,7 +48,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------
 - 13.11.2025
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
 -----------------------------------------------------------------
 - 14.11.2025 - 16.11.2025
 
@@ -372,6 +372,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
