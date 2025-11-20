@@ -5,5 +5,5 @@ title: Tierarztpraxis Schönfeld
 Adresse:
 ---------
 
-    In der Ecke 3
+    In der Ecke 1
     31737	Rinteln
