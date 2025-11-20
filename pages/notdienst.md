@@ -92,7 +92,7 @@ Tierarztpraxis Paeger
 ------------------------------------------------------------
 - 28.11.2025 - 30.11.2025
 
-[Praxis Van der Weijden](tieraerzte/anton.html) 
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 01.12.2025
 
@@ -124,8 +124,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 10.12.2025
 
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 11.12.2025
 
 [Praxis Leis](tieraerzte/leis.html)
@@ -372,6 +372,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
