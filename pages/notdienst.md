@@ -174,15 +174,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
-- 27.12.2025 - 28.12.2025
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 29.12.2025
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 30.12.2025
+- 27.12.2025 - 30.12.2025
 
 [Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------------------
@@ -372,6 +364,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
