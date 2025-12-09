@@ -152,13 +152,9 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 19.12.2025 - 21.12.2025
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------
-- 22.12.2025
-
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
-- 23.12.2025
+- 22.12.2025 - 23.12.2025
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
@@ -364,6 +360,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
