@@ -174,7 +174,15 @@ Tierarztpraxis Paeger
 
 [Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------------------
-- 31.12.2025 
+- 31.12.2025 - 01.01.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 02.01.2026 - 04.01.2026
+
+
+
+
 
 
 
@@ -360,6 +368,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
