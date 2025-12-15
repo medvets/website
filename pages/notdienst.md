@@ -216,6 +216,12 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 15.01.2026
 
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 16.01.2026 - 18.01.2026
+
+
+
 
 
 Reguläre Dienstzeiten
@@ -399,6 +405,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
