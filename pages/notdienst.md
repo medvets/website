@@ -454,6 +454,314 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 08.04.2026
+
+- 09.04.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 10.04.2026 - 12.04.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 13.04.2026
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 14.04.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 15.04.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 16.04.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 17.04.2026 - 19.04.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 20.04.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 21.04.2026
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 22.04.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 23.04.2026
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 24.04.2026 - 26.04.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 27.04.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 28.04.2026
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 29.04.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 30.04.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 01.05.2026 - 02.05.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 03.05.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 04.05.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 05.05.2026
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 06.05.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 07.05.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 08.05.2026 - 10.05.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 11.05.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 12.05.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 13.05.2026
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 14.05.2026
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 15.05.2026 - 17.05.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 18.05.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 19.05.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 20.05.2026
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 21.05.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 22.05.2026 - 24.05.2026
+
+- 25.05.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 26.05.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 27.05.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 28.05.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 29.05.2026 - 31.05.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 01.06.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 02.06.2026
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 03.06.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 04.06.2026
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 05.06.2026 - 07.06.2026
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 08.06.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 09.06.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 10.06.2026
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 11.06.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+12.06.2026 - 14.06.2026
+
+
+15.06.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 16.06.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 17.06.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 18.06.2026
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 19.06.2026 - 21.06.2026
+
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 22.06.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 23.06.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 24.06.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 25.06.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 26.06.2026 - 28.06.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 29.06.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 30.06.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 01.07.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 02.07.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 03.07.2026 - 05.07.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 06.07.2026
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 07.07.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 08.07.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 09.07.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 10.07.2026 - 12.07.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 13.07.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 14.07.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 15.07.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 16.07.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 17.07.2026 - 19.07.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 20.07.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 21.07.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 22.07.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 23.07.2026
+
+
+<img width="72" height="1401" alt="image" src="https://github.com/user-attachments/assets/e7781849-e61e-4d20-b0da-641600b57e58" />
+
 Reguläre Dienstzeiten
 ===================================
 
@@ -635,6 +943,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
