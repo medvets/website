@@ -208,8 +208,7 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 13.01.2026
   
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
+
 - 14.01.2026
 
 [Praxis Daum](tieraerzte/daum.html)
@@ -219,6 +218,50 @@ Tierarztpraxis Paeger
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 16.01.2026 - 18.01.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 19.01.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 20.01.2026
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 21.01.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 22.01.2026
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 23.01.2026 - 25.01.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 26.01.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 27.01.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 28.01.2026
+  
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 29.01.2026
+
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 30.01.2026 - 01.02.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 02.02.2026
 
 
 
@@ -405,6 +448,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
