@@ -180,10 +180,41 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 02.01.2026 - 04.01.2026
 
+Tierarztpraxis Paeger
+-----------------------
+- 05.01.2026
 
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 06.01.2026
 
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 07.01.2026
+  
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 08.01.2026
 
+[Tierarztpraxis Bückeburg - Radtke(ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 09.01.2026 - 11.01.2026
 
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 12.01.2026
+  
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 13.01.2026
+  
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 14.01.2026
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 15.01.2026
 
 
 
@@ -368,6 +399,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
