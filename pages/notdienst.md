@@ -964,6 +964,84 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 05.10.2026
 
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 06.10.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 07.10.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 08.10.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 09.10.2026 - 11.10.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 12.10.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 13.10.2026
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 14.10.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 15.10.2026
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 16.10.2026 - 18.10.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 19.10.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 20.10.2026
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 21.10.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 22.10.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 23.10.2026 - 25.10.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 26.10.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 27.10.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 28.10.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 29.10.2026
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 30.10.2026 - 01.11.2026
+
+
+
 
 
 
@@ -1160,6 +1238,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
