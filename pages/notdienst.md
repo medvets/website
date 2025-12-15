@@ -759,6 +759,128 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 23.07.2026
 
+[Praxis Welge](tieraerzte/welge.html)
+-------------------------------------------------------------
+- 24.07.2026 - 26.07.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 27.07.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 28.07.2026
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 29.07.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 30.07.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+- 31.07.2026 - 02.08.2026
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 03.08.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 04.08.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 05.08.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 06.08.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 07.08.2026 -09.08.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 10.08.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 11.08.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 12.08.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 13.08.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 14.08.2026 -16.08.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 17.08.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 18.08.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 19.08.2026
+
+[Praxis Daum](tieraerzte/daum.html)
+-------------------------------------------------------------
+- 20.08.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
+- 21.08.2026 -23.08.2026
+
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 24.08.2026
+
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
+ - 25.08.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 26.08.2026
+
+- 27.08.2026
+
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
+- 28.08.2026 - 30.08.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 31.08.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 01.09.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 02.09.2026
+
+
+
+
+
+
+
+
 
 <img width="72" height="1401" alt="image" src="https://github.com/user-attachments/assets/e7781849-e61e-4d20-b0da-641600b57e58" />
 
@@ -943,6 +1065,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
