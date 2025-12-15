@@ -275,11 +275,9 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 05.02.2026
 
-
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
 - 06.02.2026 - 08.02.2026
-
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
@@ -646,7 +644,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 15.06.2026
 
-[Praxis Van der Weijden](tieraerzte/anton.html) 
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
 - 16.06.2026
 
@@ -957,6 +955,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 [Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
 - 01.10.2026
+  
 
 - 02.10.2026 - 04.10.2026
 
@@ -1111,6 +1110,7 @@ Tierarztpraxis Paeger
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------------------
 - 25.11.2026
+
 
 -26.11.2026
 
@@ -1422,6 +1422,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
