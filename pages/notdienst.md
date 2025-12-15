@@ -874,6 +874,101 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 02.09.2026
 
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 03.09.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 04.09.2026 - 06.09.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 07.09.2026
+
+[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+------------------------------
+- 08.09.2026
+
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
+- 09.09.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 10.09.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 11.09.2026 - 13.09.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 14.09.2026
+
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 15.09.2026
+
+[Praxis Maxheim](tieraerzte/maxheim.html)
+-------------------------------------------------------------
+- 16.09.2026
+
+Tierarztpraxis Paeger
+-----------------------
+- 17.09.2026
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 18.09.2026 - 20.09.2026
+
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+- 21.09.2026
+
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
+- 22.09.2026
+
+Tierarztpraxis an der Weser- Kirchner&Kölling
+------------------------------
+- 23.09.2026
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 24.09.2026
+
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
+- 25.09.2026 - 27.09.2026
+
+[Praxis Van der Weijden](tieraerzte/anton.html) 
+-------------------------------------------------------------
+- 28.09.2026
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
+- 29.09.2026
+
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
+- 30.09.2026
+
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
+- 01.10.2026
+
+- 02.10.2026 - 04.10.2026
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
+- 05.10.2026
+
+
+
+
+
+
 
 
 
@@ -1065,6 +1160,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
