@@ -278,7 +278,6 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------------------------------
 - 18.03.2026
 
-
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 ------------------------------
 - 19.03.2026
@@ -343,6 +342,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 08.04.2026
 
+Tierarztpraxis Roecke
+-----------------------
 - 09.04.2026
 
 [Praxis Leis](tieraerzte/leis.html)
@@ -1300,6 +1301,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
