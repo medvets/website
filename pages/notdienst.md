@@ -22,120 +22,6 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------
-- 06.11.2025
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 07.11.2025 - 09.11.2025
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 10.11.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 11.11.2025
-
- [Praxis von Götz](tieraerzte/von-goetz.html) 
-------------------------------------------------------------- 
-- 12.11.2025
-
--[Praxis Schuster](tieraerzte/schuster.html)
-------------------------------------------------------------
-- 13.11.2025
-
-[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
------------------------------------------------------------------
-- 14.11.2025 - 16.11.2025
-
-[Tierarztpraxis Bückeburg](tieraerzte/radtke.html)
--------------------------------------------------------------------------
-- 17.11.2025
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 18.11.2025
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 19.11.2025
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 20.11.2025
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 21.11.2025 - 23.11.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 24.11.2025
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 25.11.2025
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
------------------------------
-- 26.11.2025
-
-Tierarztpraxis Paeger
------------------------
-- 27.11.2025
-
--[Praxis Schuster](tieraerzte/schuster.html)
-------------------------------------------------------------
-- 28.11.2025 - 30.11.2025
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 01.12.2025
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 02.12.2025
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 03.12.2025
-
-[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
------------------------------------------------------------------
-- 04.12.2025
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 05.12.2025 - 07.12.2025
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 08.12.2025
-
- [Praxis von Götz](tieraerzte/von-goetz.html) 
-------------------------------------------------------------- 
-- 09.12.2025
-
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 10.12.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 11.12.2025
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 12.12.2025 - 14.12.2025
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
- - 15.12.2025
-
 Tierarztpraxis Paeger
 -----------------------
 - 16.12.2025
@@ -208,7 +94,8 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 13.01.2026
   
-
+Tierarztpraxis Roecke
+-----------------------
 - 14.01.2026
 
 [Praxis Daum](tieraerzte/daum.html)
@@ -295,7 +182,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 12.02.2026
 
-
+Tierarztpraxis Roecke
+-----------------------
 - 13.02.2026 - 15.02.2026
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
@@ -338,6 +226,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 27.02.2026 - 01.03.2026
 
+Tierarztpraxis Roecke
+-----------------------
 - 02.03.2026
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
@@ -583,6 +473,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 22.05.2026 - 24.05.2026
 
+Tierarztpraxis Roecke
+-----------------------
 - 25.05.2026
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
@@ -639,10 +531,11 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 
 [Praxis Van der Weijden](tieraerzte/anton.html) 
 -------------------------------------------------------------
-12.06.2026 - 14.06.2026
+- 12.06.2026 - 14.06.2026
 
-
-15.06.2026
+Tierarztpraxis Roecke
+-----------------------
+- 15.06.2026
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
@@ -659,7 +552,6 @@ Tierarztpraxis Paeger
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 -------------------------------------------------------------------------
 - 19.06.2026 - 21.06.2026
-
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
@@ -854,6 +746,8 @@ Tierarztpraxis Paeger
 -----------------------
 - 26.08.2026
 
+Tierarztpraxis Roecke
+-----------------------
 - 27.08.2026
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
@@ -956,7 +850,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 01.10.2026
   
-
+Tierarztpraxis Roecke
+-----------------------
 - 02.10.2026 - 04.10.2026
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
@@ -1111,7 +1006,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------------------
 - 25.11.2026
 
-
+Tierarztpraxis Roecke
+-----------------------
 -26.11.2026
 
 [Praxis Schuster](tieraerzte/finkbeiner.html)
@@ -1222,24 +1118,6 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------------------
 - 31.12.2026 - 01.01.2027
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="72" height="1401" alt="image" src="https://github.com/user-attachments/assets/e7781849-e61e-4d20-b0da-641600b57e58" />
 
 Reguläre Dienstzeiten
 ===================================
@@ -1422,6 +1300,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
