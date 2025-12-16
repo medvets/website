@@ -30,7 +30,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 17.12.2025
 
--[Praxis Schuster](tieraerzte/schuster.html)
+[Praxis Schuster](tieraerzte/schuster.html)
 ------------------------------------------------------------
 - 18.12.2025
 
@@ -50,7 +50,7 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 25.12.2025
 
--[Praxis Schuster](tieraerzte/schuster.html)
+[Praxis Schuster](tieraerzte/schuster.html)
 ------------------------------------------------------------
 - 26.12.2025
 
@@ -1300,6 +1300,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
