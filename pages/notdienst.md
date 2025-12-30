@@ -1013,7 +1013,7 @@ Tierarztpraxis Paeger
 
 Tierarztpraxis Roecke
 -----------------------
--26.11.2026
+- 26.11.2026
 
 [Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
@@ -1305,6 +1305,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
