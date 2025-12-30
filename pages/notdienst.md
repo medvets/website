@@ -58,6 +58,10 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 27.12.2025 - 30.12.2025
 
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+-------------------------------------------------------------------------
+- 30.12.2025 
+
 [Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------------------
 - 31.12.2025 - 01.01.2026
@@ -1301,6 +1305,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
