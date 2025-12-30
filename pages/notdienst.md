@@ -550,7 +550,7 @@ Tierarztpraxis Paeger
 -----------------------
 - 18.06.2026
 
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
+[Tierarztpraxis Lauenau- Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
 -------------------------------------------------------------------------
 - 19.06.2026 - 21.06.2026
 
@@ -1031,7 +1031,7 @@ Tierarztpraxis Roecke
 -------------------------------------------------------------
 - 03.12.2026
 
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
+[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
 ------------------------------
 - 04.12.2026 - 06.12.2026
 
@@ -1301,6 +1301,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
