@@ -22,77 +22,7 @@ Nachfolgend wird die notdiensthabende Praxis angezeigt.
 Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.JJJJ-TT.MM.JJJJ
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
-Tierarztpraxis Paeger
------------------------
-- 16.12.2025
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 17.12.2025
-
-[Praxis Schuster](tieraerzte/schuster.html)
-------------------------------------------------------------
-- 18.12.2025
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 19.12.2025 - 21.12.2025
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 22.12.2025 - 23.12.2025
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 24.12.2025
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 25.12.2025
-
-[Praxis Schuster](tieraerzte/schuster.html)
-------------------------------------------------------------
-- 26.12.2025
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 27.12.2025 - 30.12.2025
-
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 30.12.2025 
-
-[Tierarztpraxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------------------
-- 31.12.2025 - 01.01.2026
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 02.01.2026 - 04.01.2026
-
-Tierarztpraxis Paeger
------------------------
-- 05.01.2026
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 06.01.2026
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 07.01.2026
-  
-[Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
--------------------------------------------------------------------------
-- 08.01.2026
-
-[Tierarztpraxis Bückeburg - Radtke(ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 09.01.2026 - 11.01.2026
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 12.01.2026
   
 [Praxis Schuster](tieraerzte/finkbeiner.html)
 -----------------------------------------------------------
@@ -1305,6 +1235,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
