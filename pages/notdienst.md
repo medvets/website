@@ -234,7 +234,7 @@ Tierarztpraxis Roecke
 -----------------------
 - 02.03.2026
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis Maxheim](tieraerzte/maxheim.html)
 -------------------------------------------------------------
 - 03.03.2026
 
@@ -254,7 +254,7 @@ Tierarztpraxis Roecke
 -----------------------------------------------------------
 - 09.03.2026
 
-[Praxis Maxheim](tieraerzte/maxheim.html)
+[Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 10.03.2026
 
@@ -462,8 +462,8 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 18.05.2026
 
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
+[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
+-------------------------------------------------------------
 - 19.05.2026
 
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
@@ -482,8 +482,8 @@ Tierarztpraxis Roecke
 -----------------------
 - 25.05.2026
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
+[Praxis Beiße](tieraerzte/beisse.html)
+-----------------------------------------------------------
 - 26.05.2026
 
 Tierarztpraxis Paeger
@@ -1305,6 +1305,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
