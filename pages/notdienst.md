@@ -86,11 +86,7 @@ Tierarztpraxis Paeger
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
-- 03.02.2026
-
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
-- 04.02.2026
+- 03.02.2026 - 04.02.2026
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
@@ -120,7 +116,7 @@ Tierarztpraxis Roecke
 -----------------------
 - 13.02.2026 - 15.02.2026
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 16.02.2026
 
@@ -272,7 +268,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 07.04.2026
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 08.04.2026
 
@@ -364,7 +360,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 07.05.2026
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
 - 08.05.2026 - 10.05.2026
 
@@ -705,7 +701,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------------------------------
 - 03.09.2026
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
 - 04.09.2026 - 06.09.2026
 
@@ -765,7 +761,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 24.09.2026
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
+[Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 25.09.2026 - 27.09.2026
 
@@ -1235,6 +1231,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
