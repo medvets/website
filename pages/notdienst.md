@@ -112,8 +112,9 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 12.02.2026
 
-Tierarztpraxis Roecke
------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
+
 - 13.02.2026 - 15.02.2026
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
@@ -132,8 +133,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 19.02.2026
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
+Tierarztpraxis Roecke
+-----------------------
 - 20.02.2026 - 22.02.2026
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
@@ -1231,6 +1232,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
