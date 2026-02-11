@@ -24,85 +24,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 
 
   
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 13.01.2026
-  
-Tierarztpraxis Roecke
------------------------
-- 14.01.2026
 
-[Praxis Daum](tieraerzte/daum.html)
--------------------------------------------------------------
-- 15.01.2026
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 16.01.2026 - 18.01.2026
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 19.01.2026
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 20.01.2026
-
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
--------------------------------------------------------------
-- 21.01.2026
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 22.01.2026
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 23.01.2026 - 25.01.2026
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 26.01.2026
-
-Tierarztpraxis Paeger
------------------------
-- 27.01.2026
-
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 28.01.2026
-  
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 29.01.2026
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 30.01.2026 - 01.02.2026
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 02.02.2026
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 03.02.2026 - 04.02.2026
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 05.02.2026
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 06.02.2026 - 08.02.2026
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 09.02.2026
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 10.02.2026
 
 [Praxis Beiße](tieraerzte/beisse.html)
 -----------------------------------------------------------
@@ -545,8 +467,9 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 10.07.2026 - 12.07.2026
 
-Tierarztpraxis Paeger
------------------------
+
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
 - 13.07.2026
 
 [Praxis Maxheim](tieraerzte/maxheim.html)
@@ -585,8 +508,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 24.07.2026 - 26.07.2026
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
+Tierarztpraxis Paeger
+-----------------------
 - 27.07.2026
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
@@ -1232,6 +1155,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
