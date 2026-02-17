@@ -55,8 +55,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 19.02.2026
 
-Tierarztpraxis Roecke
------------------------
+[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
+-------------------------------------------------------------
 - 20.02.2026 - 22.02.2026
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
@@ -75,8 +75,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 26.02.2026
 
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
+Tierarztpraxis Roecke
+-----------------------
 - 27.02.2026 - 01.03.2026
 
 Tierarztpraxis Roecke
@@ -1155,6 +1155,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
