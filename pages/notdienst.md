@@ -59,8 +59,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 20.02.2026 - 22.02.2026
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
+Tierarztpraxis Paeger
+-----------------------
 - 23.02.2026
 
 [Praxis Extertalbahn](tieraerzte/extertalbahn.html)
@@ -1155,6 +1155,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
