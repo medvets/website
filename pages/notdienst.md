@@ -23,53 +23,7 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-  
 
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 11.02.2026
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 12.02.2026
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-
-- 13.02.2026 - 15.02.2026
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
-- 16.02.2026
-
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 17.02.2026
-
-Tierarztpraxis Paeger
------------------------
-- 18.02.2026
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 19.02.2026
-
-[Praxis Shcherbyna](tieraerzte/shcherbyna.html)
--------------------------------------------------------------
-- 20.02.2026 - 22.02.2026
-
-Tierarztpraxis Paeger
------------------------
-- 23.02.2026
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 24.02.2026
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 25.02.2026
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
@@ -1155,6 +1109,7 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
 
 
 
