@@ -77,12 +77,12 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 16.03.2026
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
-- 17.03.2026
-
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
+- 17.03.2026
+
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
 - 18.03.2026
 
 [Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
