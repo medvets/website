@@ -73,8 +73,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 13.03.2026 - 15.03.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+-----------------------------------------------------------------------------------
 - 16.03.2026
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
