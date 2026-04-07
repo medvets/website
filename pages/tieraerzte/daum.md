@@ -3,7 +3,7 @@ title: Tierarztpraxis Krainhagener Dorftierarzt Claudia Daum
 Telefon: 05724/9770999
 Mobil  :0172/5452269
 
-Nur im Notdienst: 05724/9054990
+Nur im Notdienst: 05724/9054994
 
 Email  : daumvet@gmail.com
 
