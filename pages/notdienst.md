@@ -169,8 +169,8 @@ Tierarztpraxis Roecke
 -------------------------------------------------------------
 - 15.04.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 16.04.2026
 
 [Praxis Maxheim](tieraerzte/maxheim.html)
