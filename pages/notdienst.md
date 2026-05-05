@@ -23,49 +23,6 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 16.04.2026
-
-[Praxis Maxheim](tieraerzte/maxheim.html)
--------------------------------------------------------------
-- 17.04.2026 - 19.04.2026
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 20.04.2026
-
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
-- 21.04.2026
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 22.04.2026
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 23.04.2026
-
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
-- 24.04.2026 - 26.04.2026
-
-Tierarztpraxis Paeger
------------------------
-- 27.04.2026
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 28.04.2026
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 29.04.2026
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 30.04.2026
 
 [Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
 -------------------------------------------------------------
@@ -103,7 +60,7 @@ Tierarztpraxis Paeger
 -----------------------
 - 12.05.2026
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+[Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
 -------------------------------------------------------------
 - 13.05.2026
 
@@ -239,7 +196,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 29.06.2026
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+[Tierarztpraxis Bückeburg - Radtke](tieraerzte/radtke.html)
 -------------------------------------------------------------
 - 30.06.2026
 
