@@ -151,8 +151,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 28.05.2026
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 - 29.05.2026 - 31.05.2026
 
 [Praxis Leis](tieraerzte/leis.html)
@@ -392,8 +392,9 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 20.08.2026
 
-[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
--------------------------------------------------------------
+
+[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
+-----------------------------------------------------------
 - 21.08.2026 -23.08.2026
 
 
@@ -453,8 +454,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 10.09.2026
 
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
+[Tierarztpraxis Bückeburg - Radtke (ehemals Güldenhaupt)](tieraerzte/radtke.html)
+-------------------------------------------------------------
 - 11.09.2026 - 13.09.2026
 
 [Praxis Schuster](tieraerzte/finkbeiner.html)
