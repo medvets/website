@@ -249,8 +249,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -----------------------------------------------------------
 - 16.07.2026
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
+-------------------------------------------------------------
 - 17.07.2026 - 19.07.2026
 
 Tierarztpraxis an der Weser- Kirchner&Kölling
@@ -391,8 +391,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------------------------------------------------------------
 - 03.09.2026
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 - 04.09.2026 - 06.09.2026
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
