@@ -23,56 +23,13 @@ Ein Datum wird in der Form TT.MM.JJJJ angegeben und ein Datumsbereich als TT.MM.
 Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch angezeigt. -->
 
 
-[Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
--------------------------------------------------------------
-- 19.05.2026
-
-[Tierarztpraxis Lauenau - Dr. Fecht & Dr. Pohl](tieraerzte/lauenau.html)
-------------------------------
-- 20.05.2026
-
-[Praxis Welge](tieraerzte/welge.html)
--------------------------------------------------------------
-- 21.05.2026
-
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
--------------------------------------------------------------
-- 22.05.2026 - 24.05.2026
-
-Tierarztpraxis Roecke
------------------------
-- 25.05.2026
-
-[Praxis Beiße](tieraerzte/beisse.html)
------------------------------------------------------------
-- 26.05.2026
-
-Tierarztpraxis Paeger
------------------------
-- 27.05.2026
-
-[Praxis Van der Weijden](tieraerzte/anton.html) 
--------------------------------------------------------------
-- 28.05.2026
-
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
-- 29.05.2026 - 31.05.2026
-
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
-- 01.06.2026
-
-[Praxis Extertalbahn](tieraerzte/extertalbahn.html)
------------------------------------------------------------
-- 02.06.2026
 
 [Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 03.06.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 04.06.2026
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
@@ -83,8 +40,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 08.06.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 09.06.2026
 
 [Praxis Beiße](tieraerzte/beisse.html)
