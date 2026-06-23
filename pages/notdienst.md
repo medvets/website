@@ -112,8 +112,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 02.07.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
 - 03.07.2026 - 05.07.2026
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
@@ -157,8 +157,8 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 -------------------------------------------------------------
 - 17.07.2026 - 19.07.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 20.07.2026
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
@@ -229,8 +229,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 12.08.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 13.08.2026
 
 [Praxis Van der Weijden](tieraerzte/anton.html) 
@@ -279,8 +279,8 @@ Tierarztpraxis Roecke
 -------------------------------------------------------------
 - 28.08.2026 - 30.08.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 31.08.2026
 
 [Praxis Beiße](tieraerzte/beisse.html)
@@ -347,8 +347,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 22.09.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 23.09.2026
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
@@ -423,8 +423,8 @@ Tierarztpraxis Paeger
 -----------------------
 - 19.10.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 20.10.2026
 
 [Praxis Daum](tieraerzte/daum.html)
@@ -635,8 +635,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 29.12.2026
 
-Tierarztpraxis an der Weser- Kirchner&Kölling
-------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 30.12.2026
 
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
