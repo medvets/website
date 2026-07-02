@@ -112,8 +112,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 02.07.2026
 
-[Praxis Schönfeld](tieraerzte/schoenfeld.html)
--------------------------------------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 03.07.2026 - 05.07.2026
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
