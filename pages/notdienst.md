@@ -78,8 +78,7 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 - 17.07.2026 - 19.07.2026
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
+nicht besetzt
 - 20.07.2026
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
