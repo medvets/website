@@ -33,9 +33,13 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 - 02.07.2026
 
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 03.07.2025 - 04.07.2026 (bis 15 Uhr)
+
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
 ------------------------------------------------------------------------------------
-- 03.07.2026 - 05.07.2026
+- 04.07.2026 (ab 15 Uhr) - 05.07.2026
 
 [Praxis Steinbach & Heidemann](tieraerzte/steinbach.html)
 -------------------------------------------------------------
