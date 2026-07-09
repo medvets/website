@@ -82,7 +82,8 @@ Automatisch wird der Notdienst 12 Stunden vorher und 8 Stunden nachher noch ange
 -------------------------------------------------------------
 - 17.07.2026 - 19.07.2026
 
-nicht besetzt
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
+-------------------------------------------------------------
 - 20.07.2026
 
 [Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
