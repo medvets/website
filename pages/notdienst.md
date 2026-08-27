@@ -264,8 +264,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 18.09.2026 - 20.09.2026
 
-[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
-------------------------------------------------------------------------------------
+[Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
 - 21.09.2026
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
@@ -304,8 +304,8 @@ Tierarztpraxis Roecke
 -----------------------
 - 02.10.2026 - 04.10.2026
 
-[Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
+[Praxis Roeckemann & Orphanos](tieraerzte/roeckemann.html)
+------------------------------------------------------------------------------------
 - 05.10.2026
 
 [Tierarztpraxis Bachmann](tieraerzte/bachmann.html)
