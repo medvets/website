@@ -90,11 +90,11 @@ Tierarztpraxis Paeger
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
 -------------------------------------------------------------
-- 18.09.2026 - 20.09.2026
+- 18.09.2026 - 20.09.2026 (bis 8 Uhr)
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
-- 21.09.2026
+- 20.09.2026 ab 8 Uhr- 21.09.2026
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
 -------------------------------------------------------------
@@ -110,7 +110,11 @@ Tierarztpraxis Paeger
 
 [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
-- 25.09.2026 - 27.09.2026
+- 25.09.2026 - 27.09.2026 (bis 8 Uhr)
+
+[Praxis Schönfeld](tieraerzte/schoenfeld.html)
+-------------------------------------------------------------
+- 27.09.2026 ab 8 Uhr
 
 [Praxis Van der Weijden](tieraerzte/anton.html) 
 -------------------------------------------------------------
