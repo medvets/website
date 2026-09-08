@@ -292,8 +292,8 @@ Tierarztpraxis Roecke
 -----------------------
 - 26.11.2026
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
+[Praxis Leis](tieraerzte/leis.html)
+-------------------------------------------------------------
 - 27.11.2026 - 29.11.2026
 
 [Praxis Zimmermann](tieraerzte/zimmermann.html)
@@ -332,8 +332,8 @@ Tierarztpraxis Roecke
 -------------------------------------------------------------
 - 10.12.2026
 
-[Praxis Leis](tieraerzte/leis.html)
--------------------------------------------------------------
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 - 11.12.2026 - 13.12.2026
 
 [Praxis Schönfeld](tieraerzte/schoenfeld.html)
