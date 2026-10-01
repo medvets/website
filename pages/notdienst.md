@@ -164,7 +164,7 @@ Tierarztpraxis Roecke
 -------------------------------------------------------------
 - 13.10.2026
 
-[Praxis Schlingloff](tieraerzte/schlingloff.html)
+[Praxis Van der Weijden](tieraerzte/anton.html) 
 -------------------------------------------------------------
 - 14.10.2026
 
