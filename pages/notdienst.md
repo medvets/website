@@ -203,8 +203,8 @@ Tierarztpraxis Paeger
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 - 27.10.2026
-
-[Praxis von Götz](tieraerzte/von-goetz.html)
+  
+[Praxis Zimmermann](tieraerzte/zimmermann.html)
 -------------------------------------------------------------
 - 28.10.2026
 
@@ -224,7 +224,7 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 03.11.2026
 
-[Praxis Zimmermann](tieraerzte/zimmermann.html)
+ [Praxis von Götz](tieraerzte/von-goetz.html)
 -------------------------------------------------------------
 - 04.11.2026
 
