@@ -224,8 +224,8 @@ Tierarztpraxis Paeger
 -------------------------------------------------------------
 - 03.11.2026
 
- [Praxis von Götz](tieraerzte/von-goetz.html)
--------------------------------------------------------------
+[Praxis Schuster](tieraerzte/finkbeiner.html)
+-----------------------------------------------------------
 - 04.11.2026
 
 [Praxis Maxheim](tieraerzte/maxheim.html)
@@ -244,8 +244,8 @@ Tierarztpraxis Paeger
 -----------------------
 - 10.11.2026
 
-[Praxis Schuster](tieraerzte/finkbeiner.html)
------------------------------------------------------------
+ [Praxis von Götz](tieraerzte/von-goetz.html)
+-------------------------------------------------------------
 - 11.11.2026
 
 [Praxis Shcherbyna](tieraerzte/shcherbyna.html)
