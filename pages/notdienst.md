@@ -360,7 +360,7 @@ Tierarztpraxis Paeger
 -----------------------------------------------------------
 - 21.12.2026
 
-[Praxis Daum](tieraerzte/daum.html)
+[Praxis Schlingloff](tieraerzte/schlingloff.html)
 -------------------------------------------------------------
 - 22.12.2026
 
