@@ -1,4 +1,4 @@
-title: Tierarztpraxis Röckemann und Orphanos, Praxis für Chirurgie (Cert.SAS)
+title: Tierarztpraxis Röckemann und Orphanos, Praxis für Chirurgie (Cert.SAS,Cert.US,Cert.CT)
 
 **Telefon**: 05751 / 8128
 
